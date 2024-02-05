@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-# Paracel_Islands
+# [[Paracel_Islands]]
 
 ```leaflet
 id: Paracel_Islands
@@ -35,7 +35,8 @@ zoomFeatures: true
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Paracel_Islands/
-markerFolder: ./Paracel_Islands/
+markerFolder: ./Paracel_Islands/marker: default,16.451133290235266,111.71199914221955,,,,
+
 ```
 
 
