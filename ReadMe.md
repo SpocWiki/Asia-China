@@ -122,7 +122,7 @@ markerFolder: .//
 [Area-Land::9326410] 
 Continent :: [[Asia]]  
 [VehicleCode::CHN] 
-Capital :: [[China/Counties/Beijing/City/Beijing=Peking]]  
+Capital :: [[provinces~China/Beijing/City/Beijing=Peking]]  
 ![[Coat_of_arms_of_China.svg|350]] 
 ![[Anthem-China.mp3]] 
 ![[Flag_of_China.svg|350]] 
