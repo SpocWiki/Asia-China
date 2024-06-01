@@ -26,8 +26,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- HK
-- HKG
 - Hong Kong
 - China, Hong Kong Special Administrative Region
 - China, región administrativa especial de Hong Kong
