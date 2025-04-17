@@ -18,21 +18,21 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Tabriz,80053]]'
 - '[[/_Standards/WikiData/WD~KwaZulu-Natal,81725]]'
 - '[[/_Standards/WikiData/WD~Hamhung,109356]]'
-- "[[/_Standards/WikiData/WD~Osaka Prefecture,122723]]"
+- "[[/_Standards/WikiData/WD~Osaka_Prefecture,122723]]"
 - '[[/_Standards/WikiData/WD~Aden,131694]]'
 - '[[/_Standards/WikiData/WD~Dunedin,133073]]'
-- "[[/_Standards/WikiData/WD~Nagasaki Prefecture,169376]]"
-- "[[/_Standards/WikiData/WD~Bratislava Region,183498]]"
-- "[[/_Standards/WikiData/WD~Chiang Mai,233588]]"
-- "[[/_Standards/WikiData/WD~Santiago de Cuba Province,234200]]"
+- "[[/_Standards/WikiData/WD~Nagasaki_Prefecture,169376]]"
+- "[[/_Standards/WikiData/WD~Bratislava_Region,183498]]"
+- "[[/_Standards/WikiData/WD~Chiang_Mai,233588]]"
+- "[[/_Standards/WikiData/WD~Santiago_de Cuba Province,234200]]"
 - '[[/_Standards/WikiData/WD~Hirakata,270912]]'
 - '[[/_Standards/WikiData/WD~Neyagawa,389633]]'
 - '[[/_Standards/WikiData/WD~Yao,490872]]'
 - '[[/_Standards/WikiData/WD~Okahandja,597491]]'
 - '[[/_Standards/WikiData/WD~Izumisano,852018]]'
-- "[[/_Standards/WikiData/WD~Nicosia Municipality,56037497]]"
+- "[[/_Standards/WikiData/WD~Nicosia_Municipality,56037497]]"
 - '[[/_Standards/WikiData/WD~Minsk,2280]]'
-- "[[/_Standards/WikiData/WD~East Java,3586]]"
+- "[[/_Standards/WikiData/WD~East_Java,3586]]"
 - '[[/_Standards/WikiData/WD~Jakarta,3630]]'
 - '[[/_Standards/WikiData/WD~Maputo,3889]]'
 - '[[/_Standards/WikiData/WD~Windhoek,3935]]'
@@ -41,16 +41,16 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Antwerp,12892]]'
 - '[[/_Standards/WikiData/WD~Jalisco,13160]]'
 - '[[/_Standards/WikiData/WD~Busan,16520]]'
-- "[[/_Standards/WikiData/WD~City of London,23311]]"
+- "[[/_Standards/WikiData/WD~City_of London,23311]]"
 - '[[/_Standards/WikiData/WD~Marseille,23482]]'
 - '[[/_Standards/WikiData/WD~Liverpool,24826]]'
-- "[[/_Standards/WikiData/WD~Central Denmark,26586]]"
-- "[[/_Standards/WikiData/WD~San Francisco,62]]"
-- "[[/_Standards/WikiData/WD~New York City,60]]"
+- "[[/_Standards/WikiData/WD~Central_Denmark,26586]]"
+- "[[/_Standards/WikiData/WD~San_Francisco,62]]"
+- "[[/_Standards/WikiData/WD~New_York City,60]]"
 - '[[/_Standards/WikiData/WD~Basel,78]]'
 - '[[/_Standards/WikiData/WD~Alexandria,87]]'
 - '[[/_Standards/WikiData/WD~London,84]]'
-- "[[/_Standards/WikiData/WD~São Paulo,174]]"
+- "[[/_Standards/WikiData/WD~São_Paulo,174]]"
 - '[[/_Standards/WikiData/WD~Quebec,176]]'
 - '[[/_Standards/WikiData/WD~Valparaíso,33986]]'
 - '[[/_Standards/WikiData/WD~Rotterdam,34370]]'
@@ -60,17 +60,17 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Queensland,36074]]'
 - '[[/_Standards/WikiData/WD~Porto,36433]]'
 - '[[/_Standards/WikiData/WD~Cork,36647]]'
-- "[[/_Standards/WikiData/WD~Port Vila,37806]]"
+- "[[/_Standards/WikiData/WD~Port_Vila,37806]]"
 - '[[/_Standards/WikiData/WD~Yokohama,38283]]'
-- "[[/_Standards/WikiData/WD~North Jeolla,41157]]"
-- "[[/_Standards/WikiData/WD~South Jeolla,41161]]"
+- "[[/_Standards/WikiData/WD~North_Jeolla,41157]]"
+- "[[/_Standards/WikiData/WD~South_Jeolla,41161]]"
 - '[[/_Standards/WikiData/WD~Haifa,41621]]'
 - '[[/_Standards/WikiData/WD~Guayaquil,43509]]'
 - '[[/_Standards/WikiData/WD~Espoo,47034]]'
 - '[[/_Standards/WikiData/WD~Winston-Salem,49227]]'
-- "[[/_Standards/WikiData/WD~Gothenburg Municipality,52502]]"
+- "[[/_Standards/WikiData/WD~Gothenburg_Municipality,52502]]"
 - '[[/_Standards/WikiData/WD~Rosario,52535]]'
-- "[[/_Standards/WikiData/WD~Pomeranian Voivodeship,54180]]"
+- "[[/_Standards/WikiData/WD~Pomeranian_Voivodeship,54180]]"
 - '[[/_Standards/WikiData/WD~Piraeus,58976]]'
 - '[[/_Standards/WikiData/WD~Tashkent,269]]'
 - '[[/_Standards/WikiData/WD~Montreal,340]]'
@@ -80,7 +80,7 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Oslo,585]]'
 - '[[/_Standards/WikiData/WD~Dubai,612]]'
 - '[[/_Standards/WikiData/WD~Lille,648]]'
-- "[[/_Standards/WikiData/WD~Saint Petersburg,656]]"
+- "[[/_Standards/WikiData/WD~Saint_Petersburg,656]]"
 - '[[/_Standards/WikiData/WD~Vladivostok,959]]'
 - '[[/_Standards/WikiData/WD~Hamburg,1055]]'
 - '[[/_Standards/WikiData/WD~Prague,1085]]'
@@ -90,33 +90,33 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Barcelona,1492]]'
 - '[[/_Standards/WikiData/WD~Budapest,1781]]'
 - '[[/_Standards/WikiData/WD~Gdańsk,1792]]'
-- "[[/_Standards/WikiData/WD~Phnom Penh,1850]]"
-- "[[/_Standards/WikiData/WD~Ho Chi Minh City,1854]]"
+- "[[/_Standards/WikiData/WD~Phnom_Penh,1850]]"
+- "[[/_Standards/WikiData/WD~Ho_Chi Minh City,1854]]"
 - '[[/_Standards/WikiData/WD~Bangkok,1861]]'
 - '[[/_Standards/WikiData/WD~Yerevan,1953]]'
 located_in_or_next_to_body_of_water:
-- "[[/_Standards/WikiData/WD~Huangpu River,99785]]"
-- "[[/_Standards/WikiData/WD~Suzhou Creek,907674]]"
-- "[[/_Standards/WikiData/WD~Dianshan Lake,2665600]]"
+- "[[/_Standards/WikiData/WD~Huangpu_River,99785]]"
+- "[[/_Standards/WikiData/WD~Suzhou_Creek,907674]]"
+- "[[/_Standards/WikiData/WD~Dianshan_Lake,2665600]]"
 - '[[/_Standards/WikiData/WD~Yangtze,5413]]'
-- "[[/_Standards/WikiData/WD~East China Sea,45341]]"
+- "[[/_Standards/WikiData/WD~East_China Sea,45341]]"
 contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Pudong,125378]]'
-- "[[/_Standards/WikiData/WD~Huangpu District,660185]]"
-- "[[/_Standards/WikiData/WD~Changning District,660626]]"
-- "[[/_Standards/WikiData/WD~Jing'an District,660789]]"
-- "[[/_Standards/WikiData/WD~Putuo District,660952]]"
+- "[[/_Standards/WikiData/WD~Huangpu_District,660185]]"
+- "[[/_Standards/WikiData/WD~Changning_District,660626]]"
+- "[[/_Standards/WikiData/WD~Jing'an_District,660789]]"
+- "[[/_Standards/WikiData/WD~Putuo_District,660952]]"
 - '[[/_Standards/WikiData/WD~Hongkou,661364]]'
-- "[[/_Standards/WikiData/WD~Yangpu District,661533]]"
-- "[[/_Standards/WikiData/WD~Minhang District,661695]]"
-- "[[/_Standards/WikiData/WD~Baoshan District,661828]]"
+- "[[/_Standards/WikiData/WD~Yangpu_District,661533]]"
+- "[[/_Standards/WikiData/WD~Minhang_District,661695]]"
+- "[[/_Standards/WikiData/WD~Baoshan_District,661828]]"
 - '[[/_Standards/WikiData/WD~Jiading,662101]]'
-- "[[/_Standards/WikiData/WD~Jinshan District,662241]]"
+- "[[/_Standards/WikiData/WD~Jinshan_District,662241]]"
 - '[[/_Standards/WikiData/WD~Songjiang,662380]]'
 - '[[/_Standards/WikiData/WD~Qingpu,662548]]'
-- "[[/_Standards/WikiData/WD~Fengxian District,662694]]"
-- "[[/_Standards/WikiData/WD~Chongming District,788812]]"
-- "[[/_Standards/WikiData/WD~Xuhui District,57002]]"
+- "[[/_Standards/WikiData/WD~Fengxian_District,662694]]"
+- "[[/_Standards/WikiData/WD~Chongming_District,788812]]"
+- "[[/_Standards/WikiData/WD~Xuhui_District,57002]]"
 has_part_s_:
 - '[[/_Standards/WikiData/WD~Pudong,125378]]'
 - '[[/_Standards/WikiData/WD~Puxi,150041]]'
@@ -125,45 +125,45 @@ has_part_s_:
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~global city,208511]]"
-- "[[/_Standards/WikiData/WD~national central city,1066538]]"
-- "[[/_Standards/WikiData/WD~Economic and Technological Development Zones,1073535]]"
-- "[[/_Standards/WikiData/WD~direct-administered municipality,1208802]]"
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~port settlement,2264924]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-owner_of: "[[/_Standards/WikiData/WD~Hongkou Football Stadium,201773]]"
+- "[[/_Standards/WikiData/WD~global_city,208511]]"
+- "[[/_Standards/WikiData/WD~national_central city,1066538]]"
+- "[[/_Standards/WikiData/WD~Economic_and Technological Development Zones,1073535]]"
+- "[[/_Standards/WikiData/WD~direct-administered_municipality,1208802]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~port_settlement,2264924]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+owner_of: "[[/_Standards/WikiData/WD~Hongkou_Football Stadium,201773]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[/_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
-- "[[/_Standards/WikiData/WD~Desktop Encyclopedic Dictionary,63284758]]"
-capital: "[[/_Standards/WikiData/WD~Huangpu District,660185]]"
-official_symbol: "[[/_Standards/WikiData/WD~Magnolia denudata,794061]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Jewish_Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica Ninth Edition,20096917]]"
+- "[[/_Standards/WikiData/WD~Desktop_Encyclopedic Dictionary,63284758]]"
+capital: "[[/_Standards/WikiData/WD~Huangpu_District,660185]]"
+official_symbol: "[[/_Standards/WikiData/WD~Magnolia_denudata,794061]]"
 part_of:
-- "[[/_Standards/WikiData/WD~East China,1062525]]"
-- "[[/_Standards/WikiData/WD~direct-administered municipality,1208802]]"
+- "[[/_Standards/WikiData/WD~East_China,1062525]]"
+- "[[/_Standards/WikiData/WD~direct-administered_municipality,1208802]]"
 member_of:
-- "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
-- "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
-located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Yangtze Delta,1195076]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Shanghai,5535230]]"
+- "[[/_Standards/WikiData/WD~Creative_Cities Network,1139352]]"
+- "[[/_Standards/WikiData/WD~World_Tourism Cities Federation,67652870]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Yangtze_Delta,1195076]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of Shanghai,5535230]]"
 topic_s_main_template: '[[/_Standards/WikiData/WD~Template_Shanghai,6428445]]'
-head_of_government: "[[/_Standards/WikiData/WD~Gong Zheng,8964883]]"
-party_chief_representative: "[[/_Standards/WikiData/WD~Chen Jining,9364514]]"
+head_of_government: "[[/_Standards/WikiData/WD~Gong_Zheng,8964883]]"
+party_chief_representative: "[[/_Standards/WikiData/WD~Chen_Jining,9364514]]"
 replaces: '[[/_Standards/WikiData/WD~Shang-hai,10867816]]'
-executive_body: "[[/_Standards/WikiData/WD~Shanghai Municipal People's Government,10867824]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Shanghai,10868017]]"
+executive_body: "[[/_Standards/WikiData/WD~Shanghai_Municipal People's Government,10867824]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of Shanghai,10868017]]"
 topic_s_main_Wikimedia_portal: '[[/_Standards/WikiData/WD~Portal_Shanghai,10984802]]'
 has_list: '[[/_Standards/WikiData/WD~Q11359580,11359580]]'
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Shanghai,16926480]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~mayor of Shanghai,17281242]]"
-legislative_body: "[[/_Standards/WikiData/WD~Shanghai People's Congress,20687987]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of Shanghai,16926480]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~mayor_of Shanghai,17281242]]"
+legislative_body: "[[/_Standards/WikiData/WD~Shanghai_People's Congress,20687987]]"
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q22828200,22828200]]'
-highest_point: "[[/_Standards/WikiData/WD~Mount Dajin,28542133]]"
+highest_point: "[[/_Standards/WikiData/WD~Mount_Dajin,28542133]]"
 said_to_be_the_same_as: '[[/_Standards/WikiData/WD~Modu,100935224]]'
 geoshape: "http://commons.wikimedia.org/data/main/Data:China/Shanghai.map"
 panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/003shanghai%20waitan.jpg"
@@ -186,12 +186,12 @@ shares_border_with:
 - '[[/_Standards/WikiData/WD~Zhejiang,16967]]'
 - '[[/_Standards/WikiData/WD~Suzhou,42622]]'
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
-located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~People's Republic of China,148]]"
-country: "[[/_Standards/WikiData/WD~People's Republic of China,148]]"
+located_in_the_administrative_territorial_entity: "[[/_Standards/WikiData/WD~People's_Republic of China,148]]"
+country: "[[/_Standards/WikiData/WD~People's_Republic of China,148]]"
 elevation_above_sea_level: 4
 vehicles_per_thousand_people: 33
 language_used:
-- "[[/_Standards/WikiData/WD~Wu Chinese,34290]]"
+- "[[/_Standards/WikiData/WD~Wu_Chinese,34290]]"
 - '[[/_Standards/WikiData/WD~Shanghainese,36718]]'
 China_administrative_division_code: 31
 local_dialing_code: 21
