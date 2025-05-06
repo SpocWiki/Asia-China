@@ -13,7 +13,7 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Paracel_Islands
+- Paracel Islands
 
 Languages:
 - de

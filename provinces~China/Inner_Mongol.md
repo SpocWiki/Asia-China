@@ -13,7 +13,8 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Inner_Mongol
+- Inner Mongol
+- Inner Mongolia
 
 Languages:
 - de

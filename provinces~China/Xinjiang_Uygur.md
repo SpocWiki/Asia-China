@@ -14,6 +14,8 @@ tags:
 - geo/Country/Region
 aliases:
 - Xinjiang
+- Xinjiang Uygur
+- Xinjiang Uyghur
 
 Languages:
 - de
