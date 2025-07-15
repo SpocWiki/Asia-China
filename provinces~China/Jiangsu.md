@@ -40,11 +40,18 @@ markerFolder: ./Jiangsu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu|Jiangsu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.public|Jiangsu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.internal|Jiangsu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.protect|Jiangsu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.private|Jiangsu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.personal|Jiangsu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangsu.secret|Jiangsu.secret]] 
+
+### #is_/same_as :: [Jiangsu](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.md) 
+
+### #is_/same_as :: [Jiangsu.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.public.md) 
+
+### #is_/same_as :: [Jiangsu.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.internal.md) 
+
+### #is_/same_as :: [Jiangsu.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.protect.md) 
+
+### #is_/same_as :: [Jiangsu.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.private.md) 
+
+### #is_/same_as :: [Jiangsu.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.personal.md) 
+
+### #is_/same_as :: [Jiangsu.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu.secret.md)
 

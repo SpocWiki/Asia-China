@@ -40,11 +40,18 @@ markerFolder: ./Wong_Tai_Sin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin|Wong_Tai_Sin]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.public|Wong_Tai_Sin.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.internal|Wong_Tai_Sin.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.protect|Wong_Tai_Sin.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.private|Wong_Tai_Sin.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.personal|Wong_Tai_Sin.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.secret|Wong_Tai_Sin.secret]] 
+
+### #is_/same_as :: [Wong_Tai_Sin](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.public.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.internal.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.protect.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.private.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.personal.md) 
+
+### #is_/same_as :: [Wong_Tai_Sin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Wong_Tai_Sin.secret.md)
 

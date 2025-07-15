@@ -40,11 +40,18 @@ markerFolder: ./Hong_Kong~Southern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern|Hong_Kong~Southern]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.public|Hong_Kong~Southern.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.internal|Hong_Kong~Southern.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.protect|Hong_Kong~Southern.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.private|Hong_Kong~Southern.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.personal|Hong_Kong~Southern.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.secret|Hong_Kong~Southern.secret]] 
+
+### #is_/same_as :: [Hong_Kong~Southern](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.public.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.internal.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.protect.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.private.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.personal.md) 
+
+### #is_/same_as :: [Hong_Kong~Southern.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Southern.secret.md)
 

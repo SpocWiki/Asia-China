@@ -40,11 +40,18 @@ markerFolder: ./Sichuan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Sichuan|Sichuan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.public|Sichuan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.internal|Sichuan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.protect|Sichuan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.private|Sichuan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.personal|Sichuan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Sichuan.secret|Sichuan.secret]] 
+
+### #is_/same_as :: [Sichuan](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.md) 
+
+### #is_/same_as :: [Sichuan.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.public.md) 
+
+### #is_/same_as :: [Sichuan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.internal.md) 
+
+### #is_/same_as :: [Sichuan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.protect.md) 
+
+### #is_/same_as :: [Sichuan.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.private.md) 
+
+### #is_/same_as :: [Sichuan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.personal.md) 
+
+### #is_/same_as :: [Sichuan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan.secret.md)
 

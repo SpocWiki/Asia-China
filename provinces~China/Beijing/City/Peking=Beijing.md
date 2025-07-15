@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing|Peking=Beijing]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.public|Peking=Beijing.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.internal|Peking=Beijing.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.protect|Peking=Beijing.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.private|Peking=Beijing.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.personal|Peking=Beijing.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/City/Peking=Beijing.secret|Peking=Beijing.secret]] 
+
+### #is_/same_as :: [Peking=Beijing](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.md) 
+
+### #is_/same_as :: [Peking=Beijing.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.public.md) 
+
+### #is_/same_as :: [Peking=Beijing.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.internal.md) 
+
+### #is_/same_as :: [Peking=Beijing.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.protect.md) 
+
+### #is_/same_as :: [Peking=Beijing.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.private.md) 
+
+### #is_/same_as :: [Peking=Beijing.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.personal.md) 
+
+### #is_/same_as :: [Peking=Beijing.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.secret.md)
+

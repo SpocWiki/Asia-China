@@ -40,11 +40,18 @@ markerFolder: ./Jilin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Jilin|Jilin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jilin.public|Jilin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.internal|Jilin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jilin.protect|Jilin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jilin.private|Jilin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jilin.personal|Jilin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jilin.secret|Jilin.secret]] 
+
+### #is_/same_as :: [Jilin](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.md) 
+
+### #is_/same_as :: [Jilin.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.public.md) 
+
+### #is_/same_as :: [Jilin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.internal.md) 
+
+### #is_/same_as :: [Jilin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.protect.md) 
+
+### #is_/same_as :: [Jilin.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.private.md) 
+
+### #is_/same_as :: [Jilin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.personal.md) 
+
+### #is_/same_as :: [Jilin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jilin.secret.md)
 

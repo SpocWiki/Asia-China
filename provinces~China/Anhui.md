@@ -40,11 +40,18 @@ markerFolder: ./Anhui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Anhui|Anhui]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Anhui.public|Anhui.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.internal|Anhui.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Anhui.protect|Anhui.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Anhui.private|Anhui.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Anhui.personal|Anhui.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Anhui.secret|Anhui.secret]] 
+
+### #is_/same_as :: [Anhui](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.md) 
+
+### #is_/same_as :: [Anhui.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.public.md) 
+
+### #is_/same_as :: [Anhui.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.internal.md) 
+
+### #is_/same_as :: [Anhui.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.protect.md) 
+
+### #is_/same_as :: [Anhui.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.private.md) 
+
+### #is_/same_as :: [Anhui.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.personal.md) 
+
+### #is_/same_as :: [Anhui.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Anhui.secret.md)
 

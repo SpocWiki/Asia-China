@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 40.2
 - 116.6
@@ -267,11 +267,18 @@ markerFolder: ./Beijing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Beijing|Beijing]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Beijing.public|Beijing.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.internal|Beijing.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Beijing.protect|Beijing.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Beijing.private|Beijing.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Beijing.personal|Beijing.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Beijing.secret|Beijing.secret]] 
+
+### #is_/same_as :: [Beijing](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.md) 
+
+### #is_/same_as :: [Beijing.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.public.md) 
+
+### #is_/same_as :: [Beijing.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.internal.md) 
+
+### #is_/same_as :: [Beijing.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.protect.md) 
+
+### #is_/same_as :: [Beijing.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.private.md) 
+
+### #is_/same_as :: [Beijing.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.personal.md) 
+
+### #is_/same_as :: [Beijing.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing.secret.md)
 

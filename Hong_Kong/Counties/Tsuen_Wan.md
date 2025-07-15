@@ -40,11 +40,18 @@ markerFolder: ./Tsuen_Wan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan|Tsuen_Wan]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.public|Tsuen_Wan.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.internal|Tsuen_Wan.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.protect|Tsuen_Wan.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.private|Tsuen_Wan.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.personal|Tsuen_Wan.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.secret|Tsuen_Wan.secret]] 
+
+### #is_/same_as :: [Tsuen_Wan](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.md) 
+
+### #is_/same_as :: [Tsuen_Wan.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.public.md) 
+
+### #is_/same_as :: [Tsuen_Wan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.internal.md) 
+
+### #is_/same_as :: [Tsuen_Wan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.protect.md) 
+
+### #is_/same_as :: [Tsuen_Wan.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.private.md) 
+
+### #is_/same_as :: [Tsuen_Wan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.personal.md) 
+
+### #is_/same_as :: [Tsuen_Wan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.secret.md)
 

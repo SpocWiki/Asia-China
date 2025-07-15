@@ -41,11 +41,18 @@ markerFolder: ./Ningxia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Ningxia|Ningxia]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.public|Ningxia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.internal|Ningxia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.protect|Ningxia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.private|Ningxia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.personal|Ningxia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Ningxia.secret|Ningxia.secret]] 
+
+### #is_/same_as :: [Ningxia_Hui](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.md) 
+
+### #is_/same_as :: [Ningxia_Hui.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.public.md) 
+
+### #is_/same_as :: [Ningxia_Hui.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.internal.md) 
+
+### #is_/same_as :: [Ningxia_Hui.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.protect.md) 
+
+### #is_/same_as :: [Ningxia_Hui.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.private.md) 
+
+### #is_/same_as :: [Ningxia_Hui.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.personal.md) 
+
+### #is_/same_as :: [Ningxia_Hui.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Ningxia_Hui.secret.md)
 

@@ -41,11 +41,18 @@ markerFolder: ./Xizang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Xizang|Xizang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Xizang.public|Xizang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.internal|Xizang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Xizang.protect|Xizang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Xizang.private|Xizang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Xizang.personal|Xizang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Xizang.secret|Xizang.secret]] 
+
+### #is_/same_as :: [Tibet](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.md) 
+
+### #is_/same_as :: [Tibet.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.public.md) 
+
+### #is_/same_as :: [Tibet.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.internal.md) 
+
+### #is_/same_as :: [Tibet.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.protect.md) 
+
+### #is_/same_as :: [Tibet.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.private.md) 
+
+### #is_/same_as :: [Tibet.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.personal.md) 
+
+### #is_/same_as :: [Tibet.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet.secret.md)
 

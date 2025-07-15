@@ -1,4 +1,4 @@
-﻿---
+---
 location: [41.57,106.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Urghendj|Urghendj]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urghendj.public|Urghendj.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urghendj.internal|Urghendj.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urghendj.protect|Urghendj.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urghendj.private|Urghendj.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urghendj.personal|Urghendj.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urghendj.secret|Urghendj.secret]] 
+
+### #is_/same_as :: [Urghendj](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.md) 
+
+### #is_/same_as :: [Urghendj.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.public.md) 
+
+### #is_/same_as :: [Urghendj.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.internal.md) 
+
+### #is_/same_as :: [Urghendj.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.protect.md) 
+
+### #is_/same_as :: [Urghendj.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.private.md) 
+
+### #is_/same_as :: [Urghendj.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.personal.md) 
+
+### #is_/same_as :: [Urghendj.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.secret.md)
+

@@ -30,10 +30,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/City/Nanking|Nanking]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/City/Nanking.public|Nanking.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/City/Nanking.internal|Nanking.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/City/Nanking.protect|Nanking.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/City/Nanking.private|Nanking.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/City/Nanking.personal|Nanking.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/City/Nanking.secret|Nanking.secret]] 
+
+### #is_/same_as :: [Nanking](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.md) 
+
+### #is_/same_as :: [Nanking.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.public.md) 
+
+### #is_/same_as :: [Nanking.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.internal.md) 
+
+### #is_/same_as :: [Nanking.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.protect.md) 
+
+### #is_/same_as :: [Nanking.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.private.md) 
+
+### #is_/same_as :: [Nanking.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.personal.md) 
+
+### #is_/same_as :: [Nanking.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.secret.md)
+

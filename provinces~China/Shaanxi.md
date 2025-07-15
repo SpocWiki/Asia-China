@@ -40,11 +40,18 @@ markerFolder: ./Shaanxi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi|Shaanxi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.public|Shaanxi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.internal|Shaanxi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.protect|Shaanxi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.private|Shaanxi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.personal|Shaanxi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shaanxi.secret|Shaanxi.secret]] 
+
+### #is_/same_as :: [Shaanxi](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.md) 
+
+### #is_/same_as :: [Shaanxi.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.public.md) 
+
+### #is_/same_as :: [Shaanxi.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.internal.md) 
+
+### #is_/same_as :: [Shaanxi.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.protect.md) 
+
+### #is_/same_as :: [Shaanxi.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.private.md) 
+
+### #is_/same_as :: [Shaanxi.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.personal.md) 
+
+### #is_/same_as :: [Shaanxi.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi.secret.md)
 

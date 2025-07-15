@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin|Tianjin=Tientsin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.public|Tianjin=Tientsin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.internal|Tianjin=Tientsin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.protect|Tianjin=Tientsin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.private|Tianjin=Tientsin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.personal|Tianjin=Tientsin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/City/Tianjin=Tientsin.secret|Tianjin=Tientsin.secret]] 
+
+### #is_/same_as :: [Tianjin=Tientsin](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.public.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.internal.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.protect.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.private.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.personal.md) 
+
+### #is_/same_as :: [Tianjin=Tientsin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.secret.md)
+

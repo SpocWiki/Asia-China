@@ -40,11 +40,18 @@ markerFolder: ./Hubei/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Hubei|Hubei]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hubei.public|Hubei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.internal|Hubei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hubei.protect|Hubei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hubei.private|Hubei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hubei.personal|Hubei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hubei.secret|Hubei.secret]] 
+
+### #is_/same_as :: [Hubei](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.md) 
+
+### #is_/same_as :: [Hubei.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.public.md) 
+
+### #is_/same_as :: [Hubei.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.internal.md) 
+
+### #is_/same_as :: [Hubei.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.protect.md) 
+
+### #is_/same_as :: [Hubei.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.private.md) 
+
+### #is_/same_as :: [Hubei.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.personal.md) 
+
+### #is_/same_as :: [Hubei.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei.secret.md)
 

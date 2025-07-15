@@ -40,11 +40,18 @@ markerFolder: ./Macau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Macau|Macau]] 
-- [[../../../../../../_public/geo/Continent/Asia/Asia~East/China/Macau.public|Macau.public]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Macau.internal|Macau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Macau.protect|Macau.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Asia~East/China/Macau.private|Macau.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Macau.personal|Macau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Macau.secret|Macau.secret]] 
+
+### #is_/same_as :: [Macau,China](/_Standards/Earth/Continent/Asia/Asia~East/China/Macau,China.md) 
+
+### #is_/same_as :: [Macau,China.public](/_public/Earth/Continent/Asia/Asia~East/China/Macau,China.public.md) 
+
+### #is_/same_as :: [Macau,China.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Macau,China.internal.md) 
+
+### #is_/same_as :: [Macau,China.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Macau,China.protect.md) 
+
+### #is_/same_as :: [Macau,China.private](/_private/Earth/Continent/Asia/Asia~East/China/Macau,China.private.md) 
+
+### #is_/same_as :: [Macau,China.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Macau,China.personal.md) 
+
+### #is_/same_as :: [Macau,China.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Macau,China.secret.md)
 

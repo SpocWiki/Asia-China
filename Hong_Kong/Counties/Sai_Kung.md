@@ -40,11 +40,18 @@ markerFolder: ./Sai_Kung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung|Sai_Kung]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.public|Sai_Kung.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.internal|Sai_Kung.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.protect|Sai_Kung.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.private|Sai_Kung.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.personal|Sai_Kung.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.secret|Sai_Kung.secret]] 
+
+### #is_/same_as :: [Sai_Kung](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.md) 
+
+### #is_/same_as :: [Sai_Kung.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.public.md) 
+
+### #is_/same_as :: [Sai_Kung.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.internal.md) 
+
+### #is_/same_as :: [Sai_Kung.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.protect.md) 
+
+### #is_/same_as :: [Sai_Kung.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.private.md) 
+
+### #is_/same_as :: [Sai_Kung.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.personal.md) 
+
+### #is_/same_as :: [Sai_Kung.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sai_Kung.secret.md)
 

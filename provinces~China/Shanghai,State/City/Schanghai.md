@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/City/Schanghai|Schanghai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/City/Schanghai.public|Schanghai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/City/Schanghai.internal|Schanghai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/City/Schanghai.protect|Schanghai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/City/Schanghai.private|Schanghai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/City/Schanghai.personal|Schanghai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/City/Schanghai.secret|Schanghai.secret]] 
+
+### #is_/same_as :: [Schanghai](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.md) 
+
+### #is_/same_as :: [Schanghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.public.md) 
+
+### #is_/same_as :: [Schanghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.internal.md) 
+
+### #is_/same_as :: [Schanghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.protect.md) 
+
+### #is_/same_as :: [Schanghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.private.md) 
+
+### #is_/same_as :: [Schanghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.personal.md) 
+
+### #is_/same_as :: [Schanghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.secret.md)
+

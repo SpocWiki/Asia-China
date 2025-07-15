@@ -40,11 +40,18 @@ markerFolder: ./Yunnan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Yunnan|Yunnan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.public|Yunnan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.internal|Yunnan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.protect|Yunnan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.private|Yunnan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.personal|Yunnan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Yunnan.secret|Yunnan.secret]] 
+
+### #is_/same_as :: [Yunnan](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.md) 
+
+### #is_/same_as :: [Yunnan.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.public.md) 
+
+### #is_/same_as :: [Yunnan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.internal.md) 
+
+### #is_/same_as :: [Yunnan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.protect.md) 
+
+### #is_/same_as :: [Yunnan.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.private.md) 
+
+### #is_/same_as :: [Yunnan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.personal.md) 
+
+### #is_/same_as :: [Yunnan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan.secret.md)
 

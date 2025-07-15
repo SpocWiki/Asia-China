@@ -41,11 +41,18 @@ markerFolder: ./Paracel_Islands/marker: default,16.451133290235266,111.711999142
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands|Paracel_Islands]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.public|Paracel_Islands.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.internal|Paracel_Islands.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.protect|Paracel_Islands.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.private|Paracel_Islands.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.personal|Paracel_Islands.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Paracel_Islands.secret|Paracel_Islands.secret]] 
+
+### #is_/same_as :: [Paracel_Islands](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.md) 
+
+### #is_/same_as :: [Paracel_Islands.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.public.md) 
+
+### #is_/same_as :: [Paracel_Islands.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.internal.md) 
+
+### #is_/same_as :: [Paracel_Islands.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.protect.md) 
+
+### #is_/same_as :: [Paracel_Islands.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.private.md) 
+
+### #is_/same_as :: [Paracel_Islands.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.personal.md) 
+
+### #is_/same_as :: [Paracel_Islands.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Paracel_Islands.secret.md)
 

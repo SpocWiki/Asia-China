@@ -40,11 +40,18 @@ markerFolder: ./Liaoning/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Liaoning|Liaoning]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.public|Liaoning.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.internal|Liaoning.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.protect|Liaoning.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.private|Liaoning.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.personal|Liaoning.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Liaoning.secret|Liaoning.secret]] 
+
+### #is_/same_as :: [Liaoning](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.md) 
+
+### #is_/same_as :: [Liaoning.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.public.md) 
+
+### #is_/same_as :: [Liaoning.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.internal.md) 
+
+### #is_/same_as :: [Liaoning.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.protect.md) 
+
+### #is_/same_as :: [Liaoning.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.private.md) 
+
+### #is_/same_as :: [Liaoning.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.personal.md) 
+
+### #is_/same_as :: [Liaoning.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.secret.md)
 

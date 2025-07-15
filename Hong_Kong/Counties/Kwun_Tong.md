@@ -40,11 +40,18 @@ markerFolder: ./Kwun_Tong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong|Kwun_Tong]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.public|Kwun_Tong.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.internal|Kwun_Tong.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.protect|Kwun_Tong.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.private|Kwun_Tong.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.personal|Kwun_Tong.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.secret|Kwun_Tong.secret]] 
+
+### #is_/same_as :: [Kwun_Tong](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.md) 
+
+### #is_/same_as :: [Kwun_Tong.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.public.md) 
+
+### #is_/same_as :: [Kwun_Tong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.internal.md) 
+
+### #is_/same_as :: [Kwun_Tong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.protect.md) 
+
+### #is_/same_as :: [Kwun_Tong.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.private.md) 
+
+### #is_/same_as :: [Kwun_Tong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.personal.md) 
+
+### #is_/same_as :: [Kwun_Tong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwun_Tong.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 22.25
 - 114.17
@@ -406,10 +406,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong|Hong_Kong]] 
-- [[../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong.public|Hong_Kong.public]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong.internal|Hong_Kong.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong.protect|Hong_Kong.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong.private|Hong_Kong.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong.personal|Hong_Kong.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong.secret|Hong_Kong.secret]] 
+
+### #is_/same_as :: [Hong_Kong](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong.md) 
+
+### #is_/same_as :: [Hong_Kong.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong.public.md) 
+
+### #is_/same_as :: [Hong_Kong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong.internal.md) 
+
+### #is_/same_as :: [Hong_Kong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong.protect.md) 
+
+### #is_/same_as :: [Hong_Kong.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong.private.md) 
+
+### #is_/same_as :: [Hong_Kong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong.personal.md) 
+
+### #is_/same_as :: [Hong_Kong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong.secret.md)
+

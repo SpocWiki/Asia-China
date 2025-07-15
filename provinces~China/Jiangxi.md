@@ -40,11 +40,18 @@ markerFolder: ./Jiangxi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi|Jiangxi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.public|Jiangxi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.internal|Jiangxi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.protect|Jiangxi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.private|Jiangxi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.personal|Jiangxi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Jiangxi.secret|Jiangxi.secret]] 
+
+### #is_/same_as :: [Jiangxi](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.md) 
+
+### #is_/same_as :: [Jiangxi.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.public.md) 
+
+### #is_/same_as :: [Jiangxi.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.internal.md) 
+
+### #is_/same_as :: [Jiangxi.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.protect.md) 
+
+### #is_/same_as :: [Jiangxi.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.private.md) 
+
+### #is_/same_as :: [Jiangxi.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.personal.md) 
+
+### #is_/same_as :: [Jiangxi.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.secret.md)
 

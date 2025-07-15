@@ -40,11 +40,18 @@ markerFolder: ./Shandong/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Shandong|Shandong]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Shandong.public|Shandong.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.internal|Shandong.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Shandong.protect|Shandong.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Shandong.private|Shandong.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Shandong.personal|Shandong.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Shandong.secret|Shandong.secret]] 
+
+### #is_/same_as :: [Shandong](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.md) 
+
+### #is_/same_as :: [Shandong.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.public.md) 
+
+### #is_/same_as :: [Shandong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.internal.md) 
+
+### #is_/same_as :: [Shandong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.protect.md) 
+
+### #is_/same_as :: [Shandong.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.private.md) 
+
+### #is_/same_as :: [Shandong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.personal.md) 
+
+### #is_/same_as :: [Shandong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.secret.md)
 

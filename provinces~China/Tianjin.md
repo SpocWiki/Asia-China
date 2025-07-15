@@ -40,11 +40,18 @@ markerFolder: ./Tianjin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Tianjin|Tianjin]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.public|Tianjin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.internal|Tianjin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.protect|Tianjin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.private|Tianjin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.personal|Tianjin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Tianjin.secret|Tianjin.secret]] 
+
+### #is_/same_as :: [Tianjin](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.md) 
+
+### #is_/same_as :: [Tianjin.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.public.md) 
+
+### #is_/same_as :: [Tianjin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.internal.md) 
+
+### #is_/same_as :: [Tianjin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.protect.md) 
+
+### #is_/same_as :: [Tianjin.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.private.md) 
+
+### #is_/same_as :: [Tianjin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.personal.md) 
+
+### #is_/same_as :: [Tianjin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.secret.md)
 

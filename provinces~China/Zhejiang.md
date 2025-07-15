@@ -40,11 +40,18 @@ markerFolder: ./Zhejiang/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang|Zhejiang]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.public|Zhejiang.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.internal|Zhejiang.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.protect|Zhejiang.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.private|Zhejiang.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.personal|Zhejiang.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Zhejiang.secret|Zhejiang.secret]] 
+
+### #is_/same_as :: [Zhejiang](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.md) 
+
+### #is_/same_as :: [Zhejiang.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.public.md) 
+
+### #is_/same_as :: [Zhejiang.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.internal.md) 
+
+### #is_/same_as :: [Zhejiang.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.protect.md) 
+
+### #is_/same_as :: [Zhejiang.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.private.md) 
+
+### #is_/same_as :: [Zhejiang.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.personal.md) 
+
+### #is_/same_as :: [Zhejiang.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang.secret.md)
 

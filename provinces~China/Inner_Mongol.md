@@ -41,11 +41,18 @@ markerFolder: ./Inner_Mongol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol|Inner_Mongol]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.public|Inner_Mongol.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.internal|Inner_Mongol.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.protect|Inner_Mongol.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.private|Inner_Mongol.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.personal|Inner_Mongol.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Inner_Mongol.secret|Inner_Mongol.secret]] 
+
+### #is_/same_as :: [Inner_Mongol](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.md) 
+
+### #is_/same_as :: [Inner_Mongol.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.public.md) 
+
+### #is_/same_as :: [Inner_Mongol.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.internal.md) 
+
+### #is_/same_as :: [Inner_Mongol.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.protect.md) 
+
+### #is_/same_as :: [Inner_Mongol.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.private.md) 
+
+### #is_/same_as :: [Inner_Mongol.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.personal.md) 
+
+### #is_/same_as :: [Inner_Mongol.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol.secret.md)
 

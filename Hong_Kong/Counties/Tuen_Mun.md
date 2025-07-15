@@ -40,11 +40,18 @@ markerFolder: ./Tuen_Mun/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun|Tuen_Mun]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.public|Tuen_Mun.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.internal|Tuen_Mun.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.protect|Tuen_Mun.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.private|Tuen_Mun.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.personal|Tuen_Mun.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.secret|Tuen_Mun.secret]] 
+
+### #is_/same_as :: [Tuen_Mun](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.md) 
+
+### #is_/same_as :: [Tuen_Mun.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.public.md) 
+
+### #is_/same_as :: [Tuen_Mun.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.internal.md) 
+
+### #is_/same_as :: [Tuen_Mun.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.protect.md) 
+
+### #is_/same_as :: [Tuen_Mun.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.private.md) 
+
+### #is_/same_as :: [Tuen_Mun.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.personal.md) 
+
+### #is_/same_as :: [Tuen_Mun.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tuen_Mun.secret.md)
 

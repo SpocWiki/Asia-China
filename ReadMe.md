@@ -131,10 +131,4 @@ Capital :: [[provinces~China/Beijing/City/Beijing=Peking]]
 
 
 
-## Confidential Links & Embeds: 
-- [[China|China]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~East/China.internal|China.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~East/China.protect|China.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~East/China.private|China.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~East/China.personal|China.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~East/China.secret|China.secret]] 
+

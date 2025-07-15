@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 31.23
 - 121.5
@@ -274,11 +274,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shanghai) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/City/Shanghai|Shanghai]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/City/Shanghai.public|Shanghai.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/City/Shanghai.internal|Shanghai.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/City/Shanghai.protect|Shanghai.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/City/Shanghai.private|Shanghai.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/City/Shanghai.personal|Shanghai.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/City/Shanghai.secret|Shanghai.secret]] 
+
+### #is_/same_as :: [Shanghai](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.md) 
+
+### #is_/same_as :: [Shanghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.public.md) 
+
+### #is_/same_as :: [Shanghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.internal.md) 
+
+### #is_/same_as :: [Shanghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.protect.md) 
+
+### #is_/same_as :: [Shanghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.private.md) 
+
+### #is_/same_as :: [Shanghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.personal.md) 
+
+### #is_/same_as :: [Shanghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.secret.md)
+

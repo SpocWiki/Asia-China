@@ -40,11 +40,18 @@ markerFolder: ./North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North|North]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.public|North.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal|North.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect|North.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private|North.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal|North.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret|North.secret]] 
+
+### #is_/same_as :: [North](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.md) 
+
+### #is_/same_as :: [North.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.public.md) 
+
+### #is_/same_as :: [North.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.internal.md) 
+
+### #is_/same_as :: [North.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.protect.md) 
+
+### #is_/same_as :: [North.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.private.md) 
+
+### #is_/same_as :: [North.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.personal.md) 
+
+### #is_/same_as :: [North.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/North.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Sham_Shui_Po/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po|Sham_Shui_Po]] 
-- [[../../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.public|Sham_Shui_Po.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.internal|Sham_Shui_Po.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.protect|Sham_Shui_Po.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.private|Sham_Shui_Po.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.personal|Sham_Shui_Po.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.secret|Sham_Shui_Po.secret]] 
+
+### #is_/same_as :: [Sham_Shui_Po](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.public.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.internal.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.protect.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.private.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.personal.md) 
+
+### #is_/same_as :: [Sham_Shui_Po.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sham_Shui_Po.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Hebei/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~East/China/Counties/Hebei|Hebei]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~East/China/Counties/Hebei.public|Hebei.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~East/China/Counties/Hebei.internal|Hebei.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~East/China/Counties/Hebei.protect|Hebei.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~East/China/Counties/Hebei.private|Hebei.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~East/China/Counties/Hebei.personal|Hebei.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~East/China/Counties/Hebei.secret|Hebei.secret]] 
+
+### #is_/same_as :: [Hebei](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.md) 
+
+### #is_/same_as :: [Hebei.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.public.md) 
+
+### #is_/same_as :: [Hebei.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.internal.md) 
+
+### #is_/same_as :: [Hebei.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.protect.md) 
+
+### #is_/same_as :: [Hebei.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.private.md) 
+
+### #is_/same_as :: [Hebei.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.personal.md) 
+
+### #is_/same_as :: [Hebei.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hebei.secret.md)
 
