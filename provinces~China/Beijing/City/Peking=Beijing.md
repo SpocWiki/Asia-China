@@ -13,7 +13,7 @@ tags:
 
 [geo-lon::116.42] 
 [geo-lat::39.92] 
-[name::Peking=Beijing] 
+[name::Beijing,City] 
 State ::  
 Country :: [[../../../../China]]  
 [StateId::] 
@@ -22,9 +22,9 @@ Country :: [[../../../../China]]
 
 
 ```leaflet
-id: Peking=Beijing
-coordinates: [[Peking=Beijing]] 
-markerFile: [[Peking=Beijing]] 
+id: Beijing,City
+coordinates: [[Beijing,City]] 
+markerFile: [[Beijing,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peking=Beijing](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.md) 
+### #is_/same_as :: [Beijing,City](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.md) 
 
-### #is_/same_as :: [Peking=Beijing.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.public.md) 
+### #is_/same_as :: [Beijing,City.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.public.md) 
 
-### #is_/same_as :: [Peking=Beijing.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.internal.md) 
+### #is_/same_as :: [Beijing,City.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.internal.md) 
 
-### #is_/same_as :: [Peking=Beijing.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.protect.md) 
+### #is_/same_as :: [Beijing,City.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.protect.md) 
 
-### #is_/same_as :: [Peking=Beijing.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.private.md) 
+### #is_/same_as :: [Beijing,City.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.private.md) 
 
-### #is_/same_as :: [Peking=Beijing.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.personal.md) 
+### #is_/same_as :: [Beijing,City.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.personal.md) 
 
-### #is_/same_as :: [Peking=Beijing.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Peking=Beijing.secret.md)
+### #is_/same_as :: [Beijing,City.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.secret.md)
 
