@@ -20,7 +20,7 @@ aliases:
 
 [geo-lon::116.42] 
 [geo-lat::39.92] 
-[name::Beijing=Peking] 
+[name::Beijing,City] 
 State ::  
 Country :: [[../../../../China]]  
 [StateId::] 
@@ -29,9 +29,9 @@ Country :: [[../../../../China]]
 
 
 ```leaflet
-id: Beijing=Peking
-coordinates: [[Beijing=Peking]] 
-markerFile: [[Beijing=Peking]] 
+id: Beijing,City
+coordinates: [[Beijing,City]] 
+markerFile: [[Beijing,City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
@@ -72,9 +72,61 @@ maxZoom: 18
 > with one side of the city being modernized and renovated to fit the times, 
 > and the other half still offering traditional hutong districts. 
 > 
-> Beijing is one of the oldest cities in the world, with a rich history dating back over three millennia. As the last of the Four Great Ancient Capitals of China, Beijing has been the political center of the country for most of the past eight centuries, and was the largest city in the world by population for much of the second millennium AD. With mountains surrounding the inland city on three sides, in addition to the old inner and outer city walls, Beijing was strategically poised and developed to be the residence of the emperor and thus was the perfect location for the imperial capital. The city is renowned for its opulent palaces, temples, parks, gardens, tombs, walls and gates. Beijing is one of the most important tourist destinations in the world. In 2018, Beijing was the second highest earning tourist city in the world after Shanghai. Beijing is home to many national monuments and museums and has eight UNESCO World Heritage Sites—the Forbidden City, Temple of Heaven, Summer Palace, Ming Tombs, Zhoukoudian Peking Man Site, Beijing Central Axis and parts of the Great Wall and the Grand Canal—all of which are popular tourist locations. Siheyuans, the city's traditional housing style, and hutongs, the narrow alleys between siheyuans, are major tourist attractions and are common in urban Beijing.
+> Beijing is one of the oldest cities in the world, 
+> with a rich history dating back over three millennia. 
+> As the last of the Four Great Ancient Capitals of China, 
+> Beijing has been the political center of the country for most of the past eight centuries, 
+> and was the largest city in the world by population for much of the second millennium AD. 
+> 
+> With mountains surrounding the inland city on three sides, 
+> in addition to the old inner and outer city walls, Beijing was strategically poised 
+> and developed to be the residence of the emperor 
+> and thus was the perfect location for the imperial capital. 
+> 
+> The city is renowned for its opulent palaces, temples, parks, gardens, tombs, walls and gates. 
+> Beijing is one of the most important tourist destinations in the world. 
+> In 2018, Beijing was the second highest earning tourist city in the world after Shanghai. 
+> 
+> Beijing is home to many national monuments and museums 
+> and has eight UNESCO World Heritage Sites—
+> - the Forbidden City, 
+> - Temple of Heaven, 
+> - Summer Palace, 
+> - Ming Tombs, 
+> - Zhoukoudian Peking Man Site, 
+> - Beijing Central Axis and 
+> - parts of the Great Wall and the Grand Canal—
+> all of which are popular tourist locations. 
+> Siheyuans, the city's traditional housing style, 
+> and hutongs, the narrow alleys between siheyuans, 
+> are major tourist attractions and are common in urban Beijing.
 >
-> Beijing's public universities make up more than one-fifth of Double First-Class Construction universities, and many of them consistently rank among the best in the Asia-Pacific and the world, including Tsinghua University, Peking University and UCAS. Beijing CBD is a center for Beijing's economic expansion, with the ongoing or recently completed construction of multiple skyscrapers. Beijing's Zhongguancun area is a world leading center of scientific and technological innovation as well as entrepreneurship. Beijing has been ranked the city with the largest scientific research output by the Nature Index since the list's inception in 2016. Beijing hosts 176 foreign embassies as well as the headquarters of many organizations, including the Asian Infrastructure Investment Bank (AIIB), the Shanghai Cooperation Organisation (SCO), the Silk Road Fund, the Chinese Academy of Sciences, the Chinese Academy of Engineering, the Chinese Academy of Social Sciences, the Central Academy of Fine Arts, the Central Academy of Drama, the Central Conservatory of Music, and the Red Cross Society of China.
+> Beijing's public universities make up 
+> more than one-fifth of Double First-Class Construction universities, 
+> and many of them consistently rank among the best in the Asia-Pacific and the world, 
+> including Tsinghua University, Peking University and UCAS. 
+> 
+> Beijing CBD is a center for Beijing's economic expansion, 
+> with the ongoing or recently completed construction of multiple skyscrapers. 
+> 
+> Beijing's Zhongguancun area is a world leading center of 
+> scientific and technological innovation as well as entrepreneurship. 
+> 
+> Beijing has been ranked the city with the largest scientific research output 
+> by the Nature Index since the list's inception in 2016. 
+> 
+> Beijing hosts 176 foreign embassies as well as the headquarters of many organizations, 
+> including 
+> - the Asian Infrastructure Investment Bank (AIIB), 
+> - the Shanghai Cooperation Organisation (SCO), 
+> - the Silk Road Fund, 
+> - the Chinese Academy of Sciences, 
+> - the Chinese Academy of Engineering, 
+> - the Chinese Academy of Social Sciences, 
+> - the Central Academy of Fine Arts, 
+> - the Central Academy of Drama, 
+> - the Central Conservatory of Music, and 
+> - the Red Cross Society of China.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beijing) 
 
@@ -83,15 +135,15 @@ maxZoom: 18
 
 ### #is_/same_as :: [Beijing,City](Beijing,City.md) 
 
-### #is_/same_as :: [Beijing=Peking.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.public.md) 
+### #is_/same_as :: [Beijing,City.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.public.md) 
 
-### #is_/same_as :: [Beijing=Peking.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.internal.md) 
+### #is_/same_as :: [Beijing,City.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.internal.md) 
 
-### #is_/same_as :: [Beijing=Peking.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.protect.md) 
+### #is_/same_as :: [Beijing,City.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.protect.md) 
 
-### #is_/same_as :: [Beijing=Peking.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.private.md) 
+### #is_/same_as :: [Beijing,City.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.private.md) 
 
-### #is_/same_as :: [Beijing=Peking.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.personal.md) 
+### #is_/same_as :: [Beijing,City.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.personal.md) 
 
-### #is_/same_as :: [Beijing=Peking.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing=Peking.secret.md)
+### #is_/same_as :: [Beijing,City.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.secret.md)
 
