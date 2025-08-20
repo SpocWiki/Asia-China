@@ -1,30 +1,29 @@
 ---
-location: [ 22.27 , 114.18 ] 
+location:
+  - 22.27
+  - 114.18
 type: geo-Region
 title: Wan_Chai
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Wan_Chai
-
+  - Wan_Chai
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Wan_Chai

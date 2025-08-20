@@ -1,30 +1,29 @@
 ---
-location: [ 22.4 , 114 ] 
+location:
+  - 22.4
+  - 114
 type: geo-Region
 title: Tuen_Mun
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Tuen_Mun
-
+  - Tuen_Mun
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Tuen_Mun
