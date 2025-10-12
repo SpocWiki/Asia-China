@@ -14,6 +14,7 @@ tags:
   - geo/Country/Region
 aliases:
   - Gansu
+  - Gansu Province
 Languages:
   - de
 cssclasses:
@@ -26,15 +27,21 @@ publishDate:
 expiryDate:
 ---
 
-# Gansu
+# [[Gansu]] 
+
+
+## #has_/map 
 
 ```leaflet
 id: Gansu
 zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 9
 maxZoom: 18
-geojsonFolder: ./Gansu/
-markerFolder: ./Gansu/
+geojsonFolder: ./Gansu//
+markerFolder: ./Gansu//
+coordinates: [[Gansu]] 
+markerFile: [[Gansu]] 
 ```
 
 
