@@ -86,10 +86,10 @@ capital: "[[_Standards/WikiData/WD~Xuanwu_District,589343]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
   - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Vierter_Band,129249812]]"
 is_member_of:
   - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
@@ -122,8 +122,8 @@ area: 6587.02
 BHCL_UUID: 6e2ca598-9372-4437-9a92-dd7de5f24d1d
 Commons_category: Nanjing
 hashtag: Nanjing
-native_label: ??
-official_name: ???
+native_label: 南京
+official_name: 南京市
 population: 9314685
 inception: -0494-01-01T00:00:00Z
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E4%BA%AC%E5%85%A8%E6%99%AF.jpg
@@ -136,14 +136,14 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nanjing%20mont
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nanjing%20View.png
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Subdivisions%20of%20Nanjing-China.png
 official_website: https://www.nanjing.gov.cn/
-postal_code: 210000�213000
+postal_code: 210000–213000
 China_division_code_for_Statistics: 32 01
 UN_LOCODE: CNNJI
 GitHub_topic: nanjing
 subreddit: nanjing
-Commons_gallery: ??
-Baidu_Tieba_name: ??
-licence_plate_code: ?A
+Commons_gallery: 南京
+Baidu_Tieba_name: 南京
+licence_plate_code: 苏A
 demonym:
   - Nanjingese
   - nanchinesi
@@ -181,7 +181,7 @@ maxZoom: 18
 >
 > As of 2021, Nanjing has 68 institutions of higher learning, including 13 double-first-class universities, ten 111-plan universities, eight 211 universities, and 97 academies. Nanjing University, which has a long history, is among the world's top 10 universities ranked by the Nature Index. The ratio of college students to the total population ranks No.1 among large cities nationwide. Nanjing has the fifth-largest scientific research output of any city in the world. As of 2024, it has been ranked as the world's second most prolific scientific research center in earth and environmental sciences and the world's third most prolific scientific research center in chemistry and physical sciences, according to the Nature Index.
 >
-> Nanjing, one of the nation's most important cities for over a thousand years, is recognized as one of the Four Great Ancient Capitals of China. It has been one of the world's largest cities, enjoying peace and prosperity despite various wars and disasters. Nanjing served as the capital of Eastern Wu (229�280), one of the three major states in the Three Kingdoms period; the Eastern Jin and each of the Southern dynasties (Liu Song, Southern Qi, Liang and Chen), which successively ruled southern China from 317 to 589; the Southern Tang (937�75), one of the Ten Kingdoms; the Ming dynasty when, for the first time, all of China was ruled from the city (1368�1421); and the Republic of China under the nationalist Kuomintang (1927�37, 1946�49) before its flight to Taiwan by Chiang Kai-Shek during the Chinese Civil War. The city also served as the seat of the rebel Taiping Heavenly Kingdom (1853�64) and the Japanese puppet regime of Wang Jingwei (1940�45) during the Second Sino-Japanese War. It suffered many notable devastating atrocities in both conflicts, most notably the Nanjing Massacre from late 1937 to early 1938.
+> Nanjing, one of the nation's most important cities for over a thousand years, is recognized as one of the Four Great Ancient Capitals of China. It has been one of the world's largest cities, enjoying peace and prosperity despite various wars and disasters. Nanjing served as the capital of Eastern Wu (229–280), one of the three major states in the Three Kingdoms period; the Eastern Jin and each of the Southern dynasties (Liu Song, Southern Qi, Liang and Chen), which successively ruled southern China from 317 to 589; the Southern Tang (937–75), one of the Ten Kingdoms; the Ming dynasty when, for the first time, all of China was ruled from the city (1368–1421); and the Republic of China under the nationalist Kuomintang (1927–37, 1946–49) before its flight to Taiwan by Chiang Kai-Shek during the Chinese Civil War. The city also served as the seat of the rebel Taiping Heavenly Kingdom (1853–64) and the Japanese puppet regime of Wang Jingwei (1940–45) during the Second Sino-Japanese War. It suffered many notable devastating atrocities in both conflicts, most notably the Nanjing Massacre from late 1937 to early 1938.
 >
 > Nanjing became the capital city of Jiangsu province in 1952, after serving as a Direct-administered Municipality from 1949 to 1952 following the establishment of the People's Republic of China. It has many important heritage sites, including the Presidential Palace, Sun Yat-sen Mausoleum and Ming Xiaoling Mausoleum. Nanjing is famous for human historical landscapes, mountains and waters such as Fuzimiao, Ming Palace, Chaotian Palace, Porcelain Tower, Drum Tower, Stone City, City Wall, Qinhuai River, Xuanwu Lake and Purple Mountain. Key cultural facilities include Nanjing Library, Nanjing Museum and Jiangsu Art Museum.
 >
