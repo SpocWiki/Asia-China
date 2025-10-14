@@ -1,16 +1,21 @@
 ---
 aliases:
+  - Nanking
 has_id_wikidata: Q16666
-location: [32.060833333, 118.778888888]
+location:
+  - 32.060833333
+  - 118.778888888
 coordinate_location: Point(118.778888888 32.060833333)
-mapzoom: [7,12] 
-mapmarker: city 
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 SpocWebEntityId: 32730
 isDeleted: false
 confidential: public
 tags:
-- geo/City
+  - geo/City
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~London,92561]]"
   - "[[_Standards/WikiData/WD~Durango,112813]]"
