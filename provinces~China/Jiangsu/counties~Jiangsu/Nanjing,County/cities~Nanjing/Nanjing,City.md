@@ -153,6 +153,9 @@ demonym:
   - Nanjingese
   - nanchinesi
 ---
+
+# [[Nanjing,City]] 
+
 [geo-lon::118.78] 
 [geo-lat::32.05] 
 [name::Nanking] 
@@ -160,9 +163,6 @@ State ::
 Country :: [[../../../../China]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
-
-# [[Nanjing,City]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Nanjing,16666|WD~Nanjing,16666]] 
 
