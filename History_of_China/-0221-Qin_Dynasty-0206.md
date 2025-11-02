@@ -1,0 +1,81 @@
+---
+aliases:
+has_id_wikidata: Q7183
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
+capital: "[[_Standards/WikiData/WD~Xianyang,497341]]"
+replaces:
+  - "[[_Standards/WikiData/WD~Chu,504759]]"
+  - "[[_Standards/WikiData/WD~Wey,1147897]]"
+  - "[[_Standards/WikiData/WD~Qin,34756]]"
+  - "[[_Standards/WikiData/WD~Zhou_dynasty,35216]]"
+replaced_by:
+  - "[[_Standards/WikiData/WD~Nanyue,827040]]"
+  - "[[_Standards/WikiData/WD~Jiujiang,10878917]]"
+  - "[[_Standards/WikiData/WD~Dai,10884385]]"
+  - "[[_Standards/WikiData/WD~Sai,10931099]]"
+  - "[[_Standards/WikiData/WD~Changshan,11060334]]"
+  - "[[_Standards/WikiData/WD~Yin,11125624]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Henan,11141501]]"
+  - "[[_Standards/WikiData/WD~Qi_(209_203_BC),11180205]]"
+  - "[[_Standards/WikiData/WD~Western_Chu,13414776]]"
+  - "[[_Standards/WikiData/WD~Zhai,15895314]]"
+  - "[[_Standards/WikiData/WD~Yong,15898486]]"
+  - "[[_Standards/WikiData/WD~Liaodong,15902270]]"
+  - "[[_Standards/WikiData/WD~Han_(208BC_200BC),17030053]]"
+  - "[[_Standards/WikiData/WD~Jiaodong_Kingdom,17034723]]"
+  - "[[_Standards/WikiData/WD~Linjiang,17034965]]"
+  - "[[_Standards/WikiData/WD~Yan_(Zang_Tu),17036011]]"
+  - "[[_Standards/WikiData/WD~Western_Wei,17059107]]"
+  - "[[_Standards/WikiData/WD~Hengshan,17061544]]"
+  - "[[_Standards/WikiData/WD~Han_dynasty,7209]]"
+part_of: "[[_Standards/WikiData/WD~Early_Imperial_China,5326669]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q17420982,17420982]]"
+dissolved_abolished_or_demolished_date: -0205-01-01T00:00:00Z
+followed_by: "[[_Standards/WikiData/WD~Han_dynasty,7209]]"
+continent: "[[_Standards/WikiData/WD~Asia,48]]"
+inception: -0220-01-01T00:00:00Z
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Qin%20empire%20210%20BCE.png
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Qin%20empire%20210%20BCE.png
+Commons_category: Qin Dynasty
+Commons_gallery: 秦朝
+---
+
+# [[-0221-Qin_Dynasty-0206]] 
+
+#is_/same_as :: [[WD~Qin_dynasty,7183]] 
+#has_/next_/state :: [[-0205-Han_Dynasty+0220]]  
+
+## #has_/text_of_/abstract 
+
+> The Qin dynasty ( CHIN) was the first imperial dynasty of China. 
+> It is named for its progenitor state of Qin, a fief of the confederal Zhou dynasty (c. 1046–256 BC). 
+> 
+> Beginning in 230 BC, the Qin under King Ying Zheng engaged in a series of wars 
+> conquering each of the rival states that had previously pledged fealty to the Zhou. 
+> This culminated in 221 BC with the successful unification of China under Qin, 
+> which then assumed an imperial prerogative – 
+> with Ying Zheng declaring himself to be Qin Shi Huang, the first emperor of China, 
+> and bringing an end to the Warring States period (c. 475–221 BC). 
+> 
+> This state of affairs lasted until 206 BC, 
+> when the dynasty collapsed in the years following Qin Shi Huang's death. 
+> 
+> The Qin's 14-year existence was the shortest of any major dynasty in Chinese history, 
+> with only two emperors. 
+> 
+> However, the succeeding [[-0205-Han_Dynasty+0220|Han Dynasty]] (202 BC – 220 AD) 
+> largely continued the military and administrative practices instituted by the Qin; 
+> as a result, the Qin have been credited as the originators of the Chinese imperial system 
+> that would endure in some form until the Xinhai Revolution in 1911.
+>
+> Qin was a minor power for the first several centuries of its existence; its strength greatly increased in the 4th century BC, in large part owing to the administrative and military reforms of Shang Yang. They sought to create a strong, centralised state and a large army supported by a stable economy, which were developed in the Qin homeland and implemented across China following its unification. Reforms included the standardisation of currency, weights, measures, and the writing system, along with innovations in weaponry, transportation and military tactics. 
+>
+> The central government sought to undercut aristocrats and landowners and administer the peasantry directly, who comprised the vast majority of the population. This enabled numerous large-scale construction projects involving the labour of hundreds of thousands of peasants and convicts – which included the connection of walls along the northern border into what would eventually become the Great Wall of China, a large national road system, and the city-sized Mausoleum of Qin Shi Huang guarded by the life-sized Terracotta Army. The state possessed an unprecedented capacity to transform the environment through the management of people and land; as a result, Qin's rise has been characterised as one of the most important events in East Asian environmental history.
+>
+> When Qin Shi Huang died in 210 BC, two of his advisors placed an heir on the throne in an attempt to exert control over the dynasty and wield state power. These advisors squabbled among themselves, resulting in both of their deaths and that of the second Qin emperor. Popular revolt broke out, and the weakened empire soon fell to Chu generals Xiang Yu and Liu Bang, the latter of whom founded the Han dynasty.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Qin%20dynasty) 
+
