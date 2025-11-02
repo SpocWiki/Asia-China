@@ -26,7 +26,7 @@ publishDate:
 expiryDate:
 ---
 
-# Qinghai
+# [[Qinghai]]
 
 ```leaflet
 id: Qinghai

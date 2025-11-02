@@ -72,7 +72,7 @@ topic_s_main_template:
 > 
 > The dynasty was preceded by the short-lived Qin dynasty (221–206 BC) 
 > and a warring interregnum known as the Chu–Han Contention (206–202 BC), 
-> and it was succeeded by the Three Kingdoms period (220–280 AD). 
+> and it was succeeded by the [[0220-Three Kingdoms+0280]] period (220–280 AD). 
 > 
 > The dynasty was briefly interrupted by the Xin dynasty (9–23 AD) 
 > established by the usurping regent Wang Mang, and is thus separated into two periods
