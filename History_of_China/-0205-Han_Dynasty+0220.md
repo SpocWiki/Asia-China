@@ -1,8 +1,9 @@
 ---
 aliases:
-- "Han Dynasty"
-has_time_started: -0205
-has_time_stopped: 0220
+  - Han dynasty
+  - Han Dynastie
+has_time_started: -0205-
+has_time_stopped: 0220-
 area: 6000000
 basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
 capital:

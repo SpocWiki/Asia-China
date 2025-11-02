@@ -2,6 +2,8 @@
 aliases:
   - Han dynasty
   - Han Dynastie
+has_time_started: -0205-
+has_time_stopped: 0220-
 has_id_wikidata: Q7209
 capital:
   - "[[_Standards/WikiData/WD~Luoyang,187136]]"
