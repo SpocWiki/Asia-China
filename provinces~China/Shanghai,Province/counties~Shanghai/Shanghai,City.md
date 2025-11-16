@@ -8,15 +8,17 @@ location:
 mapzoom:
   - 7
   - 12
-mapmarker: city 
+mapmarker: city
 type: City
-SpocWebEntityId: [34227,33994]
+SpocWebEntityId:
+  - 34227
+  - 33994
 isDeleted: false
 confidential: public
 tags:
-- geo/City
+  - geo/City
 twinned_administrative_body:
-  - "[[/_Standards/WikiData/WD~Constan?a,79808]]"
+  - "[[/_Standards/WikiData/WD~Constanța,79808]]"
   - "[[/_Standards/WikiData/WD~Tabriz,80053]]"
   - "[[/_Standards/WikiData/WD~KwaZulu-Natal,81725]]"
   - "[[/_Standards/WikiData/WD~Hamhung,109356]]"
@@ -52,9 +54,9 @@ twinned_administrative_body:
   - "[[/_Standards/WikiData/WD~Basel,78]]"
   - "[[/_Standards/WikiData/WD~Alexandria,87]]"
   - "[[/_Standards/WikiData/WD~London,84]]"
-  - "[[/_Standards/WikiData/WD~S�o_Paulo,174]]"
+  - "[[/_Standards/WikiData/WD~São_Paulo,174]]"
   - "[[/_Standards/WikiData/WD~Quebec,176]]"
-  - "[[/_Standards/WikiData/WD~Valpara�so,33986]]"
+  - "[[/_Standards/WikiData/WD~Valparaíso,33986]]"
   - "[[/_Standards/WikiData/WD~Rotterdam,34370]]"
   - "[[/_Standards/WikiData/WD~Salzburg,34713]]"
   - "[[/_Standards/WikiData/WD~Colombo,35381]]"
@@ -77,7 +79,7 @@ twinned_administrative_body:
   - "[[/_Standards/WikiData/WD~Tashkent,269]]"
   - "[[/_Standards/WikiData/WD~Montreal,340]]"
   - "[[/_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[/_Standards/WikiData/WD~Rh�ne-Alpes,463]]"
+  - "[[/_Standards/WikiData/WD~Rhône-Alpes,463]]"
   - "[[/_Standards/WikiData/WD~Milan,490]]"
   - "[[/_Standards/WikiData/WD~Oslo,585]]"
   - "[[/_Standards/WikiData/WD~Dubai,612]]"
@@ -91,7 +93,7 @@ twinned_administrative_body:
   - "[[/_Standards/WikiData/WD~Manila,1461]]"
   - "[[/_Standards/WikiData/WD~Barcelona,1492]]"
   - "[[/_Standards/WikiData/WD~Budapest,1781]]"
-  - "[[/_Standards/WikiData/WD~Gdansk,1792]]"
+  - "[[/_Standards/WikiData/WD~Gdańsk,1792]]"
   - "[[/_Standards/WikiData/WD~Phnom_Penh,1850]]"
   - "[[/_Standards/WikiData/WD~Ho_Chi_Minh_City,1854]]"
   - "[[/_Standards/WikiData/WD~Bangkok,1861]]"
@@ -137,11 +139,11 @@ instance_of:
 owner_of: "[[/_Standards/WikiData/WD~Hongkou_Football_Stadium,201773]]"
 described_by_source:
   - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
-  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Encyclop�dia_Britannica_Ninth_Edition,20096917]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
   - "[[/_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 capital: "[[/_Standards/WikiData/WD~Huangpu_District,660185]]"
 official_symbol: "[[/_Standards/WikiData/WD~Magnolia_denudata,794061]]"
@@ -205,28 +207,28 @@ FIPS_10_4_countries_and_regions_: CH23
 WOEID: 2151849
 hashtag:
   - Shanghai
-  - ??
-  - Sanghay
+  - 上海
+  - Şanghay
 Commons_category: Shanghai
 U_S_National_Archives_Identifier: 10046658
-Commons_gallery: ??
-Baidu_Tieba_name: ??
+Commons_gallery: 上海
+Baidu_Tieba_name: 上海
 inception: 1949-10-01T00:00:00Z
 demonym:
-  - Shangha�en
-  - Shangha�enne
+  - Shanghaïen
+  - Shanghaïenne
 OmegaWiki_Defined_Meaning: 1212240
 population: 24870895
 official_website: https://www.shanghai.gov.cn/
 nickname:
-  - ??
+  - 魔都
   - La Perle de l'Orient
 GitHub_topic: shanghai
 subreddit: shanghai
 coordinate_location: Point(121.4691024 31.2323437)
 short_name:
-  - ?
-  - ?
+  - 沪
+  - 滬
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20Wikivoyage%20banner.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sprawling%20Shanghai%202016-07-20.jpg
 BHCL_UUID:
@@ -236,8 +238,8 @@ BHCL_UUID:
 Dewey_Decimal_Classification: 2--51132
 ISO_3166_2_code: CN-SH
 HASC: CN.SH
-licence_plate_code: ?A
-official_name: ???
+licence_plate_code: 沪A
+official_name: 上海市
 ISNI: 123537626
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20121.45796E%2031.22234N.jpg
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20bund%20%E2%80%93%20Panorama%20%28Greg%20Zaal%20via%20Poly%20Haven%29.jpg
@@ -276,7 +278,7 @@ maxZoom: 18
 >
 > Originally a fishing village and market town, Shanghai grew in importance in the 19th century due to both domestic and foreign trade and its favorable port location. The city was one of five treaty ports forced to open to European trade after the First Opium War. The Shanghai International Settlement and the French Concession were subsequently established. The city then flourished, becoming a primary commercial and financial hub of Asia in the 1930s. During the Second Sino-Japanese War, the city was the site of the major Battle of Shanghai. After the war, the Chinese Civil War soon resumed between the Kuomintang (KMT) and the Chinese Communist Party (CCP), with the latter eventually taking over the city and most of the mainland. From the 1950s to the 1970s, trade was mostly limited to other socialist countries in the Eastern Bloc, causing the city's global influence to decline during the Cold War.
 >
-> Major changes of fortune for the city would occur when economic reforms initiated by paramount leader Deng Xiaoping during the 1980s resulted in an intense redevelopment and revitalization of the city by the 1990s, especially the Pudong New Area, aiding the return of finance and foreign investment. The city has since re-emerged as a hub for international trade and finance. It is the home of the Shanghai Stock Exchange, the largest stock exchange in the Asia-Pacific by market capitalization and the Shanghai Free-Trade Zone, the first free-trade zone in mainland China. It is ranked 4th on the Global Financial Centres Index. Shanghai has been classified as an Alpha+ (global first-tier) city by the Globalization and World Cities Research Network. As of 2024, it is home to 13 companies of the Fortune Global 500�the fourth-highest number of any city. The city is also a major global center for research and development and home to numerous Double First-Class Universities, including Fudan University and Shanghai Jiaotong University. The Shanghai Metro, first opened in 1993, is the largest metro network in the world by route length.
+> Major changes of fortune for the city would occur when economic reforms initiated by paramount leader Deng Xiaoping during the 1980s resulted in an intense redevelopment and revitalization of the city by the 1990s, especially the Pudong New Area, aiding the return of finance and foreign investment. The city has since re-emerged as a hub for international trade and finance. It is the home of the Shanghai Stock Exchange, the largest stock exchange in the Asia-Pacific by market capitalization and the Shanghai Free-Trade Zone, the first free-trade zone in mainland China. It is ranked 4th on the Global Financial Centres Index. Shanghai has been classified as an Alpha+ (global first-tier) city by the Globalization and World Cities Research Network. As of 2024, it is home to 13 companies of the Fortune Global 500—the fourth-highest number of any city. The city is also a major global center for research and development and home to numerous Double First-Class Universities, including Fudan University and Shanghai Jiaotong University. The Shanghai Metro, first opened in 1993, is the largest metro network in the world by route length.
 >
 > Shanghai has been described as the "showpiece" of the economy of China and it is one of the ten biggest economic hubs in the world. Featuring several architectural styles such as Art Deco and shikumen, the city is renowned for its Lujiazui skyline, museums and historic buildings, including the City God Temple, Yu Garden, the China Pavilion and buildings along the Bund. The Oriental Pearl Tower can be seen from the Bund. Shanghai is known for its cuisine, local language, and cosmopolitan culture. It ranks sixth in the list of cities with the most skyscrapers.
 >
@@ -285,17 +287,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schanghai](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.md) 
+### #is_/same_as :: [Shanghai,City](Shanghai,City.md) 
 
-### #is_/same_as :: [Schanghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.public.md) 
+### #is_/same_as :: [Shanghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.public.md) 
 
-### #is_/same_as :: [Schanghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.internal.md) 
+### #is_/same_as :: [Shanghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.internal.md) 
 
-### #is_/same_as :: [Schanghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.protect.md) 
+### #is_/same_as :: [Shanghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.protect.md) 
 
-### #is_/same_as :: [Schanghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.private.md) 
+### #is_/same_as :: [Shanghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.private.md) 
 
-### #is_/same_as :: [Schanghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.personal.md) 
+### #is_/same_as :: [Shanghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.personal.md) 
 
-### #is_/same_as :: [Schanghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Schanghai.secret.md)
+### #is_/same_as :: [Shanghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.secret.md)
 
