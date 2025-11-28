@@ -1,0 +1,47 @@
+---
+aliases:
+  - Taiping Rebellion
+  - Taiping Civil War
+  - Taiping Revolution
+  - Taiping Movement
+has_id_wikidata: Q192408
+instance_of:
+  - "[[_Standards/WikiData/WD~rebellion,124734]]"
+  - "[[_Standards/WikiData/WD~civil_war,8465]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+location: "[[_Standards/WikiData/WD~China_proper,2079794]]"
+organizer: "[[_Standards/WikiData/WD~Taiping_Heavenly_Kingdom,3486676]]"
+end_time: 1864-08-01T00:00:00Z
+start_time: 1851-01-11T00:00:00Z
+point_in_time: 1850-12-01T00:00:00Z
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Taiping-opstand-article.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Taiping%20Heavenly%20Kingdom%20map.svg
+Commons_category: Taiping Rebellion
+---
+
+# [[1851-Taiping_Rebellion+1864]] 
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Taiping_Rebellion,192408|WD~Taiping_Rebellion,192408]]  
+
+## #has_/text_of_/abstract 
+
+> The Taiping Rebellion, also known as the Taiping Civil War, Revolution, or Movement, 
+> was a civil war in China between the Qing dynasty and the Taiping Heavenly Kingdom. 
+> 
+> The conflict lasted 14 years, from its outbreak in 1850 until the fall of Taiping-controlled Nanjing—which they had renamed Tianjing "heavenly capital"—in 1864. The last rebel forces were defeated in August 1871. Estimates of the conflict's death toll range between 20 million and 30 million people, representing 5–10% of China's population at that time. While the Qing ultimately defeated the rebellion, the victory came at a great cost to the state's economic and political viability.
+>
+> The uprising was led by Hong Xiuquan, an ethnic Hakka who proclaimed himself to be the brother of Jesus Christ. Hong sought the religious conversion of the Han people to his syncretic version of Christianity, as well as the political overthrow of the Qing dynasty, and a general transformation of the mechanisms of state. Rather than supplanting China's ruling class, the Taiping rebels sought to entirely upend the country's social order. The Taiping Heavenly Kingdom in Nanjing seized control of significant portions of southern China. At its peak, the Heavenly Kingdom ruled over a population of nearly 30 million.
+>
+> For more than a decade, Taiping armies occupied and fought across much of the mid- and lower Yangtze valley, ultimately devolving into civil war. It was the largest war in China since the Ming–Qing transition, involving most of Central and Southern China. It ranks as one of the bloodiest wars in human history, the bloodiest civil war, and the largest conflict of the 19th century, comparable to World War I in terms of deaths. Thirty million people fled the conquered regions to foreign settlements or other parts of China. The war was characterized by extreme brutality on both sides. Taiping soldiers carried out widespread massacres of Manchus, the ethnic minority of the ruling Imperial House of Aisin-Gioro. Meanwhile, the Qing government also engaged in massacres, most notably against the civilian population of Nanjing.
+>
+> Weakened severely by internal conflicts following the failure of the campaign against Beijing (1853–1855) and an attempted coup in September and October of 1856, the Taiping rebels were defeated by decentralised provincial armies such as the Xiang Army organised and commanded by Zeng Guofan. After moving down the Yangtze River and recapturing the strategic city of Anqing, Zeng's forces besieged Nanjing during May 1862. After two more years, on June 1, 1864, Hong Xiuquan died during the siege, caused from the consumption of weeds in the palace grounds as well as suspicions of poison. Nanjing fell barely a month later.
+>
+> The 14-year civil war, along with the internal and external conflicts of the Opium Wars and the Boxer Rebellion, weakened the Qing dynasty's grasp on central China. The Taiping rebellion prompted the government's initially successful "Self-Strengthening Movement", but continued  social and religious unrest exacerbated ethnic disputes and accelerated the rise of provincial powers. The Warlord Era, the loss of central control after the establishment of the Republic of China, would begin in earnest in 1912.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Taiping%20Rebellion) 
+
