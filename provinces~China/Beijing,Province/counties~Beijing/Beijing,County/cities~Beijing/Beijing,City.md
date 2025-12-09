@@ -260,7 +260,7 @@ coordinates: [[Beijing,City]]
 markerFile: [[Beijing,City]] 
 geojsonFolder: ./Beijing,City/
 markerFolder: ./Beijing,City/
-defaultZoom: 11 
+defaultZoom: 10 
 maxZoom: 18
 ```
 
