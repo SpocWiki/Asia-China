@@ -401,6 +401,8 @@ Country :: [[../../../China]]
 id: Hong Kong
 coordinates: [[Hong_Kong]] 
 markerFile: [[Hong_Kong]] 
+geojsonFolder: ./Hong_Kong/
+markerFolder: ./Hong_Kong/
 defaultZoom: 11 
 maxZoom: 18
 ```
