@@ -106,15 +106,18 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Zh-Wuhan
 official_website: http://www.wuhan.gov.cn
 ---
 
-# [[Wuhan]] 
+# [[Wuhan,City]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Wuhan,11746|WD~Wuhan,11746]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Wuhan,11746|WD~Wuhan,11746]] 
 
 ## #has_/text_of_/abstract 
 
-> **Wuhan** is the capital of Hubei, China. With a population of over eleven million, it is the most populous city in Hubei and the seventh-most-populous city in China. It is also one of China's nine national central cities.
+> **Wuhan** is the capital of Hubei, China. With a population of over eleven million, 
+> it is the most populous city in Hubei and the seventh-most-populous city in China. 
+> It is also one of China's nine national central cities.
 >
-> Wuhan historically served as a busy city port for commerce and trading with some crucial influences on Chinese history. The name "Wuhan" came from the city's historical origin from the conglomeration of Wuchang, Hankou, and Hanyang, which are collectively known as the "Three Towns of Wuhan" (武汉三镇). Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest tributary, the Han River, and is known as "Nine Provinces' Thoroughfare" (九省通衢). Wuhan was the site of the 1911 Wuchang Uprising against the Qing dynasty which ended 2,000 years of dynastic rule. Wuhan was briefly a capital of China twice, in 1927 under a left wing Kuomintang (KMT) government, and in 1937 as a provisional wartime capital during World War II. In 1938, during the Second Sino-Japanese War, the city was the site of the Battle of Wuhan. On December 31, 2019, SARS-CoV-2, a novel coronavirus that later caused the COVID-19 pandemic, was first discovered in Wuhan and the city was the location of the first lockdown of the pandemic in January 2020.
+> Wuhan historically served as a busy city port for commerce and trading 
+> with some crucial influences on Chinese history. The name "Wuhan" came from the city's historical origin from the conglomeration of Wuchang, Hankou, and Hanyang, which are collectively known as the "Three Towns of Wuhan" (武汉三镇). Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest tributary, the Han River, and is known as "Nine Provinces' Thoroughfare" (九省通衢). Wuhan was the site of the 1911 Wuchang Uprising against the Qing dynasty which ended 2,000 years of dynastic rule. Wuhan was briefly a capital of China twice, in 1927 under a left wing Kuomintang (KMT) government, and in 1937 as a provisional wartime capital during World War II. In 1938, during the Second Sino-Japanese War, the city was the site of the Battle of Wuhan. On December 31, 2019, SARS-CoV-2, a novel coronavirus that later caused the COVID-19 pandemic, was first discovered in Wuhan and the city was the location of the first lockdown of the pandemic in January 2020.
 >
 > Wuhan is considered the political, economic, financial, commercial, cultural, and educational center of Central China. It is a major transportation hub, with dozens of railways, roads, and expressways passing through the city and connecting to other major cities. Because of its key role in domestic transportation, Wuhan is sometimes referred to as "the Chicago of China" by foreign sources. The "Golden Waterway" of the Yangtze River and the Han River traverse the urban area and divide Wuhan into the three districts of Wuchang, Hankou, and Hanyang. The Wuhan Yangtze River Bridge crosses the Yangtze in the city. The Three Gorges Dam, the world's largest power station in terms of installed capacity, is located nearby. Historically, Wuhan has suffered risks of flooding, prompting the government to alleviate the situation by introducing ecologically friendly absorption mechanisms.
 >

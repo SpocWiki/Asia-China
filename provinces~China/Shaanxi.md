@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Shaanxi
+# [[Shaanxi]]
+
+## #has_/map 
 
 ```leaflet
 id: Shaanxi
