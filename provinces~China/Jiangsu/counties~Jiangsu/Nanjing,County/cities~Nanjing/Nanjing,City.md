@@ -195,17 +195,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nanking](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City|Nanjing,City]] 
 
-### #is_/same_as :: [Nanking.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.public|Nanjing,City.public]] 
 
-### #is_/same_as :: [Nanking.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.internal|Nanjing,City.internal]] 
 
-### #is_/same_as :: [Nanking.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.protect|Nanjing,City.protect]] 
 
-### #is_/same_as :: [Nanking.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.private|Nanjing,City.private]] 
 
-### #is_/same_as :: [Nanking.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.personal|Nanjing,City.personal]] 
 
-### #is_/same_as :: [Nanking.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/City/Nanking.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/cities~Nanjing/Nanjing,City.secret|Nanjing,City.secret]] 
 

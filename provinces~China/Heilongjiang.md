@@ -40,17 +40,17 @@ markerFolder: ./Heilongjiang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heilongjiang](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang|Heilongjiang]] 
 
-### #is_/same_as :: [Heilongjiang.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.public|Heilongjiang.public]] 
 
-### #is_/same_as :: [Heilongjiang.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.internal|Heilongjiang.internal]] 
 
-### #is_/same_as :: [Heilongjiang.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.protect|Heilongjiang.protect]] 
 
-### #is_/same_as :: [Heilongjiang.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.private|Heilongjiang.private]] 
 
-### #is_/same_as :: [Heilongjiang.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.personal|Heilongjiang.personal]] 
 
-### #is_/same_as :: [Heilongjiang.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Heilongjiang.secret|Heilongjiang.secret]] 
 

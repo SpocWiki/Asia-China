@@ -201,17 +201,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tianjin=Tientsin](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City|Tianjin,City]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.public|Tianjin,City.public]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.internal|Tianjin,City.internal]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.protect|Tianjin,City.protect]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.private|Tianjin,City.private]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.personal|Tianjin,City.personal]] 
 
-### #is_/same_as :: [Tianjin=Tientsin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin/City/Tianjin=Tientsin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province/counties~Tianjin/Tianjin-county/cities~Tianjin/Tianjin,City.secret|Tianjin,City.secret]] 
 

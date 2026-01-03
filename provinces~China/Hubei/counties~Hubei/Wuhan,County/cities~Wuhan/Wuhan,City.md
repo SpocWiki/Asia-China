@@ -125,3 +125,20 @@ official_website: http://www.wuhan.gov.cn
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Wuhan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City|Wuhan,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.public|Wuhan,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.internal|Wuhan,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.protect|Wuhan,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.private|Wuhan,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.personal|Wuhan,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hubei/counties~Hubei/Wuhan,County/cities~Wuhan/Wuhan,City.secret|Wuhan,City.secret]] 
+

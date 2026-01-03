@@ -151,17 +151,17 @@ defaultZoom: 11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jiangxi](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi|Jiangxi]] 
 
-### #is_/same_as :: [Jiangxi.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.public|Jiangxi.public]] 
 
-### #is_/same_as :: [Jiangxi.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.internal|Jiangxi.internal]] 
 
-### #is_/same_as :: [Jiangxi.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.protect|Jiangxi.protect]] 
 
-### #is_/same_as :: [Jiangxi.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.private|Jiangxi.private]] 
 
-### #is_/same_as :: [Jiangxi.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.personal|Jiangxi.personal]] 
 
-### #is_/same_as :: [Jiangxi.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi.secret|Jiangxi.secret]] 
 

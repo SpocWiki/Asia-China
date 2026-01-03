@@ -56,3 +56,20 @@ inception: -2851-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Three%20Sovereigns%20and%20Five%20Emperors) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069|-2851-Three_Sovereigns_and_Five_Emperors-2069]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.public|-2851-Three_Sovereigns_and_Five_Emperors-2069.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.internal|-2851-Three_Sovereigns_and_Five_Emperors-2069.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.protect|-2851-Three_Sovereigns_and_Five_Emperors-2069.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.private|-2851-Three_Sovereigns_and_Five_Emperors-2069.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.personal|-2851-Three_Sovereigns_and_Five_Emperors-2069.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/-2851-Three_Sovereigns_and_Five_Emperors-2069.secret|-2851-Three_Sovereigns_and_Five_Emperors-2069.secret]] 
+

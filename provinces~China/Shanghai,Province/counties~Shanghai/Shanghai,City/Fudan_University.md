@@ -77,3 +77,20 @@ motto_text: 博学而笃志，切问而近思
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fudan%20University) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University|Fudan_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.public|Fudan_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.internal|Fudan_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.protect|Fudan_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.private|Fudan_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.personal|Fudan_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City/Fudan_University.secret|Fudan_University.secret]] 
+

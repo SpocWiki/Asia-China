@@ -287,17 +287,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shanghai,City](Shanghai,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City|Shanghai,City]] 
 
-### #is_/same_as :: [Shanghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.public|Shanghai,City.public]] 
 
-### #is_/same_as :: [Shanghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.internal|Shanghai,City.internal]] 
 
-### #is_/same_as :: [Shanghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.protect|Shanghai,City.protect]] 
 
-### #is_/same_as :: [Shanghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.private|Shanghai,City.private]] 
 
-### #is_/same_as :: [Shanghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.personal|Shanghai,City.personal]] 
 
-### #is_/same_as :: [Shanghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State/City/Shanghai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province/counties~Shanghai/Shanghai,City.secret|Shanghai,City.secret]] 
 

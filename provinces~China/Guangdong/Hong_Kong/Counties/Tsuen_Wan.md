@@ -40,17 +40,17 @@ markerFolder: ./Tsuen_Wan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tsuen_Wan](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan|Tsuen_Wan]] 
 
-### #is_/same_as :: [Tsuen_Wan.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.public|Tsuen_Wan.public]] 
 
-### #is_/same_as :: [Tsuen_Wan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.internal|Tsuen_Wan.internal]] 
 
-### #is_/same_as :: [Tsuen_Wan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.protect|Tsuen_Wan.protect]] 
 
-### #is_/same_as :: [Tsuen_Wan.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.private|Tsuen_Wan.private]] 
 
-### #is_/same_as :: [Tsuen_Wan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.personal|Tsuen_Wan.personal]] 
 
-### #is_/same_as :: [Tsuen_Wan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tsuen_Wan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tsuen_Wan.secret|Tsuen_Wan.secret]] 
 

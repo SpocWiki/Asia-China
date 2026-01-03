@@ -40,17 +40,17 @@ markerFolder: ./Guizhou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guizhou](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou|Guizhou]] 
 
-### #is_/same_as :: [Guizhou.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.public|Guizhou.public]] 
 
-### #is_/same_as :: [Guizhou.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.internal|Guizhou.internal]] 
 
-### #is_/same_as :: [Guizhou.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.protect|Guizhou.protect]] 
 
-### #is_/same_as :: [Guizhou.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.private|Guizhou.private]] 
 
-### #is_/same_as :: [Guizhou.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.personal|Guizhou.personal]] 
 
-### #is_/same_as :: [Guizhou.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guizhou.secret|Guizhou.secret]] 
 

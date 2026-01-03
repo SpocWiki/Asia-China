@@ -151,3 +151,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Xi'an) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an|Xi'an]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.public|Xi'an.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.internal|Xi'an.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.protect|Xi'an.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.private|Xi'an.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.personal|Xi'an.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an.secret|Xi'an.secret]] 
+

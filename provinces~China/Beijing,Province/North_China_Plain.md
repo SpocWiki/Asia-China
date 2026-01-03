@@ -41,3 +41,19 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jinanfromqianfoshan.jp
 > [Wikipedia](https://en.wikipedia.org/wiki/North%20China%20Plain) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain|North_China_Plain]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.public|North_China_Plain.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.internal|North_China_Plain.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.protect|North_China_Plain.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.private|North_China_Plain.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.personal|North_China_Plain.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/North_China_Plain.secret|North_China_Plain.secret]] 
+

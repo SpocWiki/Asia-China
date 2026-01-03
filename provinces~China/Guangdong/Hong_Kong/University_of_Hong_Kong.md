@@ -111,3 +111,20 @@ REDnote_profile: 5f967d110000000001008a03
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/University%20of%20Hong%20Kong) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong|University_of_Hong_Kong]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.public|University_of_Hong_Kong.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.internal|University_of_Hong_Kong.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.protect|University_of_Hong_Kong.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.private|University_of_Hong_Kong.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.personal|University_of_Hong_Kong.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/University_of_Hong_Kong.secret|University_of_Hong_Kong.secret]] 
+

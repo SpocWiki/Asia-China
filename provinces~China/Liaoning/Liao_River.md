@@ -64,3 +64,20 @@ Commons_category: Liao River
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liao%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River|Liao_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.public|Liao_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.internal|Liao_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.protect|Liao_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.private|Liao_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.personal|Liao_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning/Liao_River.secret|Liao_River.secret]] 
+

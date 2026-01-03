@@ -216,3 +216,20 @@ official_name: 成都市
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chengdu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu|Chengdu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.public|Chengdu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.internal|Chengdu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.protect|Chengdu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.private|Chengdu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.personal|Chengdu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Sichuan/counties~Sichuan/Chengdu.secret|Chengdu.secret]] 
+

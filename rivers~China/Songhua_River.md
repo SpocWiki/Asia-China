@@ -68,4 +68,19 @@ Wolfram_Language_entity_code:
 > [Wikipedia](https://en.wikipedia.org/wiki/Songhua%20River) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River|Songhua_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.public|Songhua_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.internal|Songhua_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.protect|Songhua_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.private|Songhua_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.personal|Songhua_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/rivers~China/Songhua_River.secret|Songhua_River.secret]] 
 

@@ -68,3 +68,20 @@ Commons_gallery: 明十三陵
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ming%20tombs) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs|Ming_Tombs]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.public|Ming_Tombs.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.internal|Ming_Tombs.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.protect|Ming_Tombs.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.private|Ming_Tombs.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.personal|Ming_Tombs.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Ming_Tombs.secret|Ming_Tombs.secret]] 
+

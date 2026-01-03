@@ -40,17 +40,17 @@ markerFolder: ./Islands/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islands](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands|Islands]] 
 
-### #is_/same_as :: [Islands.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.public|Islands.public]] 
 
-### #is_/same_as :: [Islands.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.internal|Islands.internal]] 
 
-### #is_/same_as :: [Islands.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.protect|Islands.protect]] 
 
-### #is_/same_as :: [Islands.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.private|Islands.private]] 
 
-### #is_/same_as :: [Islands.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.personal|Islands.personal]] 
 
-### #is_/same_as :: [Islands.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Islands.secret|Islands.secret]] 
 

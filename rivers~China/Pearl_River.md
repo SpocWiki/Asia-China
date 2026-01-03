@@ -75,3 +75,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pearl%20River) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River|Pearl_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.public|Pearl_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.internal|Pearl_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.protect|Pearl_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.private|Pearl_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.personal|Pearl_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/rivers~China/Pearl_River.secret|Pearl_River.secret]] 
+

@@ -72,3 +72,21 @@ native_label: པོ་ཏ་ལ
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Potala%20Palace) 
 > 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace|Potala_Palace]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.public|Potala_Palace.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.internal|Potala_Palace.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.protect|Potala_Palace.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.private|Potala_Palace.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.personal|Potala_Palace.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City/Potala_Palace.secret|Potala_Palace.secret]] 
+

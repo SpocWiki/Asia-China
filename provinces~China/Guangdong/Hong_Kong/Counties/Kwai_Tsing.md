@@ -40,17 +40,17 @@ markerFolder: ./Kwai_Tsing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kwai_Tsing](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing|Kwai_Tsing]] 
 
-### #is_/same_as :: [Kwai_Tsing.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.public|Kwai_Tsing.public]] 
 
-### #is_/same_as :: [Kwai_Tsing.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.internal|Kwai_Tsing.internal]] 
 
-### #is_/same_as :: [Kwai_Tsing.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.protect|Kwai_Tsing.protect]] 
 
-### #is_/same_as :: [Kwai_Tsing.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.private|Kwai_Tsing.private]] 
 
-### #is_/same_as :: [Kwai_Tsing.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.personal|Kwai_Tsing.personal]] 
 
-### #is_/same_as :: [Kwai_Tsing.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Kwai_Tsing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Kwai_Tsing.secret|Kwai_Tsing.secret]] 
 

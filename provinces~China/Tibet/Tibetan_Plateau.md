@@ -82,3 +82,20 @@ minZoom: 2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tibetan%20Plateau) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau|Tibetan_Plateau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.public|Tibetan_Plateau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.internal|Tibetan_Plateau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.protect|Tibetan_Plateau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.private|Tibetan_Plateau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.personal|Tibetan_Plateau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/Tibetan_Plateau.secret|Tibetan_Plateau.secret]] 
+

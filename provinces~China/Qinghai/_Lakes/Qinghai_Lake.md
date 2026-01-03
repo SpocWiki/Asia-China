@@ -59,3 +59,21 @@ coordinate_location: Point(100.0 37.0)
 > and a maximum depth of 25.5 m (84 ft) in 2008.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qinghai%20Lake) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake|Qinghai_Lake]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.public|Qinghai_Lake.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.internal|Qinghai_Lake.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.protect|Qinghai_Lake.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.private|Qinghai_Lake.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.personal|Qinghai_Lake.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai/_Lakes/Qinghai_Lake.secret|Qinghai_Lake.secret]] 
+

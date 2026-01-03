@@ -32,3 +32,20 @@ instance_of: "[[_Standards/WikiData/WD~doctrine,117850]]"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mandate%20of%20Heaven) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven|Mandate_of_Heaven]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.public|Mandate_of_Heaven.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.internal|Mandate_of_Heaven.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.protect|Mandate_of_Heaven.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.private|Mandate_of_Heaven.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.personal|Mandate_of_Heaven.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/Emperor of China/Mandate_of_Heaven.secret|Mandate_of_Heaven.secret]] 
+

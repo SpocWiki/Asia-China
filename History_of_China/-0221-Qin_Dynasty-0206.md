@@ -79,3 +79,20 @@ Commons_gallery: 秦朝
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qin%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206|-0221-Qin_Dynasty-0206]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.public|-0221-Qin_Dynasty-0206.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.internal|-0221-Qin_Dynasty-0206.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.protect|-0221-Qin_Dynasty-0206.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.private|-0221-Qin_Dynasty-0206.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.personal|-0221-Qin_Dynasty-0206.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206.secret|-0221-Qin_Dynasty-0206.secret]] 
+

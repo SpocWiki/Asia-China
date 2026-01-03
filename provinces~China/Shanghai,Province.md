@@ -45,17 +45,17 @@ markerFile: [[Shanghai,Province]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shanghai,State](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province|Shanghai,Province]] 
 
-### #is_/same_as :: [Shanghai,State.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.public|Shanghai,Province.public]] 
 
-### #is_/same_as :: [Shanghai,State.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.internal|Shanghai,Province.internal]] 
 
-### #is_/same_as :: [Shanghai,State.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.protect|Shanghai,Province.protect]] 
 
-### #is_/same_as :: [Shanghai,State.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.private|Shanghai,Province.private]] 
 
-### #is_/same_as :: [Shanghai,State.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.personal|Shanghai,Province.personal]] 
 
-### #is_/same_as :: [Shanghai,State.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai,Province.secret|Shanghai,Province.secret]] 
 

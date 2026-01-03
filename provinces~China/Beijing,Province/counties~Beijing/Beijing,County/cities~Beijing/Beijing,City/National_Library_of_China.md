@@ -68,3 +68,20 @@ inception:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/National%20Library%20of%20China) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China|National_Library_of_China]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.public|National_Library_of_China.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.internal|National_Library_of_China.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.protect|National_Library_of_China.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.private|National_Library_of_China.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.personal|National_Library_of_China.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/National_Library_of_China.secret|National_Library_of_China.secret]] 
+

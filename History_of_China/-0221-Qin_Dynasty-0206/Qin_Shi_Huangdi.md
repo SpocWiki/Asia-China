@@ -120,3 +120,20 @@ date_of_birth: -0258-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Qin%20Shi%20Huang) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi|Qin_Shi_Huangdi]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.public|Qin_Shi_Huangdi.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.internal|Qin_Shi_Huangdi.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.protect|Qin_Shi_Huangdi.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.private|Qin_Shi_Huangdi.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.personal|Qin_Shi_Huangdi.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/-0221-Qin_Dynasty-0206/Qin_Shi_Huangdi.secret|Qin_Shi_Huangdi.secret]] 
+

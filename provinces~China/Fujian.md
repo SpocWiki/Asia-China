@@ -40,17 +40,17 @@ markerFolder: ./Fujian/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fujian](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian|Fujian]] 
 
-### #is_/same_as :: [Fujian.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.public|Fujian.public]] 
 
-### #is_/same_as :: [Fujian.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.internal|Fujian.internal]] 
 
-### #is_/same_as :: [Fujian.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.protect|Fujian.protect]] 
 
-### #is_/same_as :: [Fujian.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.private|Fujian.private]] 
 
-### #is_/same_as :: [Fujian.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.personal|Fujian.personal]] 
 
-### #is_/same_as :: [Fujian.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Fujian.secret|Fujian.secret]] 
 

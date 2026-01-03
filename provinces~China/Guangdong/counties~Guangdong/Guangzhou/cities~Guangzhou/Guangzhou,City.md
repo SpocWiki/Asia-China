@@ -188,3 +188,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Guangzhou) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City|Guangzhou,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.public|Guangzhou,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.internal|Guangzhou,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.protect|Guangzhou,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.private|Guangzhou,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.personal|Guangzhou,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Guangzhou/cities~Guangzhou/Guangzhou,City.secret|Guangzhou,City.secret]] 
+

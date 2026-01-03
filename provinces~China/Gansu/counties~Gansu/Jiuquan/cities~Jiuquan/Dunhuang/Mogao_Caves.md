@@ -48,3 +48,20 @@ Commons_gallery: 莫高窟
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mogao%20Caves) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves|Mogao_Caves]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.public|Mogao_Caves.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.internal|Mogao_Caves.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.protect|Mogao_Caves.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.private|Mogao_Caves.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.personal|Mogao_Caves.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu/counties~Gansu/Jiuquan/cities~Jiuquan/Dunhuang/Mogao_Caves.secret|Mogao_Caves.secret]] 
+

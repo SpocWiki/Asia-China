@@ -121,3 +121,20 @@ coordinate_location: Point(116.305277777 39.989722222)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peking%20University) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University|Peking_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.public|Peking_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.internal|Peking_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.protect|Peking_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.private|Peking_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.personal|Peking_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Peking_University.secret|Peking_University.secret]] 
+

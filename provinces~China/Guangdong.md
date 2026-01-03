@@ -40,17 +40,17 @@ markerFolder: ./Guangdong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guangdong](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong|Guangdong]] 
 
-### #is_/same_as :: [Guangdong.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.public|Guangdong.public]] 
 
-### #is_/same_as :: [Guangdong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.internal|Guangdong.internal]] 
 
-### #is_/same_as :: [Guangdong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.protect|Guangdong.protect]] 
 
-### #is_/same_as :: [Guangdong.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.private|Guangdong.private]] 
 
-### #is_/same_as :: [Guangdong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.personal|Guangdong.personal]] 
 
-### #is_/same_as :: [Guangdong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong.secret|Guangdong.secret]] 
 

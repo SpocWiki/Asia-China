@@ -40,17 +40,17 @@ markerFolder: ./Sha_Tin/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sha_Tin](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin|Sha_Tin]] 
 
-### #is_/same_as :: [Sha_Tin.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.public|Sha_Tin.public]] 
 
-### #is_/same_as :: [Sha_Tin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.internal|Sha_Tin.internal]] 
 
-### #is_/same_as :: [Sha_Tin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.protect|Sha_Tin.protect]] 
 
-### #is_/same_as :: [Sha_Tin.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.private|Sha_Tin.private]] 
 
-### #is_/same_as :: [Sha_Tin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.personal|Sha_Tin.personal]] 
 
-### #is_/same_as :: [Sha_Tin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Sha_Tin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Sha_Tin.secret|Sha_Tin.secret]] 
 

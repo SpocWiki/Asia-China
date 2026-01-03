@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urghendj](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj|Urghendj]] 
 
-### #is_/same_as :: [Urghendj.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.public|Urghendj.public]] 
 
-### #is_/same_as :: [Urghendj.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.internal|Urghendj.internal]] 
 
-### #is_/same_as :: [Urghendj.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.protect|Urghendj.protect]] 
 
-### #is_/same_as :: [Urghendj.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.private|Urghendj.private]] 
 
-### #is_/same_as :: [Urghendj.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.personal|Urghendj.personal]] 
 
-### #is_/same_as :: [Urghendj.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Inner_Mongol/City/Urghendj.secret|Urghendj.secret]] 
 

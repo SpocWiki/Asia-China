@@ -37,3 +37,20 @@ end_time: 1912-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Emperor%20of%20China) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/Emperor of China|Emperor of China]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/Emperor of China.public|Emperor of China.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/Emperor of China.internal|Emperor of China.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/Emperor of China.protect|Emperor of China.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/Emperor of China.private|Emperor of China.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/Emperor of China.personal|Emperor of China.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/Emperor of China.secret|Emperor of China.secret]] 
+

@@ -76,4 +76,19 @@ official_name: 曲阜市
 > [Wikipedia](https://en.wikipedia.org/wiki/Qufu) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu|Qufu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.public|Qufu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.internal|Qufu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.protect|Qufu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.private|Qufu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.personal|Qufu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu.secret|Qufu.secret]] 
 

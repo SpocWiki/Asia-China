@@ -83,3 +83,20 @@ end_time: 2015-12-31T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/One-child%20policy) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015|1979-One-child_policy-2015]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.public|1979-One-child_policy-2015.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.internal|1979-One-child_policy-2015.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.protect|1979-One-child_policy-2015.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.private|1979-One-child_policy-2015.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.personal|1979-One-child_policy-2015.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/1979-One-child_policy-2015.secret|1979-One-child_policy-2015.secret]] 
+

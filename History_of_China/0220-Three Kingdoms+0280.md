@@ -93,4 +93,19 @@ end_time: 0280-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Three%20Kingdoms) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280|0220-Three Kingdoms+0280]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.public|0220-Three Kingdoms+0280.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.internal|0220-Three Kingdoms+0280.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.protect|0220-Three Kingdoms+0280.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.private|0220-Three Kingdoms+0280.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.personal|0220-Three Kingdoms+0280.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/0220-Three Kingdoms+0280.secret|0220-Three Kingdoms+0280.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Central_and_Western/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Central_and_Western](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western|Central_and_Western]] 
 
-### #is_/same_as :: [Central_and_Western.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.public|Central_and_Western.public]] 
 
-### #is_/same_as :: [Central_and_Western.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.internal|Central_and_Western.internal]] 
 
-### #is_/same_as :: [Central_and_Western.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.protect|Central_and_Western.protect]] 
 
-### #is_/same_as :: [Central_and_Western.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.private|Central_and_Western.private]] 
 
-### #is_/same_as :: [Central_and_Western.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.personal|Central_and_Western.personal]] 
 
-### #is_/same_as :: [Central_and_Western.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Central_and_Western.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Central_and_Western.secret|Central_and_Western.secret]] 
 

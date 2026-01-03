@@ -64,3 +64,20 @@ native_label: 鄱阳湖 - Póyáng Hú
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poyang%20Lake) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake|Poyang_Lake]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.public|Poyang_Lake.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.internal|Poyang_Lake.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.protect|Poyang_Lake.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.private|Poyang_Lake.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.personal|Poyang_Lake.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangxi/_Lakes/Poyang_Lake.secret|Poyang_Lake.secret]] 
+

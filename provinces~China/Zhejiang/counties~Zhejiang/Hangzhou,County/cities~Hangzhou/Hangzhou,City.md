@@ -140,3 +140,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hangzhou) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City|Hangzhou,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.public|Hangzhou,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.internal|Hangzhou,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.protect|Hangzhou,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.private|Hangzhou,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.personal|Hangzhou,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Zhejiang/counties~Zhejiang/Hangzhou,County/cities~Hangzhou/Hangzhou,City.secret|Hangzhou,City.secret]] 
+

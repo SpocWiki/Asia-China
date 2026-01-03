@@ -45,4 +45,19 @@ Commons_gallery: 春秋時代
 > [Wikipedia](https://en.wikipedia.org/wiki/Spring%20and%20Autumn%20period) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476|-0770-Spring_and_Autumn-0476]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.public|-0770-Spring_and_Autumn-0476.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.internal|-0770-Spring_and_Autumn-0476.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.protect|-0770-Spring_and_Autumn-0476.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.private|-0770-Spring_and_Autumn-0476.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.personal|-0770-Spring_and_Autumn-0476.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/-0770-Spring_and_Autumn-0476.secret|-0770-Spring_and_Autumn-0476.secret]] 
 

@@ -47,17 +47,17 @@ markerFile: [[Gansu]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gansu](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu|Gansu]] 
 
-### #is_/same_as :: [Gansu.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.public|Gansu.public]] 
 
-### #is_/same_as :: [Gansu.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.internal|Gansu.internal]] 
 
-### #is_/same_as :: [Gansu.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.protect|Gansu.protect]] 
 
-### #is_/same_as :: [Gansu.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.private|Gansu.private]] 
 
-### #is_/same_as :: [Gansu.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.personal|Gansu.personal]] 
 
-### #is_/same_as :: [Gansu.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Gansu.secret|Gansu.secret]] 
 

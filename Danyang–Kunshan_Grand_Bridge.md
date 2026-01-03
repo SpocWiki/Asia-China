@@ -36,3 +36,20 @@ coordinate_location: Point(120.245897222 31.637786111)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Danyang%E2%80%93Kunshan%20Grand%20Bridge) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge|Danyang–Kunshan_Grand_Bridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.public|Danyang–Kunshan_Grand_Bridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.internal|Danyang–Kunshan_Grand_Bridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.protect|Danyang–Kunshan_Grand_Bridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.private|Danyang–Kunshan_Grand_Bridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.personal|Danyang–Kunshan_Grand_Bridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/Danyang–Kunshan_Grand_Bridge.secret|Danyang–Kunshan_Grand_Bridge.secret]] 
+

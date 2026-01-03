@@ -40,17 +40,17 @@ markerFolder: ./Hunan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hunan](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan|Hunan]] 
 
-### #is_/same_as :: [Hunan.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.public|Hunan.public]] 
 
-### #is_/same_as :: [Hunan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.internal|Hunan.internal]] 
 
-### #is_/same_as :: [Hunan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.protect|Hunan.protect]] 
 
-### #is_/same_as :: [Hunan.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.private|Hunan.private]] 
 
-### #is_/same_as :: [Hunan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.personal|Hunan.personal]] 
 
-### #is_/same_as :: [Hunan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hunan.secret|Hunan.secret]] 
 

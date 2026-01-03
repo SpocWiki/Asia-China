@@ -105,3 +105,20 @@ date_of_official_opening: 2018-10-24T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hong%20Kong%E2%80%93Zhuhai%E2%80%93Macau%20Bridge) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge|Hong_Kong–Zhuhai–Macau_Bridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.public|Hong_Kong–Zhuhai–Macau_Bridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.internal|Hong_Kong–Zhuhai–Macau_Bridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.protect|Hong_Kong–Zhuhai–Macau_Bridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.private|Hong_Kong–Zhuhai–Macau_Bridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.personal|Hong_Kong–Zhuhai–Macau_Bridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong–Zhuhai–Macau_Bridge.secret|Hong_Kong–Zhuhai–Macau_Bridge.secret]] 
+

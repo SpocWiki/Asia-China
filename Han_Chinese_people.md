@@ -70,3 +70,19 @@ Commons_category: Han Chinese people
 > [Wikipedia](https://en.wikipedia.org/wiki/Han%20Chinese) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people|Han_Chinese_people]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.public|Han_Chinese_people.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.internal|Han_Chinese_people.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.protect|Han_Chinese_people.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.private|Han_Chinese_people.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.personal|Han_Chinese_people.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/Han_Chinese_people.secret|Han_Chinese_people.secret]] 
+

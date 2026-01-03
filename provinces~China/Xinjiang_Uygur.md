@@ -42,17 +42,17 @@ markerFolder: ./Xinjiang/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xinjiang_Uygur](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur|Xinjiang_Uygur]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.public|Xinjiang_Uygur.public]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.internal|Xinjiang_Uygur.internal]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.protect|Xinjiang_Uygur.protect]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.private|Xinjiang_Uygur.private]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.personal|Xinjiang_Uygur.personal]] 
 
-### #is_/same_as :: [Xinjiang_Uygur.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur.secret|Xinjiang_Uygur.secret]] 
 

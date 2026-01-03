@@ -154,3 +154,20 @@ China_division_code_for_Statistics: 44 03
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shenzhen) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen|Shenzhen]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.public|Shenzhen.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.internal|Shenzhen.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.protect|Shenzhen.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.private|Shenzhen.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.personal|Shenzhen.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/counties~Guangdong/Shenzhen.secret|Shenzhen.secret]] 
+

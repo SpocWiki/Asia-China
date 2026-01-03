@@ -254,20 +254,19 @@ markerFolder: ./Chongqing/
 > [Wikipedia](https://en.wikipedia.org/wiki/Chongqing) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chongqing,Province](Chongqing,Province.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province|Chongqing,Province]] 
 
-### #is_/same_as :: [Chongqing.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.public|Chongqing,Province.public]] 
 
-### #is_/same_as :: [Chongqing.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.internal|Chongqing,Province.internal]] 
 
-### #is_/same_as :: [Chongqing.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.protect|Chongqing,Province.protect]] 
 
-### #is_/same_as :: [Chongqing.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.private|Chongqing,Province.private]] 
 
-### #is_/same_as :: [Chongqing.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.personal|Chongqing,Province.personal]] 
 
-### #is_/same_as :: [Chongqing.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Chongqing,Province.secret|Chongqing,Province.secret]] 
 

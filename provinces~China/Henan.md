@@ -40,17 +40,17 @@ markerFolder: ./Henan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Henan](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan|Henan]] 
 
-### #is_/same_as :: [Henan.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.public|Henan.public]] 
 
-### #is_/same_as :: [Henan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.internal|Henan.internal]] 
 
-### #is_/same_as :: [Henan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.protect|Henan.protect]] 
 
-### #is_/same_as :: [Henan.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.private|Henan.private]] 
 
-### #is_/same_as :: [Henan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.personal|Henan.personal]] 
 
-### #is_/same_as :: [Henan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Henan.secret|Henan.secret]] 
 

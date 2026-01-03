@@ -88,3 +88,20 @@ BHCL_UUID: e6ddf9e0-f5ba-44a2-93a5-4f470cb86d1d
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lhasa) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City|Lhasa,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.public|Lhasa,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.internal|Lhasa,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.protect|Lhasa,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.private|Lhasa,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.personal|Lhasa,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/counties~Xizang/Lhasa,County/cities~Lhasa/Lhasa,City.secret|Lhasa,City.secret]] 
+

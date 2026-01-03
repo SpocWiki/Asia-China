@@ -45,3 +45,20 @@ Commons_category: Taiping Rebellion
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taiping%20Rebellion) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864|1851-Taiping_Rebellion+1864]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.public|1851-Taiping_Rebellion+1864.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.internal|1851-Taiping_Rebellion+1864.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.protect|1851-Taiping_Rebellion+1864.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.private|1851-Taiping_Rebellion+1864.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.personal|1851-Taiping_Rebellion+1864.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/1851-Taiping_Rebellion+1864.secret|1851-Taiping_Rebellion+1864.secret]] 
+

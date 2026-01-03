@@ -40,17 +40,17 @@ markerFolder: ./Yau_Tsim_Mong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yau_Tsim_Mong](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong|Yau_Tsim_Mong]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.public|Yau_Tsim_Mong.public]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.internal|Yau_Tsim_Mong.internal]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.protect|Yau_Tsim_Mong.protect]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.private|Yau_Tsim_Mong.private]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.personal|Yau_Tsim_Mong.personal]] 
 
-### #is_/same_as :: [Yau_Tsim_Mong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Yau_Tsim_Mong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Yau_Tsim_Mong.secret|Yau_Tsim_Mong.secret]] 
 

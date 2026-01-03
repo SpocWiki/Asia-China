@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irkeschtam](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam|Irkeschtam]] 
 
-### #is_/same_as :: [Irkeschtam.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.public|Irkeschtam.public]] 
 
-### #is_/same_as :: [Irkeschtam.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.internal|Irkeschtam.internal]] 
 
-### #is_/same_as :: [Irkeschtam.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.protect|Irkeschtam.protect]] 
 
-### #is_/same_as :: [Irkeschtam.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.private|Irkeschtam.private]] 
 
-### #is_/same_as :: [Irkeschtam.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.personal|Irkeschtam.personal]] 
 
-### #is_/same_as :: [Irkeschtam.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/City/Irkeschtam.secret|Irkeschtam.secret]] 
 

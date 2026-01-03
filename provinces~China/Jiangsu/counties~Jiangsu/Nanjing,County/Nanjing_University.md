@@ -93,3 +93,20 @@ inception: 1915-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nanjing%20University) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University|Nanjing_University]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.public|Nanjing_University.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.internal|Nanjing_University.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.protect|Nanjing_University.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.private|Nanjing_University.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.personal|Nanjing_University.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County/Nanjing_University.secret|Nanjing_University.secret]] 
+

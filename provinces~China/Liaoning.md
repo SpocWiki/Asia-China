@@ -72,17 +72,17 @@ markerFolder: ./Liaoning/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liaoning](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning|Liaoning]] 
 
-### #is_/same_as :: [Liaoning.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.public|Liaoning.public]] 
 
-### #is_/same_as :: [Liaoning.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.internal|Liaoning.internal]] 
 
-### #is_/same_as :: [Liaoning.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.protect|Liaoning.protect]] 
 
-### #is_/same_as :: [Liaoning.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.private|Liaoning.private]] 
 
-### #is_/same_as :: [Liaoning.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.personal|Liaoning.personal]] 
 
-### #is_/same_as :: [Liaoning.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Liaoning.secret|Liaoning.secret]] 
 

@@ -361,17 +361,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beijing,City](Beijing,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City|Beijing,City]] 
 
-### #is_/same_as :: [Beijing,City.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.public|Beijing,City.public]] 
 
-### #is_/same_as :: [Beijing,City.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.internal|Beijing,City.internal]] 
 
-### #is_/same_as :: [Beijing,City.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.protect|Beijing,City.protect]] 
 
-### #is_/same_as :: [Beijing,City.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.private|Beijing,City.private]] 
 
-### #is_/same_as :: [Beijing,City.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.personal|Beijing,City.personal]] 
 
-### #is_/same_as :: [Beijing,City.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing/City/Beijing,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City.secret|Beijing,City.secret]] 
 

@@ -58,3 +58,20 @@ name: Terracotta Army
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Terracotta%20Army) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army|Terracotta_Army]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.public|Terracotta_Army.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.internal|Terracotta_Army.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.protect|Terracotta_Army.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.private|Terracotta_Army.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.personal|Terracotta_Army.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shaanxi/counties~Shaanxi/Xi'an/Terracotta_Army.secret|Terracotta_Army.secret]] 
+

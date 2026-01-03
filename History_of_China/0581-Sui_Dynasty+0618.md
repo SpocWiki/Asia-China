@@ -28,3 +28,21 @@
 > After a series of military campaigns against Goguryeo on the Korean peninsula, ended in defeat by 614, the dynasty disintegrated amid popular revolts that culminated in the assassination of Emperor Yang by a minister named Yuwen Huaji in 618. The dynasty, which lasted only 37 years, was undermined by ambitious wars and construction projects, which overstretched its resources. Particularly, under Emperor Yang, heavy taxation and compulsory labour duties would eventually induce widespread revolts and brief civil war following the fall of the dynasty.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sui%20dynasty)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618|0581-Sui_Dynasty+0618]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.public|0581-Sui_Dynasty+0618.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.internal|0581-Sui_Dynasty+0618.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.protect|0581-Sui_Dynasty+0618.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.private|0581-Sui_Dynasty+0618.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.personal|0581-Sui_Dynasty+0618.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/0581-Sui_Dynasty+0618.secret|0581-Sui_Dynasty+0618.secret]] 
+

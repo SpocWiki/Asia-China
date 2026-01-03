@@ -46,3 +46,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yunnan%E2%80%93Guizhou%20Plateau) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau|Yunnan-Guizhou_Plateau]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.public|Yunnan-Guizhou_Plateau.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.internal|Yunnan-Guizhou_Plateau.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.protect|Yunnan-Guizhou_Plateau.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.private|Yunnan-Guizhou_Plateau.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.personal|Yunnan-Guizhou_Plateau.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Yunnan/Yunnan-Guizhou_Plateau.secret|Yunnan-Guizhou_Plateau.secret]] 
+

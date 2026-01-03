@@ -65,21 +65,19 @@ defaultZoom: 8
 > [Wikipedia](https://en.wikipedia.org/wiki/Tianjin) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tianjin](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province|Tianjin,Province]] 
 
-### #is_/same_as :: [Tianjin.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.public|Tianjin,Province.public]] 
 
-### #is_/same_as :: [Tianjin.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.internal|Tianjin,Province.internal]] 
 
-### #is_/same_as :: [Tianjin.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.protect|Tianjin,Province.protect]] 
 
-### #is_/same_as :: [Tianjin.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.private|Tianjin,Province.private]] 
 
-### #is_/same_as :: [Tianjin.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.personal|Tianjin,Province.personal]] 
 
-### #is_/same_as :: [Tianjin.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tianjin,Province.secret|Tianjin,Province.secret]] 
 

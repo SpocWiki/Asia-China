@@ -40,17 +40,17 @@ markerFolder: ./Hainan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hainan](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan|Hainan]] 
 
-### #is_/same_as :: [Hainan.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.public|Hainan.public]] 
 
-### #is_/same_as :: [Hainan.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.internal|Hainan.internal]] 
 
-### #is_/same_as :: [Hainan.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.protect|Hainan.protect]] 
 
-### #is_/same_as :: [Hainan.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.private|Hainan.private]] 
 
-### #is_/same_as :: [Hainan.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.personal|Hainan.personal]] 
 
-### #is_/same_as :: [Hainan.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Hainan.secret|Hainan.secret]] 
 

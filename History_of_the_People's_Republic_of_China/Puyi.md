@@ -148,3 +148,20 @@ date_of_birth: 1906-02-07T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Puyi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi|Puyi]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.public|Puyi.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.internal|Puyi.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.protect|Puyi.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.private|Puyi.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.personal|Puyi.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China/Puyi.secret|Puyi.secret]] 
+

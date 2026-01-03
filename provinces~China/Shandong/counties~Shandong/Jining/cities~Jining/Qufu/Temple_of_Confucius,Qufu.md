@@ -51,3 +51,20 @@ native_label: 孔庙
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temple%20of%20Confucius,%20Qufu) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu|Temple_of_Confucius,Qufu]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.public|Temple_of_Confucius,Qufu.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.internal|Temple_of_Confucius,Qufu.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.protect|Temple_of_Confucius,Qufu.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.private|Temple_of_Confucius,Qufu.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.personal|Temple_of_Confucius,Qufu.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong/counties~Shandong/Jining/cities~Jining/Qufu/Temple_of_Confucius,Qufu.secret|Temple_of_Confucius,Qufu.secret]] 
+

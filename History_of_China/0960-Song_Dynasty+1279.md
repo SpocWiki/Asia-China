@@ -49,3 +49,20 @@ inception: 0960-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Song%20dynasty) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279|0960-Song_Dynasty+1279]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.public|0960-Song_Dynasty+1279.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.internal|0960-Song_Dynasty+1279.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.protect|0960-Song_Dynasty+1279.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.private|0960-Song_Dynasty+1279.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.personal|0960-Song_Dynasty+1279.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/0960-Song_Dynasty+1279.secret|0960-Song_Dynasty+1279.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Qinghai/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qinghai](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai|Qinghai]] 
 
-### #is_/same_as :: [Qinghai.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.public|Qinghai.public]] 
 
-### #is_/same_as :: [Qinghai.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.internal|Qinghai.internal]] 
 
-### #is_/same_as :: [Qinghai.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.protect|Qinghai.protect]] 
 
-### #is_/same_as :: [Qinghai.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.private|Qinghai.private]] 
 
-### #is_/same_as :: [Qinghai.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.personal|Qinghai.personal]] 
 
-### #is_/same_as :: [Qinghai.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Qinghai.secret|Qinghai.secret]] 
 

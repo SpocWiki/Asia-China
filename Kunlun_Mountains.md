@@ -39,3 +39,20 @@ native_label: 昆仑山
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kunlun%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains|Kunlun_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.public|Kunlun_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.internal|Kunlun_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.protect|Kunlun_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.private|Kunlun_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.personal|Kunlun_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/Kunlun_Mountains.secret|Kunlun_Mountains.secret]] 
+

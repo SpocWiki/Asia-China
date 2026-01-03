@@ -31,3 +31,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nanjing) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County|Nanjing,County]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.public|Nanjing,County.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.internal|Nanjing,County.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.protect|Nanjing,County.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.private|Nanjing,County.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.personal|Nanjing,County.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Jiangsu/counties~Jiangsu/Nanjing,County.secret|Nanjing,County.secret]] 
+

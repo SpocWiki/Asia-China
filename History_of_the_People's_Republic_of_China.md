@@ -26,3 +26,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Forbidden%20City1.JPG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20People's%20Republic%20of%20China) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China|History_of_the_People's_Republic_of_China]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.public|History_of_the_People's_Republic_of_China.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.internal|History_of_the_People's_Republic_of_China.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.protect|History_of_the_People's_Republic_of_China.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.private|History_of_the_People's_Republic_of_China.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.personal|History_of_the_People's_Republic_of_China.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_the_People's_Republic_of_China.secret|History_of_the_People's_Republic_of_China.secret]] 
+

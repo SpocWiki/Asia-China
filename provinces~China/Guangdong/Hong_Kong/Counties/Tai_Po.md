@@ -40,17 +40,17 @@ markerFolder: ./Tai_Po/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tai_Po](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po|Tai_Po]] 
 
-### #is_/same_as :: [Tai_Po.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.public|Tai_Po.public]] 
 
-### #is_/same_as :: [Tai_Po.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.internal|Tai_Po.internal]] 
 
-### #is_/same_as :: [Tai_Po.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.protect|Tai_Po.protect]] 
 
-### #is_/same_as :: [Tai_Po.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.private|Tai_Po.private]] 
 
-### #is_/same_as :: [Tai_Po.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.personal|Tai_Po.personal]] 
 
-### #is_/same_as :: [Tai_Po.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Tai_Po.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Tai_Po.secret|Tai_Po.secret]] 
 

@@ -121,3 +121,20 @@ title:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boxer%20Rebellion) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion|1899-Boxer_Rebellion]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.public|1899-Boxer_Rebellion.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.internal|1899-Boxer_Rebellion.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.protect|1899-Boxer_Rebellion.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.private|1899-Boxer_Rebellion.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.personal|1899-Boxer_Rebellion.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/1899-Boxer_Rebellion.secret|1899-Boxer_Rebellion.secret]] 
+

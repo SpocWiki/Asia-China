@@ -65,3 +65,20 @@ patronage: 52879156
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beijing%20Capital%20International%20Airport) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport|Beijing_Capital_International_Airport]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.public|Beijing_Capital_International_Airport.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.internal|Beijing_Capital_International_Airport.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.protect|Beijing_Capital_International_Airport.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.private|Beijing_Capital_International_Airport.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.personal|Beijing_Capital_International_Airport.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City/Beijing_Capital_International_Airport.secret|Beijing_Capital_International_Airport.secret]] 
+

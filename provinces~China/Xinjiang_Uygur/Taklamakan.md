@@ -51,3 +51,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taklamakan%20Desert) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan|Taklamakan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.public|Taklamakan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.internal|Taklamakan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.protect|Taklamakan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.private|Taklamakan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.personal|Taklamakan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Xinjiang_Uygur/Taklamakan.secret|Taklamakan.secret]] 
+

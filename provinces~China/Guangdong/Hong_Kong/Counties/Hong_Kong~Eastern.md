@@ -40,17 +40,17 @@ markerFolder: ./Hong_Kong~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hong_Kong~Eastern](/_Standards/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern|Hong_Kong~Eastern]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.public](/_public/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.public|Hong_Kong~Eastern.public]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.internal](/_internal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.internal|Hong_Kong~Eastern.internal]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.protect](/_protect/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.protect|Hong_Kong~Eastern.protect]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.private](/_private/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.private|Hong_Kong~Eastern.private]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.personal](/_personal/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.personal|Hong_Kong~Eastern.personal]] 
 
-### #is_/same_as :: [Hong_Kong~Eastern.secret](/_secret/Earth/Continent/Asia/Asia~East/China/Hong_Kong/Counties/Hong_Kong~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Guangdong/Hong_Kong/Counties/Hong_Kong~Eastern.secret|Hong_Kong~Eastern.secret]] 
 

@@ -89,3 +89,20 @@ Commons_category: Great Leap Forward
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Great%20Leap%20Forward) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962|1958-Great_Leap_Forward-1962]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.public|1958-Great_Leap_Forward-1962.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.internal|1958-Great_Leap_Forward-1962.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.protect|1958-Great_Leap_Forward-1962.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.private|1958-Great_Leap_Forward-1962.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.personal|1958-Great_Leap_Forward-1962.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/1958-Great_Leap_Forward-1962.secret|1958-Great_Leap_Forward-1962.secret]] 
+

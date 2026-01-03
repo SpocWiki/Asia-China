@@ -41,3 +41,20 @@ Commons_category: History of Tibet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Tibet) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet|History_of_Tibet]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.public|History_of_Tibet.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.internal|History_of_Tibet.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.protect|History_of_Tibet.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.private|History_of_Tibet.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.personal|History_of_Tibet.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Tibet/History_of_Tibet.secret|History_of_Tibet.secret]] 
+

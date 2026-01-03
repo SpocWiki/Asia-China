@@ -58,19 +58,20 @@ zoomFeatures: true
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Shandong) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shandong](/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong|Shandong]] 
 
-### #is_/same_as :: [Shandong.public](/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.public|Shandong.public]] 
 
-### #is_/same_as :: [Shandong.internal](/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.internal|Shandong.internal]] 
 
-### #is_/same_as :: [Shandong.protect](/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.protect|Shandong.protect]] 
 
-### #is_/same_as :: [Shandong.private](/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.private|Shandong.private]] 
 
-### #is_/same_as :: [Shandong.personal](/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.personal|Shandong.personal]] 
 
-### #is_/same_as :: [Shandong.secret](/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/provinces~China/Shandong.secret|Shandong.secret]] 
 

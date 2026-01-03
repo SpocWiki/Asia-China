@@ -151,17 +151,17 @@ topic_s_main_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [9795-Han_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220|-0205-Han_Dynasty+0220]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.public|-0205-Han_Dynasty+0220.public]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.internal|-0205-Han_Dynasty+0220.internal]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.protect|-0205-Han_Dynasty+0220.protect]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.private|-0205-Han_Dynasty+0220.private]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.personal|-0205-Han_Dynasty+0220.personal]] 
 
-### #is_/same_as :: [9795-Han_Dynasty.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/9795-Han_Dynasty.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/History_of_China/-0205-Han_Dynasty+0220.secret|-0205-Han_Dynasty+0220.secret]] 
 
