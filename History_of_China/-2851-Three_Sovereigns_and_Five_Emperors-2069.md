@@ -1,23 +1,23 @@
 ---
 aliases:
 has_id_wikidata: Q201727
-replaced_by: "[[_Standards/WikiData/WD~Xia_dynasty,169705]]"
+replaced_by: "[[_Standards/WikiData/WD~Xia_dynasty,169705|WD~Xia_dynasty,169705]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Zhuanxu,198180]]"
-  - "[[_Standards/WikiData/WD~Shun,313342]]"
-  - "[[_Standards/WikiData/WD~Emperor_Ku,721756]]"
-  - "[[_Standards/WikiData/WD~Yao,819556]]"
-  - "[[_Standards/WikiData/WD~Yellow_Emperor,29201]]"
+  - "[[_Standards/WikiData/WD~Zhuanxu,198180|WD~Zhuanxu,198180]]"
+  - "[[_Standards/WikiData/WD~Shun,313342|WD~Shun,313342]]"
+  - "[[_Standards/WikiData/WD~Emperor_Ku,721756|WD~Emperor_Ku,721756]]"
+  - "[[_Standards/WikiData/WD~Yao,819556|WD~Yao,819556]]"
+  - "[[_Standards/WikiData/WD~Yellow_Emperor,29201|WD~Yellow_Emperor,29201]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]"
-  - "[[_Standards/WikiData/WD~Sanhuang_Benji,17125461]]"
+  - "[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530|WD~Records_of_the_Grand_Historian,272530]]"
+  - "[[_Standards/WikiData/WD~Sanhuang_Benji,17125461|WD~Sanhuang_Benji,17125461]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~realm,1250464]]"
-  - "[[_Standards/WikiData/WD~mythological_king,6949213]]"
-  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
-  - "[[_Standards/WikiData/WD~pentad,29428403]]"
-  - "[[_Standards/WikiData/WD~triad,29430681]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Three_Sovereigns_and_Five_Emperors_footer,11133239]]"
+  - "[[_Standards/WikiData/WD~realm,1250464|WD~realm,1250464]]"
+  - "[[_Standards/WikiData/WD~mythological_king,6949213|WD~mythological_king,6949213]]"
+  - "[[_Standards/WikiData/WD~group_of_humans,16334295|WD~group_of_humans,16334295]]"
+  - "[[_Standards/WikiData/WD~pentad,29428403|WD~pentad,29428403]]"
+  - "[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Three_Sovereigns_and_Five_Emperors_footer,11133239|WD~Template_Three_Sovereigns_and_Five_Emperors_footer,11133239]]"
 end_time: -2069-01-01T00:00:00Z
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Di.png
 Commons_category: 3 Sovereigns and 5 Emperors

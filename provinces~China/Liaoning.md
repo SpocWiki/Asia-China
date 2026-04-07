@@ -29,7 +29,7 @@ expiryDate:
 
 # [[Liaoning]]
 
-#is_/same_as :: [[_Standards/WikiData/WD~Liaoning,43934]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Liaoning,43934|WD~Liaoning,43934]] 
 
 ```leaflet
 id: Liaoning

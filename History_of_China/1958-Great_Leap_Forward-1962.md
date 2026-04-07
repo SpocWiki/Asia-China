@@ -2,15 +2,15 @@
 aliases:
   - Great Leap Forward
 has_id_wikidata: Q58715
-has_goal: "[[_Standards/WikiData/WD~industrialization,202398]]"
+has_goal: "[[_Standards/WikiData/WD~industrialization,202398|WD~industrialization,202398]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~forced_labor,705818]]"
-  - "[[_Standards/WikiData/WD~denunciation_rally,2681848]]"
-  - "[[_Standards/WikiData/WD~collective_farming,4314084]]"
-instance_of: "[[_Standards/WikiData/WD~campaign,6056746]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-creator: "[[_Standards/WikiData/WD~Mao_Zedong,5816]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~forced_labor,705818|WD~forced_labor,705818]]"
+  - "[[_Standards/WikiData/WD~denunciation_rally,2681848|WD~denunciation_rally,2681848]]"
+  - "[[_Standards/WikiData/WD~collective_farming,4314084|WD~collective_farming,4314084]]"
+instance_of: "[[_Standards/WikiData/WD~campaign,6056746|WD~campaign,6056746]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]"
+creator: "[[_Standards/WikiData/WD~Mao_Zedong,5816|WD~Mao_Zedong,5816]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 end_time: 1962-01-01T00:00:00Z
 start_time: 1958-02-01T00:00:00Z
 native_label:

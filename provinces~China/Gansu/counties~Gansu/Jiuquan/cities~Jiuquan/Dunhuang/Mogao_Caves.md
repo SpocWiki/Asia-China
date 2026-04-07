@@ -7,23 +7,23 @@ has_id_wikidata: Q43286
 location: [40.037222222, 94.804166666]
 coordinate_location: Point(94.804166666 40.037222222)
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Dunhuang,319114]]"
-  - "[[_Standards/WikiData/WD~Guazhou,1201947]]"
+  - "[[_Standards/WikiData/WD~Dunhuang,319114|WD~Dunhuang,319114]]"
+  - "[[_Standards/WikiData/WD~Guazhou,1201947|WD~Guazhou,1201947]]"
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574|WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
+  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~building_complex,1497364]]"
-  - "[[_Standards/WikiData/WD~cave,35509]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Buddhist_temple,5393308]]"
+  - "[[_Standards/WikiData/WD~building_complex,1497364|WD~building_complex,1497364]]"
+  - "[[_Standards/WikiData/WD~cave,35509|WD~cave,35509]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Buddhist_temple,5393308|WD~Buddhist_temple,5393308]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(v),23038979]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(v),23038979|WD~(v),23038979]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 catalog_code: "35"
 Commons_category: Mogao Caves
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dunhuang%20Mogao%20Ku%202013.12.31%2012-30-18.jpg

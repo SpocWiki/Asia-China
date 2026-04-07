@@ -3,12 +3,12 @@ aliases:
   - Emperor of China
 has_id_wikidata: Q268218
 subclass_of:
-  - "[[_Standards/WikiData/WD~Chinese_sovereign,1563199]]"
-  - "[[_Standards/WikiData/WD~emperor,39018]]"
-honorific_prefix: "[[_Standards/WikiData/WD~Imperial_Majesty,3843034]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_Chinese_emperor,10954863]]"
-country: "[[_Standards/WikiData/WD~Chinese_Empire,12060881]]"
-instance_of: "[[_Standards/WikiData/WD~historical_position,114962596]]"
+  - "[[_Standards/WikiData/WD~Chinese_sovereign,1563199|WD~Chinese_sovereign,1563199]]"
+  - "[[_Standards/WikiData/WD~emperor,39018|WD~emperor,39018]]"
+honorific_prefix: "[[_Standards/WikiData/WD~Imperial_Majesty,3843034|WD~Imperial_Majesty,3843034]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_Chinese_emperor,10954863|WD~Template_Infobox_Chinese_emperor,10954863]]"
+country: "[[_Standards/WikiData/WD~Chinese_Empire,12060881|WD~Chinese_Empire,12060881]]"
+instance_of: "[[_Standards/WikiData/WD~historical_position,114962596|WD~historical_position,114962596]]"
 start_time: -0220-01-01T00:00:00Z
 female_form_of_label:
   - impératrice de Chine

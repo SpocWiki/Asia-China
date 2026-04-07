@@ -1,12 +1,12 @@
 ---
 aliases:
 has_id_wikidata: Q221719
-has_goal: "[[_Standards/WikiData/WD~human_population_control,130819]]"
-instance_of: "[[_Standards/WikiData/WD~human_population_planning,579873]]"
-has_characteristic: "[[_Standards/WikiData/WD~single_child,636156]]"
-part_of: "[[_Standards/WikiData/WD~family_planning_policy_of_People's_Republic_of_China,21857372]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Population_and_Family_Planning_Law_of_the_People's_Republic_of_China_(2001),56596340]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+has_goal: "[[_Standards/WikiData/WD~human_population_control,130819|WD~human_population_control,130819]]"
+instance_of: "[[_Standards/WikiData/WD~human_population_planning,579873|WD~human_population_planning,579873]]"
+has_characteristic: "[[_Standards/WikiData/WD~single_child,636156|WD~single_child,636156]]"
+part_of: "[[_Standards/WikiData/WD~family_planning_policy_of_People's_Republic_of_China,21857372|WD~family_planning_policy_of_People's_Republic_of_China,21857372]]"
+main_regulatory_text: "[[_Standards/WikiData/WD~Population_and_Family_Planning_Law_of_the_People's_Republic_of_China_(2001),56596340|WD~Population_and_Family_Planning_Law_of_the_People's_Republic_of_China_(2001),56596340]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 start_time: 1979-01-01T00:00:00Z
 Commons_category: Population policy in China
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Birth%20rate%20in%20China%20fr.jpg

@@ -2,25 +2,25 @@
 aliases:
 has_id_wikidata: Q132956
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Hotan,235389]]"
-  - "[[_Standards/WikiData/WD~Dunhuang,319114]]"
-  - "[[_Standards/WikiData/WD~Turpan,868527]]"
-  - "[[_Standards/WikiData/WD~Loulan_Kingdom,1057551]]"
+  - "[[_Standards/WikiData/WD~Hotan,235389|WD~Hotan,235389]]"
+  - "[[_Standards/WikiData/WD~Dunhuang,319114|WD~Dunhuang,319114]]"
+  - "[[_Standards/WikiData/WD~Turpan,868527|WD~Turpan,868527]]"
+  - "[[_Standards/WikiData/WD~Loulan_Kingdom,1057551|WD~Loulan_Kingdom,1057551]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Yurungkax_He,2339502]]"
-  - "[[_Standards/WikiData/WD~Qiemo_River,2380766]]"
-  - "[[_Standards/WikiData/WD~Keriya_He,3499210]]"
+  - "[[_Standards/WikiData/WD~Yurungkax_He,2339502|WD~Yurungkax_He,2339502]]"
+  - "[[_Standards/WikiData/WD~Qiemo_River,2380766|WD~Qiemo_River,2380766]]"
+  - "[[_Standards/WikiData/WD~Keriya_He,3499210|WD~Keriya_He,3499210]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-Köppen_climate_classification: "[[_Standards/WikiData/WD~cold_desert_climate,23662277]]"
+  - "[[_Standards/WikiData/WD~(viii),23038983|WD~(viii),23038983]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~cold_desert_climate,23662277|WD~cold_desert_climate,23662277]]"
 coordinate_location: Point(82.2 38.9)
-instance_of: "[[_Standards/WikiData/WD~desert,8514]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~desert,8514|WD~desert,8514]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 length: 1000
 width: 400
 area: 337000

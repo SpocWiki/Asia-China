@@ -2,22 +2,22 @@
 aliases:
 has_id_wikidata: Q7462
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Northern_Song_dynasty,319460]]"
-  - "[[_Standards/WikiData/WD~Southern_Song_dynasty,1147043]]"
-different_from: "[[_Standards/WikiData/WD~Song,1065073]]"
-depicted_by: "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
-follows: "[[_Standards/WikiData/WD~Later_Zhou_dynasty,1154556]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Song_dynasty,3137212]]"
+  - "[[_Standards/WikiData/WD~Northern_Song_dynasty,319460|WD~Northern_Song_dynasty,319460]]"
+  - "[[_Standards/WikiData/WD~Southern_Song_dynasty,1147043|WD~Southern_Song_dynasty,1147043]]"
+different_from: "[[_Standards/WikiData/WD~Song,1065073|WD~Song,1065073]]"
+depicted_by: "[[_Standards/WikiData/WD~History_of_Song,1147260|WD~History_of_Song,1147260]]"
+follows: "[[_Standards/WikiData/WD~Later_Zhou_dynasty,1154556|WD~Later_Zhou_dynasty,1154556]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Song_dynasty,3137212|WD~history_of_the_Song_dynasty,3137212]]"
 capital:
-  - "[[_Standards/WikiData/WD~Bianliang,7223839]]"
-  - "[[_Standards/WikiData/WD~Lin'an_Prefecture,15936775]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Song_dynasty_topics,10801533]]"
+  - "[[_Standards/WikiData/WD~Bianliang,7223839|WD~Bianliang,7223839]]"
+  - "[[_Standards/WikiData/WD~Lin'an_Prefecture,15936775|WD~Lin'an_Prefecture,15936775]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Song_dynasty_topics,10801533|WD~Template_Song_dynasty_topics,10801533]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~Chinese_dynasty,12857432]]"
-  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-replaced_by: "[[_Standards/WikiData/WD~Yuan_dynasty,7313]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+  - "[[_Standards/WikiData/WD~Chinese_dynasty,12857432|WD~Chinese_dynasty,12857432]]"
+  - "[[_Standards/WikiData/WD~historical_Chinese_state,50068795|WD~historical_Chinese_state,50068795]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]"
+replaced_by: "[[_Standards/WikiData/WD~Yuan_dynasty,7313|WD~Yuan_dynasty,7313]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 end_time: 1279-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1279-01-01T00:00:00Z
 Commons_category: Song Dynasty

@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q862552
-part_of: "[[_Standards/WikiData/WD~history_of_China,82972]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_the_People's_Republic_of_China,10997853]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+part_of: "[[_Standards/WikiData/WD~history_of_China,82972|WD~history_of_China,82972]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_the_People's_Republic_of_China,10997853|WD~Template_History_of_the_People's_Republic_of_China,10997853]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 Commons_category: History of the People's Republic of China
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Forbidden%20City1.JPG
 ---

@@ -10,25 +10,25 @@ aliases:
   - Yue river
 has_id_wikidata: Q201463
 tributary:
-  - "[[_Standards/WikiData/WD~Xi_River,216941]]"
-  - "[[_Standards/WikiData/WD~Dong_River,285137]]"
-  - "[[_Standards/WikiData/WD~Liuxihe_River,11147873]]"
+  - "[[_Standards/WikiData/WD~Xi_River,216941|WD~Xi_River,216941]]"
+  - "[[_Standards/WikiData/WD~Dong_River,285137|WD~Dong_River,285137]]"
+  - "[[_Standards/WikiData/WD~Liuxihe_River,11147873|WD~Liuxihe_River,11147873]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Nanpan_River,1569231]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Pearl_River,14374376]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Nanpan_River,1569231|WD~Nanpan_River,1569231]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Pearl_River,14374376|WD~Template_Pearl_River,14374376]]"
 coordinate_location:
   - Point(113.7702942 22.0894574)
   - Point(113.173838 23.240935)
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-basin_country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+basin_country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 length: 2400
 discharge: 9500
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
 watershed_area: 437000
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Guizhou,47097]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Guizhou,47097|WD~Guizhou,47097]]"
 route_map: http://commons.wikimedia.org/wiki/Special:FilePath/Zhujiangrivermap.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pearl%20river%2C%20Guangzhou.JPG
 Commons_category: Pearl River (China)

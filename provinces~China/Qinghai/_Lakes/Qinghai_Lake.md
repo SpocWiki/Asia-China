@@ -3,26 +3,26 @@ aliases:
   - Qinghai_Lake
 has_id_wikidata: Q201294
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~diaolou,875783]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~diaolou,875783|WD~diaolou,875783]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Buh_He,6809923]]"
-  - "[[_Standards/WikiData/WD~Q10888262,10888262]]"
+  - "[[_Standards/WikiData/WD~Buh_He,6809923|WD~Buh_He,6809923]]"
+  - "[[_Standards/WikiData/WD~Q10888262,10888262|WD~Q10888262,10888262]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~endorheic_lake,9019918]]"
-  - "[[_Standards/WikiData/WD~lake,23397]]"
+  - "[[_Standards/WikiData/WD~endorheic_lake,9019918|WD~endorheic_lake,9019918]]"
+  - "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 vertical_depth: 21
 height: 38
 area: 4400
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Qinghai,45833]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Qinghai,45833|WD~Qinghai,45833]]"
 width: 67.3
 volume_as_quantity: 71600000000
 length: 108.1

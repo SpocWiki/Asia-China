@@ -4,27 +4,27 @@ has_id_wikidata: Q683580
 location: [ 32.05611, 118.775]
 coordinate_location: Point(118.775 32.05611)
 instance_of:
-  - "[[_Standards/WikiData/WD~public_university,875538]]"
-  - "[[_Standards/WikiData/WD~vice_ministerial_level_university,16077796]]"
-  - "[[_Standards/WikiData/WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352]]"
+  - "[[_Standards/WikiData/WD~public_university,875538|WD~public_university,875538]]"
+  - "[[_Standards/WikiData/WD~vice_ministerial_level_university,16077796|WD~vice_ministerial_level_university,16077796]]"
+  - "[[_Standards/WikiData/WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352|WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352]]"
 affiliation:
-  - "[[_Standards/WikiData/WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167]]"
-  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688]]"
+  - "[[_Standards/WikiData/WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167|WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167]]"
+  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688|WD~Association_of_Pacific_Rim_Universities,1074688]]"
 is_member_of:
-  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688]]"
-  - "[[_Standards/WikiData/WD~Yangtze_Delta_Universities_Alliance,1284740]]"
-  - "[[_Standards/WikiData/WD~C9_League,2634906]]"
-  - "[[_Standards/WikiData/WD~Plan_111,17035628]]"
-  - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"
+  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688|WD~Association_of_Pacific_Rim_Universities,1074688]]"
+  - "[[_Standards/WikiData/WD~Yangtze_Delta_Universities_Alliance,1284740|WD~Yangtze_Delta_Universities_Alliance,1284740]]"
+  - "[[_Standards/WikiData/WD~C9_League,2634906|WD~C9_League,2634906]]"
+  - "[[_Standards/WikiData/WD~Plan_111,17035628|WD~Plan_111,17035628]]"
+  - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033|WD~World_Wide_Web_Consortium,37033]]"
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~Hopkins_Nanjing_Center,5900775]]"
-  - "[[_Standards/WikiData/WD~School_of_Atmospheric_Science,_Nanjing_University,10906743]]"
-different_from: "[[_Standards/WikiData/WD~University_of_Nanking,7895880]]"
-anthem: "[[_Standards/WikiData/WD~Q19800466,19800466]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nanjing_University,20692097]]"
-headquarters_location: "[[_Standards/WikiData/WD~Nanjing,16666]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nanjing,16666]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Hopkins_Nanjing_Center,5900775|WD~Hopkins_Nanjing_Center,5900775]]"
+  - "[[_Standards/WikiData/WD~School_of_Atmospheric_Science,_Nanjing_University,10906743|WD~School_of_Atmospheric_Science,_Nanjing_University,10906743]]"
+different_from: "[[_Standards/WikiData/WD~University_of_Nanking,7895880|WD~University_of_Nanking,7895880]]"
+anthem: "[[_Standards/WikiData/WD~Q19800466,19800466|WD~Q19800466,19800466]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Nanjing_University,20692097|WD~Template_Nanjing_University,20692097]]"
+headquarters_location: "[[_Standards/WikiData/WD~Nanjing,16666|WD~Nanjing,16666]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Nanjing,16666|WD~Nanjing,16666]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 ranking:
   - 5
   - 6

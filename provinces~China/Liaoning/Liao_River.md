@@ -6,26 +6,26 @@ aliases:
   - Liáo Hé
 has_id_wikidata: Q559661
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Dongliao_He,837380]]"
-  - "[[_Standards/WikiData/WD~Taizi_River,1043573]]"
-  - "[[_Standards/WikiData/WD~Hun_River,1209663]]"
-  - "[[_Standards/WikiData/WD~Xiliao_River,1416521]]"
-category_for_the_water_basin: "[[_Standards/WikiData/WD~Q9446800,9446800]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Laoha_He,28961002]]"
+  - "[[_Standards/WikiData/WD~Dongliao_He,837380|WD~Dongliao_He,837380]]"
+  - "[[_Standards/WikiData/WD~Taizi_River,1043573|WD~Taizi_River,1043573]]"
+  - "[[_Standards/WikiData/WD~Hun_River,1209663|WD~Hun_River,1209663]]"
+  - "[[_Standards/WikiData/WD~Xiliao_River,1416521|WD~Xiliao_River,1416521]]"
+category_for_the_water_basin: "[[_Standards/WikiData/WD~Q9446800,9446800|WD~Q9446800,9446800]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Laoha_He,28961002|WD~Laoha_He,28961002]]"
 coordinate_location:
   - Point(121.8117 40.9117)
   - Point(122.148888888 40.669166666)
   - Point(123.5471 42.9813)
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 discharge: 630
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Yellow_Sea,37960]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Yellow_Sea,37960|WD~Yellow_Sea,37960]]"
 watershed_area: 232000
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jilin,45208]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jilin,45208|WD~Jilin,45208]]"
 length: 1345
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Liaorivermap.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%E7%9B%98%E9%94%A6%E8%8A%A6%E8%8B%87%E8%8D%A1.JPG

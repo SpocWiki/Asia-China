@@ -2,57 +2,57 @@
 aliases:
 has_id_wikidata: Q1191515
 payment_types_accepted:
-  - "[[_Standards/WikiData/WD~Alipay,493556]]"
-  - "[[_Standards/WikiData/WD~cash,693464]]"
-  - "[[_Standards/WikiData/WD~electronic_toll_collection,1191337]]"
-  - "[[_Standards/WikiData/WD~Autotoll,4827020]]"
-  - "[[_Standards/WikiData/WD~WeChat_Pay,59426035]]"
-carries: "[[_Standards/WikiData/WD~G94_Pearl_River_Delta_Ring_Expressway,594813]]"
-part_of: "[[_Standards/WikiData/WD~G94_Pearl_River_Delta_Ring_Expressway,594813]]"
-structural_engineer: "[[_Standards/WikiData/WD~Arup,716737]]"
+  - "[[_Standards/WikiData/WD~Alipay,493556|WD~Alipay,493556]]"
+  - "[[_Standards/WikiData/WD~cash,693464|WD~cash,693464]]"
+  - "[[_Standards/WikiData/WD~electronic_toll_collection,1191337|WD~electronic_toll_collection,1191337]]"
+  - "[[_Standards/WikiData/WD~Autotoll,4827020|WD~Autotoll,4827020]]"
+  - "[[_Standards/WikiData/WD~WeChat_Pay,59426035|WD~WeChat_Pay,59426035]]"
+carries: "[[_Standards/WikiData/WD~G94_Pearl_River_Delta_Ring_Expressway,594813|WD~G94_Pearl_River_Delta_Ring_Expressway,594813]]"
+part_of: "[[_Standards/WikiData/WD~G94_Pearl_River_Delta_Ring_Expressway,594813|WD~G94_Pearl_River_Delta_Ring_Expressway,594813]]"
+structural_engineer: "[[_Standards/WikiData/WD~Arup,716737|WD~Arup,716737]]"
 location:
-  - "[[_Standards/WikiData/WD~Islands_District,752523]]"
-  - "[[_Standards/WikiData/WD~Gongbei_Subdistrict,5581729]]"
-  - "[[_Standards/WikiData/WD~Macau_New_Urban_Zone,15649926]]"
+  - "[[_Standards/WikiData/WD~Islands_District,752523|WD~Islands_District,752523]]"
+  - "[[_Standards/WikiData/WD~Gongbei_Subdistrict,5581729|WD~Gongbei_Subdistrict,5581729]]"
+  - "[[_Standards/WikiData/WD~Macau_New_Urban_Zone,15649926|WD~Macau_New_Urban_Zone,15649926]]"
 main_building_contractor:
-  - "[[_Standards/WikiData/WD~China_Communications_Construction_Company,1073236]]"
-  - "[[_Standards/WikiData/WD~AECOM,2825507]]"
-  - "[[_Standards/WikiData/WD~COWI,5013541]]"
-  - "[[_Standards/WikiData/WD~CCCC_Highway_Consultants_(China),52848661]]"
-  - "[[_Standards/WikiData/WD~Shanghai_Tunnel_Engineering_Rail_Transit_Design_&_Research_Institute,52849744]]"
+  - "[[_Standards/WikiData/WD~China_Communications_Construction_Company,1073236|WD~China_Communications_Construction_Company,1073236]]"
+  - "[[_Standards/WikiData/WD~AECOM,2825507|WD~AECOM,2825507]]"
+  - "[[_Standards/WikiData/WD~COWI,5013541|WD~COWI,5013541]]"
+  - "[[_Standards/WikiData/WD~CCCC_Highway_Consultants_(China),52848661|WD~CCCC_Highway_Consultants_(China),52848661]]"
+  - "[[_Standards/WikiData/WD~Shanghai_Tunnel_Engineering_Rail_Transit_Design_&_Research_Institute,52849744|WD~Shanghai_Tunnel_Engineering_Rail_Transit_Design_&_Research_Institute,52849744]]"
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Pearl_River_Delta,1144286]]"
-  - "[[_Standards/WikiData/WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237]]"
-crosses: "[[_Standards/WikiData/WD~Pearl_River_Delta,1144286]]"
+  - "[[_Standards/WikiData/WD~Pearl_River_Delta,1144286|WD~Pearl_River_Delta,1144286]]"
+  - "[[_Standards/WikiData/WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237|WD~Guangdong_Hong_Kong_Macao_Greater_Bay_Area,29583237]]"
+crosses: "[[_Standards/WikiData/WD~Pearl_River_Delta,1144286|WD~Pearl_River_Delta,1144286]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~bridge_tunnel,5456378]]"
-  - "[[_Standards/WikiData/WD~transport_megaproject,59264914]]"
+  - "[[_Standards/WikiData/WD~bridge_tunnel,5456378|WD~bridge_tunnel,5456378]]"
+  - "[[_Standards/WikiData/WD~transport_megaproject,59264914|WD~transport_megaproject,59264914]]"
 terminus:
-  - "[[_Standards/WikiData/WD~Gongbei_Subdistrict,5581729]]"
-  - "[[_Standards/WikiData/WD~Macau_New_Urban_Zone,15649926]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,57599408]]"
+  - "[[_Standards/WikiData/WD~Gongbei_Subdistrict,5581729|WD~Gongbei_Subdistrict,5581729]]"
+  - "[[_Standards/WikiData/WD~Macau_New_Urban_Zone,15649926|WD~Macau_New_Urban_Zone,15649926]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,57599408|WD~Hong_Kong_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,57599408]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Tuen_Mun_Chek_Lap_Kok_Link,7240310]]"
-  - "[[_Standards/WikiData/WD~Scenic_Hill_Tunnel,22117658]]"
-  - "[[_Standards/WikiData/WD~Zhuhai_Macao_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,28796013]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Main_Bridge,56424214]]"
-  - "[[_Standards/WikiData/WD~Jiuzhou_Port_Channel_Bridge,56424258]]"
-  - "[[_Standards/WikiData/WD~Jianghai_Channel_Bridge,56424400]]"
-  - "[[_Standards/WikiData/WD~Qingzhou_Channel_Bridge,56424437]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Undersea_Tunnel,56424476]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macao_Bridge_Hong_Kong_Link_Road,56424521]]"
-  - "[[_Standards/WikiData/WD~Zhuhai_connection_route_of_Hong_Kong_Zhuhai_Macau_bridge,58037684]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Western_Artificial_Island,72379943]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Eastern_Artificial_Island,72380245]]"
+  - "[[_Standards/WikiData/WD~Tuen_Mun_Chek_Lap_Kok_Link,7240310|WD~Tuen_Mun_Chek_Lap_Kok_Link,7240310]]"
+  - "[[_Standards/WikiData/WD~Scenic_Hill_Tunnel,22117658|WD~Scenic_Hill_Tunnel,22117658]]"
+  - "[[_Standards/WikiData/WD~Zhuhai_Macao_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,28796013|WD~Zhuhai_Macao_Boundary_Crossing_Facilities_of_the_Hong_Kong_Zhuhai_Macao_Bridge,28796013]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Main_Bridge,56424214|WD~Hong_Kong_Zhuhai_Macau_Bridge_Main_Bridge,56424214]]"
+  - "[[_Standards/WikiData/WD~Jiuzhou_Port_Channel_Bridge,56424258|WD~Jiuzhou_Port_Channel_Bridge,56424258]]"
+  - "[[_Standards/WikiData/WD~Jianghai_Channel_Bridge,56424400|WD~Jianghai_Channel_Bridge,56424400]]"
+  - "[[_Standards/WikiData/WD~Qingzhou_Channel_Bridge,56424437|WD~Qingzhou_Channel_Bridge,56424437]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Undersea_Tunnel,56424476|WD~Hong_Kong_Zhuhai_Macau_Bridge_Undersea_Tunnel,56424476]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macao_Bridge_Hong_Kong_Link_Road,56424521|WD~Hong_Kong_Zhuhai_Macao_Bridge_Hong_Kong_Link_Road,56424521]]"
+  - "[[_Standards/WikiData/WD~Zhuhai_connection_route_of_Hong_Kong_Zhuhai_Macau_bridge,58037684|WD~Zhuhai_connection_route_of_Hong_Kong_Zhuhai_Macau_bridge,58037684]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Western_Artificial_Island,72379943|WD~Hong_Kong_Zhuhai_Macau_Bridge_Western_Artificial_Island,72379943]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macau_Bridge_Eastern_Artificial_Island,72380245|WD~Hong_Kong_Zhuhai_Macau_Bridge_Eastern_Artificial_Island,72380245]]"
 driving_side:
-  - "[[_Standards/WikiData/WD~left,13196750]]"
-  - "[[_Standards/WikiData/WD~right,14565199]]"
-located_in_protected_area: "[[_Standards/WikiData/WD~Zhujiangkouzhonghuabaihaitun_National_Natural_Reserve,30021106]]"
-maintained_by: "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macao_Bridge_Authority,55696279]]"
+  - "[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]"
+  - "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+located_in_protected_area: "[[_Standards/WikiData/WD~Zhujiangkouzhonghuabaihaitun_National_Natural_Reserve,30021106|WD~Zhujiangkouzhonghuabaihaitun_National_Natural_Reserve,30021106]]"
+maintained_by: "[[_Standards/WikiData/WD~Hong_Kong_Zhuhai_Macao_Bridge_Authority,55696279|WD~Hong_Kong_Zhuhai_Macao_Bridge_Authority,55696279]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
-  - "[[_Standards/WikiData/WD~Macau,14773]]"
-  - "[[_Standards/WikiData/WD~Zhuhai,59095]]"
+  - "[[_Standards/WikiData/WD~Hong_Kong,8646|WD~Hong_Kong,8646]]"
+  - "[[_Standards/WikiData/WD~Macau,14773|WD~Macau,14773]]"
+  - "[[_Standards/WikiData/WD~Zhuhai,59095|WD~Zhuhai,59095]]"
 fee:
   - 0
   - 200
@@ -60,7 +60,7 @@ fee:
   - 60
   - 150
   - 115
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 width: 42
 height: 42
 longest_span: 460

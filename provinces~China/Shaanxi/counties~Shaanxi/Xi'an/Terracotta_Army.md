@@ -5,18 +5,18 @@ coordinate_location: Point(109.273055555 34.385)
 location: [34.385, 109.273055555]
 inception: -0247-01-01T00:00:00Z
 instance_of:
-  - "[[_Standards/WikiData/WD~mausoleum,162875]]"
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~military_museum,2772772]]"
-part_of: "[[_Standards/WikiData/WD~Mausoleum_of_the_First_Qin_Emperor,910180]]"
+  - "[[_Standards/WikiData/WD~mausoleum,162875|WD~mausoleum,162875]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
+  - "[[_Standards/WikiData/WD~military_museum,2772772|WD~military_museum,2772772]]"
+part_of: "[[_Standards/WikiData/WD~Mausoleum_of_the_First_Qin_Emperor,910180|WD~Mausoleum_of_the_First_Qin_Emperor,910180]]"
 creator: http://www.wikidata.org/.well-known/genid/af91088c56f329b52422e032105d1cfe
-locations: "[[_Standards/WikiData/WD~Xi'an,5826]]"
-culture: "[[_Standards/WikiData/WD~Qin_dynasty,7183]]"
-time_period: "[[_Standards/WikiData/WD~Qin_dynasty,7183]]"
-genre: "[[_Standards/WikiData/WD~Qin_dynasty,7183]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~terracotta,60424]]"
+locations: "[[_Standards/WikiData/WD~Xi'an,5826|WD~Xi'an,5826]]"
+culture: "[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]"
+time_period: "[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]"
+genre: "[[_Standards/WikiData/WD~Qin_dynasty,7183|WD~Qin_dynasty,7183]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~terracotta,60424|WD~terracotta,60424]]"
 time_of_discovery_or_invention: 1974-03-29T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/51714-Terracota-Army.jpg
 official_website:

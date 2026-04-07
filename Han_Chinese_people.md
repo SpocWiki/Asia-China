@@ -4,21 +4,21 @@ aliases:
   - Han people
 has_id_wikidata: Q42740
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~ancestor_worship,238199]]"
-  - "[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Confucianism,9581]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-part_of: "[[_Standards/WikiData/WD~Sino_Tibetan_peoples,4420373]]"
-subclass_of: "[[_Standards/WikiData/WD~Chinese_people,6501380]]"
-replaces: "[[_Standards/WikiData/WD~Huaxia_(ethnicity),10905632]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828728,22828728]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Huaren,57026211]]"
-different_from: "[[_Standards/WikiData/WD~Han_people,119955730]]"
-native_language: "[[_Standards/WikiData/WD~Chinese,7850]]"
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+  - "[[_Standards/WikiData/WD~ancestor_worship,238199|WD~ancestor_worship,238199]]"
+  - "[[_Standards/WikiData/WD~Chinese_folk_religion,1074275|WD~Chinese_folk_religion,1074275]]"
+  - "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+  - "[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]"
+  - "[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]"
+  - "[[_Standards/WikiData/WD~Confucianism,9581|WD~Confucianism,9581]]"
+  - "[[_Standards/WikiData/WD~Taoism,9598|WD~Taoism,9598]]"
+part_of: "[[_Standards/WikiData/WD~Sino_Tibetan_peoples,4420373|WD~Sino_Tibetan_peoples,4420373]]"
+subclass_of: "[[_Standards/WikiData/WD~Chinese_people,6501380|WD~Chinese_people,6501380]]"
+replaces: "[[_Standards/WikiData/WD~Huaxia_(ethnicity),10905632|WD~Huaxia_(ethnicity),10905632]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828728,22828728|WD~Q22828728,22828728]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Huaren,57026211|WD~Huaren,57026211]]"
+different_from: "[[_Standards/WikiData/WD~Han_people,119955730|WD~Han_people,119955730]]"
+native_language: "[[_Standards/WikiData/WD~Chinese,7850|WD~Chinese,7850]]"
+instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]"
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%82%20%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%86%D0%B5%D0%B2%20%D0%B2%20%D0%9A%D0%9D%D0%A0.png
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/13%20Han%20Chinese%20Montage.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/China1982-514.jpg

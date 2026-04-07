@@ -4,22 +4,22 @@ aliases:
 has_id_wikidata: Q732353
 location: [39.94283, 116.31742]
 coordinate_location: Point(116.31742 39.94283)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Zizhuyuan_Subdistrict,207072]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Zizhuyuan_Subdistrict,207072|WD~Zizhuyuan_Subdistrict,207072]]"
 is_member_of:
-  - "[[_Standards/WikiData/WD~World_Digital_Library,475225]]"
-  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497]]"
-  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
-  - "[[_Standards/WikiData/WD~Cooperative_Committee_for_Chinese_Name_Authority,109848014]]"
-has_characteristic: "[[_Standards/WikiData/WD~web_accessibility,808932]]"
-director_manager: "[[_Standards/WikiData/WD~Han_Yongjin,16336175]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Ministry_of_Culture_and_Tourism_of_the_People's_Republic_of_China,50484620]]"
-different_from: "[[_Standards/WikiData/WD~Beijing_Library,105718285]]"
+  - "[[_Standards/WikiData/WD~World_Digital_Library,475225|WD~World_Digital_Library,475225]]"
+  - "[[_Standards/WikiData/WD~International_Internet_Preservation_Consortium,697497|WD~International_Internet_Preservation_Consortium,697497]]"
+  - "[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284|WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]"
+  - "[[_Standards/WikiData/WD~Cooperative_Committee_for_Chinese_Name_Authority,109848014|WD~Cooperative_Committee_for_Chinese_Name_Authority,109848014]]"
+has_characteristic: "[[_Standards/WikiData/WD~web_accessibility,808932|WD~web_accessibility,808932]]"
+director_manager: "[[_Standards/WikiData/WD~Han_Yongjin,16336175|WD~Han_Yongjin,16336175]]"
+parent_organization_or_unit: "[[_Standards/WikiData/WD~Ministry_of_Culture_and_Tourism_of_the_People's_Republic_of_China,50484620|WD~Ministry_of_Culture_and_Tourism_of_the_People's_Republic_of_China,50484620]]"
+different_from: "[[_Standards/WikiData/WD~Beijing_Library,105718285|WD~Beijing_Library,105718285]]"
 Wikidata_property:
   - NLC authorities
   - NLC Bibliography ID (Chinese language)
   - NLC Bibliography ID (foreign-language)
-instance_of: "[[_Standards/WikiData/WD~national_library,22806]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~national_library,22806|WD~national_library,22806]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20wing%20of%20the%20National%20Library%20of%20China%20%2820230318082607%29.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20Library%20of%20China%20logo.svg
 online_catalog_URL: http://opac.nlc.cn/

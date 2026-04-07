@@ -1,31 +1,31 @@
 ---
 aliases:
 has_id_wikidata: Q210287
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jining,372791]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jining,372791|WD~Jining,372791]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Umeå_Municipality,507709]]"
-  - "[[_Standards/WikiData/WD~Davis,668546]]"
-  - "[[_Standards/WikiData/WD~Santiago_de_Compostela,14314]]"
-capital_of: "[[_Standards/WikiData/WD~Lu,736936]]"
-instance_of: "[[_Standards/WikiData/WD~county_level_city,1070990]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q8078500,8078500]]"
+  - "[[_Standards/WikiData/WD~Umeå_Municipality,507709|WD~Umeå_Municipality,507709]]"
+  - "[[_Standards/WikiData/WD~Davis,668546|WD~Davis,668546]]"
+  - "[[_Standards/WikiData/WD~Santiago_de_Compostela,14314|WD~Santiago_de_Compostela,14314]]"
+capital_of: "[[_Standards/WikiData/WD~Lu,736936|WD~Lu,736936]]"
+instance_of: "[[_Standards/WikiData/WD~county_level_city,1070990|WD~county_level_city,1070990]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8078500,8078500|WD~Q8078500,8078500]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Shuyuan_Subdistrict,10879793]]"
-  - "[[_Standards/WikiData/WD~Q10919568,10919568]]"
-  - "[[_Standards/WikiData/WD~Yaocun,10943355]]"
-  - "[[_Standards/WikiData/WD~Xiaoxue_Subdistrict,11035312]]"
-  - "[[_Standards/WikiData/WD~Nishan_Town,11040908]]"
-  - "[[_Standards/WikiData/WD~Xizou_Town,11073099]]"
-  - "[[_Standards/WikiData/WD~Shizhuang_Subdistrict,11087193]]"
-  - "[[_Standards/WikiData/WD~Lucheng_Subdistrict,_Qufu,11173028]]"
-  - "[[_Standards/WikiData/WD~Lingcheng_Town,14780211]]"
-  - "[[_Standards/WikiData/WD~Wangzhuang_Town,14780306]]"
-  - "[[_Standards/WikiData/WD~Shimenshan_Town,14780358]]"
-  - "[[_Standards/WikiData/WD~Fangshan_Town,14780395]]"
-replaces: "[[_Standards/WikiData/WD~Qufu_County,113492144]]"
+  - "[[_Standards/WikiData/WD~Shuyuan_Subdistrict,10879793|WD~Shuyuan_Subdistrict,10879793]]"
+  - "[[_Standards/WikiData/WD~Q10919568,10919568|WD~Q10919568,10919568]]"
+  - "[[_Standards/WikiData/WD~Yaocun,10943355|WD~Yaocun,10943355]]"
+  - "[[_Standards/WikiData/WD~Xiaoxue_Subdistrict,11035312|WD~Xiaoxue_Subdistrict,11035312]]"
+  - "[[_Standards/WikiData/WD~Nishan_Town,11040908|WD~Nishan_Town,11040908]]"
+  - "[[_Standards/WikiData/WD~Xizou_Town,11073099|WD~Xizou_Town,11073099]]"
+  - "[[_Standards/WikiData/WD~Shizhuang_Subdistrict,11087193|WD~Shizhuang_Subdistrict,11087193]]"
+  - "[[_Standards/WikiData/WD~Lucheng_Subdistrict,_Qufu,11173028|WD~Lucheng_Subdistrict,_Qufu,11173028]]"
+  - "[[_Standards/WikiData/WD~Lingcheng_Town,14780211|WD~Lingcheng_Town,14780211]]"
+  - "[[_Standards/WikiData/WD~Wangzhuang_Town,14780306|WD~Wangzhuang_Town,14780306]]"
+  - "[[_Standards/WikiData/WD~Shimenshan_Town,14780358|WD~Shimenshan_Town,14780358]]"
+  - "[[_Standards/WikiData/WD~Fangshan_Town,14780395|WD~Fangshan_Town,14780395]]"
+replaces: "[[_Standards/WikiData/WD~Qufu_County,113492144|WD~Qufu_County,113492144]]"
 coordinate_location: Point(116.983333333 35.6)
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+08_00,6985]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+08_00,6985|WD~UTC+08_00,6985]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 elevation_above_sea_level: 65
 area: 814.75
 postal_code: "273100"
@@ -48,7 +48,7 @@ official_name: 曲阜市
 
 # [[Qufu]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Qufu,210287]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Qufu,210287|WD~Qufu,210287]]  
 
 ## #has_/text_of_/abstract 
 

@@ -4,23 +4,23 @@ has_id_wikidata: Q207690
 location: [29.066666666, 116.383333333] 
 coordinate_location: Point(116.383333333 29.066666666)
 inflows:
-  - "[[_Standards/WikiData/WD~Gan_River,1046685]]"
-  - "[[_Standards/WikiData/WD~Fu_River,5506852]]"
-  - "[[_Standards/WikiData/WD~Le'an_River,10878352]]"
-  - "[[_Standards/WikiData/WD~Xiushui_River,10888104]]"
-  - "[[_Standards/WikiData/WD~Chang_Jiang,11087615]]"
-  - "[[_Standards/WikiData/WD~Rao_He,11327386]]"
-  - "[[_Standards/WikiData/WD~Xin_River,15625076]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
+  - "[[_Standards/WikiData/WD~Gan_River,1046685|WD~Gan_River,1046685]]"
+  - "[[_Standards/WikiData/WD~Fu_River,5506852|WD~Fu_River,5506852]]"
+  - "[[_Standards/WikiData/WD~Le'an_River,10878352|WD~Le'an_River,10878352]]"
+  - "[[_Standards/WikiData/WD~Xiushui_River,10888104|WD~Xiushui_River,10888104]]"
+  - "[[_Standards/WikiData/WD~Chang_Jiang,11087615|WD~Chang_Jiang,11087615]]"
+  - "[[_Standards/WikiData/WD~Rao_He,11327386|WD~Rao_He,11327386]]"
+  - "[[_Standards/WikiData/WD~Xin_River,15625076|WD~Xin_River,15625076]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-drainage_basin: "[[_Standards/WikiData/WD~Yangtze_River_basin,15758768]]"
-different_from: "[[_Standards/WikiData/WD~Lake_Poyang,124154472]]"
-outflows: "[[_Standards/WikiData/WD~Yangtze,5413]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
-basin_country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+drainage_basin: "[[_Standards/WikiData/WD~Yangtze_River_basin,15758768|WD~Yangtze_River_basin,15758768]]"
+different_from: "[[_Standards/WikiData/WD~Lake_Poyang,124154472|WD~Lake_Poyang,124154472]]"
+outflows: "[[_Standards/WikiData/WD~Yangtze,5413|WD~Yangtze,5413]]"
+instance_of: "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
+basin_country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 elevation_above_sea_level: 12
 length: 170
 width: 17
@@ -30,7 +30,7 @@ vertical_depth:
   - 8.4
 area: 5100
 residence_time_of_water: 63
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jiangxi,57052]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jiangxi,57052|WD~Jiangxi,57052]]"
 watershed_area: 162225
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/2011%E5%B9%B4%E9%84%B1%E9%98%B3%E6%B9%96%E3%80%81%E6%B4%9E%E5%BA%AD%E6%B9%965%E6%9C%88%E4%BB%BD%E5%92%8C6%E6%9C%88%E4%BB%BD%E6%B0%B4%E9%87%8F%E5%AF%B9%E6%AF%94%E4%B9%8B6%E6%9C%88.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Satelites%20image%20of%20Lake%20Poyang.png

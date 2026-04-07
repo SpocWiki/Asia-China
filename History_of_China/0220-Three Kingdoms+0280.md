@@ -3,21 +3,21 @@ aliases:
   - Three_Kingdoms
   - Three Kingdoms
 has_id_wikidata: Q185043
-depicted_by: "[[_Standards/WikiData/WD~Records_of_the_Three_Kingdoms,247318]]"
+depicted_by: "[[_Standards/WikiData/WD~Records_of_the_Three_Kingdoms,247318|WD~Records_of_the_Three_Kingdoms,247318]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Eastern_Wu,274488]]"
-  - "[[_Standards/WikiData/WD~Shu_Han,320925]]"
-  - "[[_Standards/WikiData/WD~Cao_Wei,320930]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-part_of: "[[_Standards/WikiData/WD~Early_Imperial_China,5326669]]"
+  - "[[_Standards/WikiData/WD~Eastern_Wu,274488|WD~Eastern_Wu,274488]]"
+  - "[[_Standards/WikiData/WD~Shu_Han,320925|WD~Shu_Han,320925]]"
+  - "[[_Standards/WikiData/WD~Cao_Wei,320930|WD~Cao_Wei,320930]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+part_of: "[[_Standards/WikiData/WD~Early_Imperial_China,5326669|WD~Early_Imperial_China,5326669]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~group,16887380]]"
-  - "[[_Standards/WikiData/WD~triad,29430681]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Three_Kingdoms,22747015]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]"
+  - "[[_Standards/WikiData/WD~group,16887380|WD~group,16887380]]"
+  - "[[_Standards/WikiData/WD~triad,29430681|WD~triad,29430681]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Three_Kingdoms,22747015|WD~Template_Three_Kingdoms,22747015]]"
 start_time: 0220-01-01T00:00:00Z
-followed_by: "[[_Standards/WikiData/WD~Jin_dynasty,7352]]"
-location: "[[_Standards/WikiData/WD~China,29520]]"
+followed_by: "[[_Standards/WikiData/WD~Jin_dynasty,7352|WD~Jin_dynasty,7352]]"
+location: "[[_Standards/WikiData/WD~China,29520|WD~China,29520]]"
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/TT%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saam%20Gwok%20262%20CE.png
 Library_of_Congress_Classification: DS748.2-DS748.29

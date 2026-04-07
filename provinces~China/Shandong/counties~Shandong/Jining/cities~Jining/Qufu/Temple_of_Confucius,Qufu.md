@@ -4,22 +4,22 @@ has_id_wikidata: Q339822
 location: [ 35.5967, 116.984]
 coordinate_location: Point(116.984 35.5967)
 inception: 0478-01-01T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Qufu,210287]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Qufu,210287|WD~Qufu,210287]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~temple_of_Confucius,618618]]"
-  - "[[_Standards/WikiData/WD~building_complex,1497364]]"
-part_of: "[[_Standards/WikiData/WD~Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu,1038473]]"
+  - "[[_Standards/WikiData/WD~temple_of_Confucius,618618|WD~temple_of_Confucius,618618]]"
+  - "[[_Standards/WikiData/WD~building_complex,1497364|WD~building_complex,1497364]]"
+part_of: "[[_Standards/WikiData/WD~Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu,1038473|WD~Temple_and_Cemetery_of_Confucius_and_the_Kong_Family_Mansion_in_Qufu,1038473]]"
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-architectural_style: "[[_Standards/WikiData/WD~Chinese_Palaces,5100577]]"
+  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574|WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
+  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+architectural_style: "[[_Standards/WikiData/WD~Chinese_Palaces,5100577|WD~Chinese_Palaces,5100577]]"
 made_from_material:
-  - "[[_Standards/WikiData/WD~wood,287]]"
-  - "[[_Standards/WikiData/WD~granite,41177]]"
-  - "[[_Standards/WikiData/WD~clay,42302]]"
-dedicated_to: "[[_Standards/WikiData/WD~Confucius,4604]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Confucianism,9581]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~wood,287|WD~wood,287]]"
+  - "[[_Standards/WikiData/WD~granite,41177|WD~granite,41177]]"
+  - "[[_Standards/WikiData/WD~clay,42302|WD~clay,42302]]"
+dedicated_to: "[[_Standards/WikiData/WD~Confucius,4604|WD~Confucius,4604]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Confucianism,9581|WD~Confucianism,9581]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dacheng%20Dian%2C%20Kong%20Miao.jpg
 Commons_category: Qufu Confucian Temple
 native_label: 孔庙

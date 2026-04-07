@@ -3,26 +3,26 @@ aliases:
 has_id_wikidata: Q32190
 location: [ 40.08, 116.584444444]
 coordinate_location: Point(116.584444444 40.08)
-scheduled_service_destination: "[[_Standards/WikiData/WD~Vancouver_International_Airport,321224]]"
+scheduled_service_destination: "[[_Standards/WikiData/WD~Vancouver_International_Airport,321224|WD~Vancouver_International_Airport,321224]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Chaoyang_District,394701]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
+  - "[[_Standards/WikiData/WD~Chaoyang_District,394701|WD~Chaoyang_District,394701]]"
+  - "[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~international_airport,644371]]"
-  - "[[_Standards/WikiData/WD~commercial_traffic_aerodrome,94993988]]"
-architectural_style: "[[_Standards/WikiData/WD~high_tech_architecture,845318]]"
-different_from: "[[_Standards/WikiData/WD~Beijing_Daxing_International_Airport,1139574]]"
-operator: "[[_Standards/WikiData/WD~Civil_Aviation_Administration_of_China,1329619]]"
-owned_by: "[[_Standards/WikiData/WD~Beijing_Capital_International_Airport_Company_Limited,2893987]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Asia_Shanghai,4806303]]"
-state_of_use: "[[_Standards/WikiData/WD~in_use,55654238]]"
+  - "[[_Standards/WikiData/WD~international_airport,644371|WD~international_airport,644371]]"
+  - "[[_Standards/WikiData/WD~commercial_traffic_aerodrome,94993988|WD~commercial_traffic_aerodrome,94993988]]"
+architectural_style: "[[_Standards/WikiData/WD~high_tech_architecture,845318|WD~high_tech_architecture,845318]]"
+different_from: "[[_Standards/WikiData/WD~Beijing_Daxing_International_Airport,1139574|WD~Beijing_Daxing_International_Airport,1139574]]"
+operator: "[[_Standards/WikiData/WD~Civil_Aviation_Administration_of_China,1329619|WD~Civil_Aviation_Administration_of_China,1329619]]"
+owned_by: "[[_Standards/WikiData/WD~Beijing_Capital_International_Airport_Company_Limited,2893987|WD~Beijing_Capital_International_Airport_Company_Limited,2893987]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~Asia_Shanghai,4806303|WD~Asia_Shanghai,4806303]]"
+state_of_use: "[[_Standards/WikiData/WD~in_use,55654238|WD~in_use,55654238]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Terminal_2,55753750]]"
-  - "[[_Standards/WikiData/WD~Terminal_3,55753751]]"
-  - "[[_Standards/WikiData/WD~Terminal_1,55753749]]"
-place_served_by_transport_hub: "[[_Standards/WikiData/WD~Beijing,956]]"
-named_after: "[[_Standards/WikiData/WD~Beijing,956]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Terminal_2,55753750|WD~Terminal_2,55753750]]"
+  - "[[_Standards/WikiData/WD~Terminal_3,55753751|WD~Terminal_3,55753751]]"
+  - "[[_Standards/WikiData/WD~Terminal_1,55753749|WD~Terminal_1,55753749]]"
+place_served_by_transport_hub: "[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]"
+named_after: "[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 elevation_above_sea_level: 116
 runway:
   - 01/19

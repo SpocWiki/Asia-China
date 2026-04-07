@@ -6,25 +6,25 @@ aliases:
   - 布达拉宫
   - Bùdálā Gōng
 has_id_wikidata: Q71229
-architectural_style: "[[_Standards/WikiData/WD~dzong,386952]]"
-has_use: "[[_Standards/WikiData/WD~official_residence,481289]]"
+architectural_style: "[[_Standards/WikiData/WD~dzong,386952|WD~dzong,386952]]"
+has_use: "[[_Standards/WikiData/WD~official_residence,481289|WD~official_residence,481289]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~Buddhist_temple,5393308]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lhasa_District,1026100]]"
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116|WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~Buddhist_temple,5393308|WD~Buddhist_temple,5393308]]"
+  - "[[_Standards/WikiData/WD~palace,16560|WD~palace,16560]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lhasa_District,1026100|WD~Lhasa_District,1026100]]"
 heritage_designation:
-  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
-  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
-part_of: "[[_Standards/WikiData/WD~World_Heritage_Sites_in_Tibet,6478726]]"
+  - "[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574|WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]"
+  - "[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623|WD~part_of_UNESCO_World_Heritage_Site,43113623]]"
+part_of: "[[_Standards/WikiData/WD~World_Heritage_Sites_in_Tibet,6478726|WD~World_Heritage_Sites_in_Tibet,6478726]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-significant_event: "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
+  - "[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]"
+  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[_Standards/WikiData/WD~(vi),23038980|WD~(vi),23038980]]"
+significant_event: "[[_Standards/WikiData/WD~UNESCO_World_Heritage_Site_record_modification,29778318|WD~UNESCO_World_Heritage_Site_record_modification,29778318]]"
 coordinate_location: Point(91.116944444 29.657777777)
 inception: 0637-01-01T00:00:00Z
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 length: 400
 area: 13
 width: 350

@@ -3,32 +3,32 @@ aliases:
   - Fudan_University
 has_id_wikidata: Q495015
 inception: 1905-01-01T00:00:00Z
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Yangpu_District,661533]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Yangpu_District,661533|WD~Yangpu_District,661533]]"
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Fudan_University_Shanghai_Medical_College,835185]]"
-  - "[[_Standards/WikiData/WD~School_of_Pharmacy,_Fudan_University,45132774]]"
-  - "[[_Standards/WikiData/WD~Institutes_of_Biomedical_Sciences,_Fudan_University,45135301]]"
-  - "[[_Standards/WikiData/WD~The_Center_for_Historical_Geography_Studies,_Fudan_University,47143073]]"
-  - "[[_Standards/WikiData/WD~Fudan_University_Library,110010612]]"
+  - "[[_Standards/WikiData/WD~Fudan_University_Shanghai_Medical_College,835185|WD~Fudan_University_Shanghai_Medical_College,835185]]"
+  - "[[_Standards/WikiData/WD~School_of_Pharmacy,_Fudan_University,45132774|WD~School_of_Pharmacy,_Fudan_University,45132774]]"
+  - "[[_Standards/WikiData/WD~Institutes_of_Biomedical_Sciences,_Fudan_University,45135301|WD~Institutes_of_Biomedical_Sciences,_Fudan_University,45135301]]"
+  - "[[_Standards/WikiData/WD~The_Center_for_Historical_Geography_Studies,_Fudan_University,47143073|WD~The_Center_for_Historical_Geography_Studies,_Fudan_University,47143073]]"
+  - "[[_Standards/WikiData/WD~Fudan_University_Library,110010612|WD~Fudan_University_Library,110010612]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~public_university,875538]]"
-  - "[[_Standards/WikiData/WD~vice_ministerial_level_university,16077796]]"
-  - "[[_Standards/WikiData/WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352]]"
+  - "[[_Standards/WikiData/WD~public_university,875538|WD~public_university,875538]]"
+  - "[[_Standards/WikiData/WD~vice_ministerial_level_university,16077796|WD~vice_ministerial_level_university,16077796]]"
+  - "[[_Standards/WikiData/WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352|WD~higher_education_institution_directly_under_Ministry_of_Education_of_the_People_s_Republic_of_China,98658352]]"
 affiliation:
-  - "[[_Standards/WikiData/WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167]]"
-  - "[[_Standards/WikiData/WD~C9_League,2634906]]"
+  - "[[_Standards/WikiData/WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167|WD~Ministry_of_Education_of_the_People's_Republic_of_China,1042167]]"
+  - "[[_Standards/WikiData/WD~C9_League,2634906|WD~C9_League,2634906]]"
 member_of:
-  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688]]"
-  - "[[_Standards/WikiData/WD~Yangtze_Delta_Universities_Alliance,1284740]]"
-  - "[[_Standards/WikiData/WD~C9_League,2634906]]"
-  - "[[_Standards/WikiData/WD~Plan_111,17035628]]"
-  - "[[_Standards/WikiData/WD~BRICS_Universities_League,17361148]]"
-  - "[[_Standards/WikiData/WD~Shanghai_Hong_Kong_University_Alliance,98690928]]"
-named_after: "[[_Standards/WikiData/WD~Aurora_Academy,15909239]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_Fudan_University,19885411]]"
+  - "[[_Standards/WikiData/WD~Association_of_Pacific_Rim_Universities,1074688|WD~Association_of_Pacific_Rim_Universities,1074688]]"
+  - "[[_Standards/WikiData/WD~Yangtze_Delta_Universities_Alliance,1284740|WD~Yangtze_Delta_Universities_Alliance,1284740]]"
+  - "[[_Standards/WikiData/WD~C9_League,2634906|WD~C9_League,2634906]]"
+  - "[[_Standards/WikiData/WD~Plan_111,17035628|WD~Plan_111,17035628]]"
+  - "[[_Standards/WikiData/WD~BRICS_Universities_League,17361148|WD~BRICS_Universities_League,17361148]]"
+  - "[[_Standards/WikiData/WD~Shanghai_Hong_Kong_University_Alliance,98690928|WD~Shanghai_Hong_Kong_University_Alliance,98690928]]"
+named_after: "[[_Standards/WikiData/WD~Aurora_Academy,15909239|WD~Aurora_Academy,15909239]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~President_of_Fudan_University,19885411|WD~President_of_Fudan_University,19885411]]"
 coordinate_location: Point(121.499166666 31.298888888)
-headquarters_location: "[[_Standards/WikiData/WD~Shanghai,8686]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+headquarters_location: "[[_Standards/WikiData/WD~Shanghai,8686|WD~Shanghai,8686]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 ranking:
   - 100
   - 40

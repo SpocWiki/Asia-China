@@ -1,14 +1,14 @@
 ---
 aliases:
 has_id_wikidata: Q521263
-subclass_of: "[[_Standards/WikiData/WD~history_of_China,82972]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Tibetan_history,186917]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_China,82972|WD~history_of_China,82972]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Tibetan_history,186917|WD~timeline_of_Tibetan_history,186917]]"
 facet_of:
-  - "[[_Standards/WikiData/WD~Tibet,2444884]]"
-  - "[[_Standards/WikiData/WD~Tibet,17252]]"
-  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Tibet,2444884|WD~Tibet,2444884]]"
+  - "[[_Standards/WikiData/WD~Tibet,17252|WD~Tibet,17252]]"
+  - "[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bichurin%20Lhassa.jpg
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Kampa%20Dzong%2C%20Tibet%201904%20John%20C.%20White%20RESTORED.jpg
 image:

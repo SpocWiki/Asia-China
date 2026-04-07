@@ -6,7 +6,7 @@ aliases:
   - T'ien1-ming4
   - Heaven's command
 has_id_wikidata: Q875377
-instance_of: "[[_Standards/WikiData/WD~doctrine,117850]]"
+instance_of: "[[_Standards/WikiData/WD~doctrine,117850|WD~doctrine,117850]]"
 ---
 
 # [[Mandate_of_Heaven]] 

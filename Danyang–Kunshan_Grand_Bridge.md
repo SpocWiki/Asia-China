@@ -5,13 +5,13 @@ aliases:
   - 丹昆特大橋
   - Dān-Kūn tèdà qiáo
 has_id_wikidata: Q595768
-carries: "[[_Standards/WikiData/WD~Beijing_Shanghai_high_speed_railway,913275]]"
+carries: "[[_Standards/WikiData/WD~Beijing_Shanghai_high_speed_railway,913275|WD~Beijing_Shanghai_high_speed_railway,913275]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~girder_bridge,1055465]]"
-  - "[[_Standards/WikiData/WD~railway_bridge,1210334]]"
-  - "[[_Standards/WikiData/WD~reinforced_concrete_bridge,3397516]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jiangsu,16963]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~girder_bridge,1055465|WD~girder_bridge,1055465]]"
+  - "[[_Standards/WikiData/WD~railway_bridge,1210334|WD~railway_bridge,1210334]]"
+  - "[[_Standards/WikiData/WD~reinforced_concrete_bridge,3397516|WD~reinforced_concrete_bridge,3397516]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Jiangsu,16963|WD~Jiangsu,16963]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 longest_span: 80
 length: 164.8
 date_of_official_opening: 2011-06-30T00:00:00Z

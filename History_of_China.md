@@ -1,22 +1,22 @@
 ---
 aliases:
 has_id_wikidata: Q82972
-subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198|WD~history_of_East_Asia,831198]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_the_People's_Republic_of_China,862552]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Song_dynasty,3137212]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Han_dynasty,15709899]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Jin_dynasty,16843844]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Yuan_Dynasty,16843917]]"
-  - "[[_Standards/WikiData/WD~history_of_the_Qing_dynasty,107008604]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+  - "[[_Standards/WikiData/WD~history_of_the_People's_Republic_of_China,862552|WD~history_of_the_People's_Republic_of_China,862552]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968|WD~history_of_the_Republic_of_China,1151968]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Song_dynasty,3137212|WD~history_of_the_Song_dynasty,3137212]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Han_dynasty,15709899|WD~history_of_the_Han_dynasty,15709899]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Jin_dynasty,16843844|WD~history_of_the_Jin_dynasty,16843844]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Ming_dynasty,16843870|WD~history_of_the_Ming_dynasty,16843870]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Yuan_Dynasty,16843917|WD~history_of_the_Yuan_Dynasty,16843917]]"
+  - "[[_Standards/WikiData/WD~history_of_the_Qing_dynasty,107008604|WD~history_of_the_Qing_dynasty,107008604]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
 facet_of:
-  - "[[_Standards/WikiData/WD~Chinese_civilization,25558247]]"
-  - "[[_Standards/WikiData/WD~China,29520]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_China,55510]]"
+  - "[[_Standards/WikiData/WD~Chinese_civilization,25558247|WD~Chinese_civilization,25558247]]"
+  - "[[_Standards/WikiData/WD~China,29520|WD~China,29520]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_China,55510|WD~Template_History_of_China,55510]]"
 Dewey_Decimal_Classification: "951"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Territories%20of%20Dynasties%20in%20China.gif
 Commons_gallery: History of China

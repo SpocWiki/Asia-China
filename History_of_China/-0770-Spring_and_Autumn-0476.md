@@ -1,14 +1,14 @@
 ---
 aliases:
 has_id_wikidata: Q185047
-named_after: "[[_Standards/WikiData/WD~Spring_and_Autumn_Annals,747720]]"
+named_after: "[[_Standards/WikiData/WD~Spring_and_Autumn_Annals,747720|WD~Spring_and_Autumn_Annals,747720]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_Chinese_state,836688]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-follows: "[[_Standards/WikiData/WD~Western_Zhou,1069609]]"
+  - "[[_Standards/WikiData/WD~ancient_Chinese_state,836688|WD~ancient_Chinese_state,836688]]"
+  - "[[_Standards/WikiData/WD~historical_period,11514315|WD~historical_period,11514315]]"
+follows: "[[_Standards/WikiData/WD~Western_Zhou,1069609|WD~Western_Zhou,1069609]]"
 end_time: -0475-01-01T00:00:00Z
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-location: "[[_Standards/WikiData/WD~China,29520]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]"
+location: "[[_Standards/WikiData/WD~China,29520|WD~China,29520]]"
 start_time: -0770-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/China%202b.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%81%D8%AA%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9%20%D9%88%D8%A7%D9%84%D8%AE%D8%B1%D9%8A%D9%81.wav

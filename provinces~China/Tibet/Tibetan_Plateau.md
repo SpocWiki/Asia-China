@@ -7,11 +7,11 @@ location:
   - 88
 coordinate_location: Point(88.0 33.0)
 instance_of:
-  - "[[_Standards/WikiData/WD~plateau,75520]]"
-  - "[[_Standards/WikiData/WD~region,82794]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Tibet,17252]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~plateau,75520|WD~plateau,75520]]"
+  - "[[_Standards/WikiData/WD~region,82794|WD~region,82794]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Tibet,17252|WD~Tibet,17252]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 width:
   - 1000
   - 35555

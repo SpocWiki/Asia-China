@@ -6,9 +6,9 @@ aliases:
   - 雲貴高原
   - Yúnguì Gāo
 has_id_wikidata: Q604329
-instance_of: "[[_Standards/WikiData/WD~plateau,75520]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~plateau,75520|WD~plateau,75520]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 coordinate_location: Point(105.0 27.0)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Huangguoshu%20dapubu.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Yungui%20map.jpg

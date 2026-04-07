@@ -2,37 +2,37 @@
 aliases:
 has_id_wikidata: Q210326
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Mudan_River,618668]]"
-  - "[[_Standards/WikiData/WD~Nen_River,866875]]"
-  - "[[_Standards/WikiData/WD~Huifa_He,1636131]]"
-  - "[[_Standards/WikiData/WD~Hulan_River,1636246]]"
-  - "[[_Standards/WikiData/WD~Shaoling_He,10264076]]"
-  - "[[_Standards/WikiData/WD~Chalin_He,10269061]]"
-  - "[[_Standards/WikiData/WD~Yinma_River,10566286]]"
-  - "[[_Standards/WikiData/WD~Lalin_He,11076991]]"
-  - "[[_Standards/WikiData/WD~Second_Songhua_River,14475750]]"
-  - "[[_Standards/WikiData/WD~Nemor_River,15890775]]"
-  - "[[_Standards/WikiData/WD~Tangwang_He,16888721]]"
-  - "[[_Standards/WikiData/WD~Mayi,16888878]]"
-  - "[[_Standards/WikiData/WD~Ashi_River,16888902]]"
-  - "[[_Standards/WikiData/WD~Q22101445,22101445]]"
-origin_of_the_watercourse: "[[_Standards/WikiData/WD~Heaven_Lake,714023]]"
-drainage_basin: "[[_Standards/WikiData/WD~Amur_basin,8240299]]"
+  - "[[_Standards/WikiData/WD~Mudan_River,618668|WD~Mudan_River,618668]]"
+  - "[[_Standards/WikiData/WD~Nen_River,866875|WD~Nen_River,866875]]"
+  - "[[_Standards/WikiData/WD~Huifa_He,1636131|WD~Huifa_He,1636131]]"
+  - "[[_Standards/WikiData/WD~Hulan_River,1636246|WD~Hulan_River,1636246]]"
+  - "[[_Standards/WikiData/WD~Shaoling_He,10264076|WD~Shaoling_He,10264076]]"
+  - "[[_Standards/WikiData/WD~Chalin_He,10269061|WD~Chalin_He,10269061]]"
+  - "[[_Standards/WikiData/WD~Yinma_River,10566286|WD~Yinma_River,10566286]]"
+  - "[[_Standards/WikiData/WD~Lalin_He,11076991|WD~Lalin_He,11076991]]"
+  - "[[_Standards/WikiData/WD~Second_Songhua_River,14475750|WD~Second_Songhua_River,14475750]]"
+  - "[[_Standards/WikiData/WD~Nemor_River,15890775|WD~Nemor_River,15890775]]"
+  - "[[_Standards/WikiData/WD~Tangwang_He,16888721|WD~Tangwang_He,16888721]]"
+  - "[[_Standards/WikiData/WD~Mayi,16888878|WD~Mayi,16888878]]"
+  - "[[_Standards/WikiData/WD~Ashi_River,16888902|WD~Ashi_River,16888902]]"
+  - "[[_Standards/WikiData/WD~Q22101445,22101445|WD~Q22101445,22101445]]"
+origin_of_the_watercourse: "[[_Standards/WikiData/WD~Heaven_Lake,714023|WD~Heaven_Lake,714023]]"
+drainage_basin: "[[_Standards/WikiData/WD~Amur_basin,8240299|WD~Amur_basin,8240299]]"
 coordinate_location:
   - Point(127.223888888 42.727777777)
   - Point(132.517661111 47.706063888)
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Amur_River,6862]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Heilongjiang,19206]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Amur_River,6862|WD~Amur_River,6862]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Heilongjiang,19206|WD~Heilongjiang,19206]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 discharge: 2470
 watershed_area: 524000
 length: 1434
@@ -50,7 +50,7 @@ Wolfram_Language_entity_code:
 
 # [[Songhua_River]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Songhua_River,210326]] 
+#is_/same_as :: [[../../../../../../WikiData/WD~Songhua_River,210326|WD~Songhua_River,210326]] 
 
 ## #has_/text_of_/abstract 
 

@@ -5,9 +5,9 @@ aliases:
   - 華北平原
   - Huáběi Píngyuán
 has_id_wikidata: Q147304
-instance_of: "[[_Standards/WikiData/WD~plain,160091]]"
+instance_of: "[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]"
 coordinate_location: Point(117.16 36.58)
-country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 OmegaWiki_Defined_Meaning: "875040"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jinanfromqianfoshan.jpg
 ---
