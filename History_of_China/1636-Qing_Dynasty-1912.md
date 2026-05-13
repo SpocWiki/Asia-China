@@ -142,7 +142,7 @@ seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Qing%
 >
 > The Tongzhi Restoration in the 1860s brought vigorous reforms and the introduction of foreign military technology in the Self-Strengthening Movement. Defeat in the First Sino-Japanese War (1894–1895) led to loss of suzerainty over Korea and cession of Taiwan to the Empire of Japan. The ambitious Hundred Days' Reform in 1898 proposed fundamental change, but was poorly executed and terminated by the Empress Dowager Cixi (1835–1908) in the Wuxu Coup. In 1900, anti-foreign Boxers killed many Chinese Christians and foreign missionaries; in retaliation, the Eight-Nation Alliance invaded China and imposed a punitive indemnity. In response, the government initiated unprecedented fiscal and administrative reforms, including elections, a new legal code, and the abolition of the imperial examination system. Sun Yat-sen and revolutionaries debated reform officials and constitutional monarchists such as Kang Youwei and Liang Qichao over how to transform the Manchu-ruled empire into a modernised Han state. After the deaths of the Guangxu Emperor and Cixi in 1908, Manchu conservatives at court blocked reforms. The Wuchang Uprising on 10 October 1911 led to the Xinhai Revolution. The abdication of the Xuantong Emperor on 12 February 1912 brought the dynasty to an end.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Qing%20dynasty)
+> [Wikipedia](https://en.wikipedia.org/wiki/Qing%20dynasty) 
 
 
 ## Confidential Links & Embeds: 

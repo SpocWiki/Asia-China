@@ -27,7 +27,7 @@
 >
 > After a series of military campaigns against Goguryeo on the Korean peninsula, ended in defeat by 614, the dynasty disintegrated amid popular revolts that culminated in the assassination of Emperor Yang by a minister named Yuwen Huaji in 618. The dynasty, which lasted only 37 years, was undermined by ambitious wars and construction projects, which overstretched its resources. Particularly, under Emperor Yang, heavy taxation and compulsory labour duties would eventually induce widespread revolts and brief civil war following the fall of the dynasty.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Sui%20dynasty)
+> [Wikipedia](https://en.wikipedia.org/wiki/Sui%20dynasty) 
 
 
 ## Confidential Links & Embeds: 

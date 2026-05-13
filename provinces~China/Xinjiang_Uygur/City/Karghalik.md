@@ -28,7 +28,7 @@ coordinates: [[Karghalik]]
 markerFile: [[Karghalik]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

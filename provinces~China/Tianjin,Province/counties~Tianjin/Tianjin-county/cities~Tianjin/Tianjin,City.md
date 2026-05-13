@@ -196,7 +196,7 @@ defaultZoom: 11
 >
 > Tianjin is ranked as the 15th leading city in the world with the highest scientific research outputs and second in the North China region after Beijing. The municipality is also home to multiple institutes of higher education in Northern China, including Tianjin, Nankai, Tianjin Normal, Tianjin Medical, Tianjin Foreign Studies, Tiangong, Tianjin University of Science & Technology, Tianjin University of Technology, and Hebei University of Technology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tianjin)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Tianjin) 
 
 
 ## Confidential Links & Embeds: 

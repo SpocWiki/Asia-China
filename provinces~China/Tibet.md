@@ -143,7 +143,7 @@ markerFile: [[Tibet]]
 >
 > The current borders of the Tibet Autonomous Region were generally established in the 18th century and include about half of cultural Tibet, which was at times independent and at times under Yuan or Qing dynasty rule. The TAR spans more than 1,200,000 km2 (460,000 sq mi) and is the second-largest province-level division of China by area. Due to its harsh and rugged terrain, it has a total population of only 3.6 million people or approximately 3 inhabitants per square kilometre (7.8/sq mi).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tibet%20Autonomous%20Region)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tibet%20Autonomous%20Region) 
 
 
 ## Confidential Links & Embeds: 
