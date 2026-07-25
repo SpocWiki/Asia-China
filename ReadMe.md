@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 中华人民共和国
 dv_UNTERM_French_Formal: la République populaire de Chine
 dv_UNTERM_Russian: Китай
 dv_UNTERM_Russian_Formal: Китайская Народная Республика
-dv_Region_Name: "[[../../Asia|Asia]]"
+dv_Region_Name: "[[../../../Asia|Asia]]"
 dv_Intermediate_Region_Name: "[[China]]"
 dv_Sub-region_Name: "[[Eastern Asia]]"
 dv_Region: 142
@@ -52,7 +52,7 @@ dv_ISO2: CN
 dv_ISO3: CHN
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+    - "[[../../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
     - "[[/_Standards/Earth/Continent/Asia/Asia~East/China|China]]"
     - "[[/_public/Earth/Continent/Asia/Asia~East/China.public|China.public]]"
     - "[[/_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]]"
@@ -426,17 +426,17 @@ dv_has_:
 dv_has_name_de: China
 dv_Area-Total: 9571300
 dv_Area-Land: 9326410
-dv_has_place_continent: "[[../../Asia|Asia]]"
+dv_has_place_continent: "[[../../../Asia|Asia]]"
 dv_VehicleCode: CHN
-dv_Capital: "[[China/provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City|Beijing,City]]"
+dv_Capital: "[[provinces~China/Beijing,Province/counties~Beijing/Beijing,County/cities~Beijing/Beijing,City|Beijing,City]]"
 dv_Alcohol-l: 5.9
 dv_Language-Id: 485
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 117.985
 dv_has_place_latitude: 35.6637
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[../../../../../WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
   - "[[/_Standards/Earth/Continent/Asia/Asia~East/China|China]]"
   - "[[/_public/Earth/Continent/Asia/Asia~East/China.public|China.public]]"
   - "[[/_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]]"
@@ -837,7 +837,7 @@ demonym:
   - Síneach
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
@@ -1622,15 +1622,15 @@ Table of the 34 provincial-level divisions in China; numbers as of 2021-06
 | Provincial-Level Division                                                   |   Pop/M |   kkm² | GRP/TCNY | GRPpP/kCNY | HDI   | Notable Properties                                                                                                                                           |
 | --------------------------------------------------------------------------- | ------: | -----: | -------: | ---------: | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Anhui]]                                                                   |  61.340 |  139.4 |    4.290 |     69.938 | 0.780 | Known for historical sites and growing industries                                                                                                            |
-| [[China/provinces~China/Beijing,Province\|Beijing,Province]]                |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub                                                                                                                |
-| [[China/provinces~China/Chongqing,Province\|Chongqing,Province]]            |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix                                                                                                        |
+| [[provinces~China/Beijing,Province/|Beijing,Province]]                |  21.930 |   16.4 |    4.051 |    184.015 | 0.919 | Political center, cultural and scientific hub                                                                                                                |
+| [[provinces~China/Chongqing,Province/|Chongqing,Province]]            |  32.050 |   82.4 |    2.592 |     80.184 | 0.814 | Major manufacturing base, significant urban-rural mix                                                                                                        |
 | [[Fujian]]                                                                  |  41.540 |  121.4 |    5.000 |    120.362 | 0.815 | Coastal province, growing industries and trade                                                                                                               |
 | [[Gansu]]                                                                   |  25.200 |  425.8 |    1.000 |     39.683 | 0.720 | Rich in mineral resources but economically less developed                                                                                                    |
 | [[Guangdong]]                                                               | 126.010 |  179.8 |   12.436 |     98.987 | 0.848 | Economic powerhouse, technological and manufacturing hub                                                                                                     |
 | [[Guangxi]] Zhuang                                                          |  50.020 |  236.7 |    2.484 |     50.508 | 0.766 | Rich cultural diversity, growing tourism sector                                                                                                              |
 | [[Guizhou]]                                                                 |  38.380 |  176.2 |    1.900 |     49.523 | 0.718 | Known for ethnic diversity and natural beauty                                                                                                                |
 | [[Hainan]]                                                                  |  10.200 |   33.9 |    0.636 |     62.352 | 0.780 | Tropical climate, rapidly developing tourism                                                                                                                 |
-| [[Hebei]]                                                                   |  75.210 |  188.8 |    4.192 |     55.727 | 0.776 | Industrial base, surrounded by [[China/provinces~China/Beijing,Province\|Beijing,Province]] and [[China/provinces~China/Tianjin,Province\|Tianjin,Province]] |
+| [[Hebei]]                                                                   |  75.210 |  188.8 |    4.192 |     55.727 | 0.776 | Industrial base, surrounded by [[provinces~China/Beijing,Province/|Beijing,Province]] and [[provinces~China/Tianjin,Province/|Tianjin,Province]] |
 | [[Heilongjiang]]                                                            |  31.850 |  473.0 |    1.300 |     40.823 | 0.766 | Known for agriculture and resources                                                                                                                          |
 | [[Henan]]                                                                   |  99.280 |  167.0 |    6.000 |     60.429 | 0.774 | Historically significant, large population center                                                                                                            |
 | [[Hubei]]                                                                   |  58.900 |  185.9 |    5.000 |     85.000 | 0.796 | Key economic and transport hub                                                                                                                               |
@@ -1644,16 +1644,16 @@ Table of the 34 provincial-level divisions in China; numbers as of 2021-06
 | [[Qinghai]]                                                                 |   5.990 |  720.0 |    0.300 |     50.083 | 0.743 | Sparse population, rich in mineral resources                                                                                                                 |
 | [[Shaanxi]]                                                                 |  39.530 |  205.6 |    3.245 |     82.121 | 0.790 | Historically rich, rapid economic development                                                                                                                |
 | [[Shandong]]                                                                | 101.530 |  157.1 |    8.946 |     88.146 | 0.812 | Industrial and agricultural strength                                                                                                                         |
-| [[Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai\|Shanghai]] |  24.870 |    6.3 |    4.320 |    173.872 | 0.932 | Financial center, major economic dynamo                                                                                                                      |
+| [[../Earth/Continent/Asia/Asia~East/China/provinces~China/Shanghai/|Shanghai]] |  24.870 |    6.3 |    4.320 |    173.872 | 0.932 | Financial center, major economic dynamo                                                                                                                      |
 | [[Shanxi]]                                                                  |  34.860 |  156.7 |    2.020 |     57.951 | 0.764 | Rich in coal, strong industrial base                                                                                                                         |
 | [[Sichuan]]                                                                 |  84.300 |  485.0 |    5.385 |     64.232 | 0.790 | Agricultural powerhouse, growing manufacturing sector                                                                                                        |
-| [[China/provinces~China/Tianjin,Province\|Tianjin,Province]]                |  13.960 |   11.7 |    1.562 |    112.535 | 0.890 | Major port city, rapid economic growth                                                                                                                       |
+| [[provinces~China/Tianjin,Province/|Tianjin,Province]]                |  13.960 |   11.7 |    1.562 |    112.535 | 0.890 | Major port city, rapid economic growth                                                                                                                       |
 | [[Tibet]] (Xizang)                                                          |   3.650 | 1228.4 |    0.200 |     56.164 | 0.586 | Rich cultural heritage, located on the Tibetan Plateau                                                                                                       |
 | [[Xinjiang_Uygur\|Xinjiang Uyghur]]                                         |  25.950 | 1664.9 |    1.485 |     58.134 | 0.668 | Diverse ethnic cultures, significant energy resources                                                                                                        |
 | [[Yunnan]]                                                                  |  48.300 |  394.0 |    2.600 |     56.254 | 0.748 | Known for biodiversity and ethnic diversity                                                                                                                  |
 | [[Zhejiang]]                                                                |  64.760 |  105.5 |    7.350 |    113.444 | 0.824 | Rapidly growing economy, significant industrial base                                                                                                         |
-| [[China/provinces~China/Guangdong/Hong_Kong\|Hong Kong]]                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region                                                                                                              |
-| [[Earth/Continent/Asia/Asia~East/China/Macau\|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income                                                                                                      |
+| [[provinces~China/Guangdong/Hong_Kong/|Hong Kong]]                    |   7.480 |    1.1 |    2.870 |    383.418 | 0.949 | Major financial hub, autonomous economic region                                                                                                              |
+| [[../Earth/Continent/Asia/Asia~East/China/Macau/|Macau]]                       |    .680 |     .1 |    0.366 |    537.629 | 0.922 | Renowned for gaming and tourism, high per capita income                                                                                                      |
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -1726,7 +1726,7 @@ is_a = `=this.dv_is_a_`
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-China)
-into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[China/ReadMe|ReadMe]] 
+into a Subfolder named `China`, so that this Link into the Sub-Repository works: [[ReadMe|ReadMe]] 
 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
@@ -1751,7 +1751,7 @@ defaultZoom: 4
 
 ```leaflet
 id: China_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1778,7 +1778,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_China.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-China.mp3|Anthem-China.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-China.mp3|Anthem-China.mp3]]
 ![[Flag_of_China.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
