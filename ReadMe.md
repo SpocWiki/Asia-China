@@ -1898,17 +1898,17 @@ in 2026 more than 900 million Chinese live below 10$ per day.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China|China]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/China/ReadMe|ReadMe]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China.public|China.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/China/ReadMe.public|ReadMe.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China.internal|China.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/China/ReadMe.internal|ReadMe.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China.protect|China.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/China/ReadMe.protect|ReadMe.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China.private|China.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/China/ReadMe.private|ReadMe.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China.personal|China.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/China/ReadMe.personal|ReadMe.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China.secret|China.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/China/ReadMe.secret|ReadMe.secret]] 
 
